@@ -1,3 +1,5 @@
+### It has tobe regex cause kinesis doesn't send JSON
+### it sends raw text so now quotations etc
 from flink_feature_engineering.models import Transaction
 
 def parse_transaction(raw):
