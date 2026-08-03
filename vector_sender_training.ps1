@@ -1,6 +1,6 @@
 $eventNumber = 1
 Import-Csv .\paysim_shuffled.csv -Header step,type,amount,nameOrig,oldbalanceOrg,newbalanceOrig,nameDest,oldbalanceDest,newbalanceDest,isFraud,isFlaggedFraud |
-Select-Object -Skip 1 -First 50000 | ForEach-Object{
+Select-Object -Skip 1 -First 10 | ForEach-Object{
 $txn = @{
 
     event_number = $eventNumber

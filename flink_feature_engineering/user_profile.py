@@ -3,7 +3,7 @@ from dataclasses import dataclass, field
 
 from typing import Deque, Dict, Optional
 
-from config import MAX_HISTORY, RECENT_WINDOW_MS
+from flink_feature_engineering.config import MAX_HISTORY, RECENT_WINDOW_MS
 from flink_feature_engineering.models import Transaction, TransactionSummary, FeatureVector
 
 @dataclass
