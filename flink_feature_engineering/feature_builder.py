@@ -3,7 +3,7 @@
 from flink_feature_engineering.models import Transaction, FeatureVector
 from flink_feature_engineering.user_profile import UserProfile
 
-from feature_math import (
+from flink_feature_engineering.feature_math import (
     compute_average,
     compute_standard_deviation,
     compute_velocity,
