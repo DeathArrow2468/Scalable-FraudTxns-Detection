@@ -1,6 +1,6 @@
 $eventNumber = 1
-Import-Csv .\paysim_shuffled.csv -Header step,type,amount,nameOrig,oldbalanceOrg,newbalanceOrig,nameDest,oldbalanceDest,newbalanceDest,isFraud,isFlaggedFraud |
-Select-Object -Skip 1 -First 10 | ForEach-Object{
+Import-Csv .\paysim_shuffled.csv |
+Select-Object -First 1 | ForEach-Object{
 $txn = @{
 
     event_number = $eventNumber
@@ -16,7 +16,7 @@ $txn = @{
     oldbalanceDest = [double]$_.oldbalanceDest
     newbalanceDest = [double]$_.newbalanceDest
     timestamp = [int64]((Get-Date).ToUniversalTime() - (Get-Date "1970-01-01")).TotalMilliseconds
-    #isFraud = [int]$_.isFraud
+    isFraud = [int]$_.isFraud
 }
 
 $jsonTxn = $txn | ConvertTo-Json -Compress
@@ -26,11 +26,13 @@ if ([string]::IsNullOrWhiteSpace($jsonTxn)){
     return
 }
 
+Write-Host $jsonTxn
+
 aws kinesis put-record --stream-name fraud-txns --partition-key $txn.nameOrig --data $jsonTxn --cli-binary-format raw-in-base64-out
 
 Write-Host "Sending Event #$eventNumber : $($txn.nameOrig) -> $($txn.nameDest)"
 
 $eventNumber++
 
-Start-Sleep -Milliseconds 100 # 10 txns/sec
+Start-Sleep -Milliseconds 20 # x txns/sec
 }
