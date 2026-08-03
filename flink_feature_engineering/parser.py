@@ -1,12 +1,13 @@
 import json
+import sys
 from flink_feature_engineering.models import Transaction
 
 def parse_transaction(raw_json):
 
-    print("=" * 80, flush=True)
-    print("TYPE:", type(raw_json), flush=True)
-    print("RAW :", repr(raw_json), flush=True)
-    print("=" * 80, flush=True)
+    sys.stdout.write("=" * 80 + "\n")
+    sys.stdout.write(str(type(raw_json)) + "\n")
+    sys.stdout.write(repr(raw_json) + "\n")
+    sys.stdout.flush()
 
     if isinstance(raw_json, bytes):
         raw_json = raw_json.decode("utf-8")
