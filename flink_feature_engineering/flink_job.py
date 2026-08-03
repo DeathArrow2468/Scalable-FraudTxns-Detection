@@ -11,8 +11,8 @@ from flink_feature_engineering.feature_engine import FeatureEngine
 def main():
     env = StreamExecutionEnvironment.get_execution_environment() # Runtime
 
-    env.add_jars("file:///home/ec2-user/flink-2.3.0/lib/flink-connector-kinesis-5.1.0-1.20.jar"
-                )
+    # env.add_jars("file:///home/ec2-user/flink-2.3.0/lib/flink-connector-kinesis-5.1.0-1.20.jar"
+    #             )
     env.set_parallelism(1) # env is where everything occurs, (x) x is the number of CPUs you are using
     #### It's set to one cause there is only one shard of incomeing data froom Kinesis
 
