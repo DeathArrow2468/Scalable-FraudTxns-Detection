@@ -36,7 +36,7 @@ def main():
                 .process(FeatureEngine()) # Every tranaction is now sent to Feature Engine where updates, feature vector building etc. happen
                 )
 
-    ####### For debugging remove in PROD! ###########
+    ####### For debugging/training remove in PROD! ###########
     features.print()
     #################################################
 

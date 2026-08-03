@@ -22,5 +22,5 @@ def parse_transaction(raw_json: str) -> Transaction:
         oldbalanceDest = float(data["oldbalanceDest"]),
         newbalanceDest = float(data["newbalanceDest"]),
 
-        timestamp = int(data["timestamp"])
+        timestamp = int(data["timestamp"]),
     )
