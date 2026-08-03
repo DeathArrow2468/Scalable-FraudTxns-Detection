@@ -22,7 +22,7 @@ def main():
         {
             "aws.region": AWS_REGION
         }  
-
+    )
     ds = env.add_source(consumer) # data stream, this is the point where the kinesis stream is taken in
 
     transactions = ds.map(  # Converts the string to tranaction class's format
