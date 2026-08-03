@@ -1,7 +1,7 @@
 $eventNumber = 1
 
 Import-Csv .\paysim_shuffled.csv |
-Select-Object -First 1 | ForEach-Object {
+Select-Object -First 10 | ForEach-Object {
 
     $txn = @{
         event_number    = $eventNumber
