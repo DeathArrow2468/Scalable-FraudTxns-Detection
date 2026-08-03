@@ -4,7 +4,7 @@ from pyflink.datastream.connectors.kinesis import FlinkKinesisConsumer
 from pyflink.common.serialization import SimpleStringSchema
 from pyflink.common.typeinfo import Types
 
-from flink_feature_engineering.config import INPUT_STREAM
+from flink_feature_engineering.config import INPUT_STREAM, AWS_REGION
 from flink_feature_engineering.parser import parse_transaction
 from flink_feature_engineering.feature_engine import FeatureEngine
 
@@ -19,8 +19,9 @@ def main():
     consumer = FlinkKinesisConsumer(    # Makes the connection to kinesis
         INPUT_STREAM,   # Stream name
         SimpleStringSchema(),   # Kinesis stores in bytes we want it in string
-        {}  # EC2 credentials when left empty it'll default to the attached role
-    )
+        {
+            "aws.region": AWS_REGION
+        }  
 
     ds = env.add_source(consumer) # data stream, this is the point where the kinesis stream is taken in
 
