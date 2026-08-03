@@ -1,7 +1,7 @@
 ######## Builds and returns a Feature vector that is ready to be fed to a ML model
 ######## Function calls for compute to keep the code clean
-from models import Transaction, FeatureVector
-from user_profile import UserProfile
+from flink_feature_engineering.models import Transaction, FeatureVector
+from flink_feature_engineering.user_profile import UserProfile
 
 from feature_math import (
     compute_average,

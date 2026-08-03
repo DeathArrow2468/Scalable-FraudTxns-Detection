@@ -4,9 +4,9 @@ from pyflink.datastream.connectors.kinesis import FlinkKinesisConsumer
 from pyflink.common.serialization import SimpleStringSchema
 from pyflink.common.typeinfo import Types
 
-from config import INPUT_STREAM
-from parser import parse_transaction
-from feature_engine import FeatureEngine
+from flink_feature_engineering.config import INPUT_STREAM
+from flink_feature_engineering.parser import parse_transaction
+from flink_feature_engineering.feature_engine import FeatureEngine
 
 def main():
     env = StreamExecutionEnvironment.get_execution_environment()    # Flink runtime

@@ -4,7 +4,7 @@ from dataclasses import dataclass, field
 from typing import Deque, Dict, Optional
 
 from config import MAX_HISTORY, RECENT_WINDOW_MS
-from models import Transaction, TransactionSummary, FeatureVector
+from flink_feature_engineering.models import Transaction, TransactionSummary, FeatureVector
 
 @dataclass
 class RunningStatistics:

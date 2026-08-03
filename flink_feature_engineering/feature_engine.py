@@ -3,8 +3,8 @@
 from pyflink.datastream.functions import KeyedProcessFunction, RuntimeContext
 from pyflink.datastream.state import ValueStateDescriptor
 from pyflink.common.typeinfo import Types
-from user_profile import UserProfile
-from feature_builder import FeatureBuilder
+from flink_feature_engineering.user_profile import UserProfile
+from flink_feature_engineering.feature_builder import FeatureBuilder
 from train_dataset_maker.jsonl_writer import JsonlWriter
 
 class FeatureEngine(KeyedProcessFunction):

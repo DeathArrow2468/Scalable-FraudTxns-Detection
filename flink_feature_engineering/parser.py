@@ -1,6 +1,6 @@
 ###### Converts incoming json to our txn object
 import json
-from models import Transaction
+from flink_feature_engineering.models import Transaction
 
 def parse_transaction(raw_json: str) -> Transaction:
     data = json.loads(raw_json)
