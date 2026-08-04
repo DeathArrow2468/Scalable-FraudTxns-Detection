@@ -31,3 +31,7 @@ assert merged["event_number"].is_unique
 merged.to_csv(OUTPUT_PATH, index=False)
 
 print(f"\nSaved successfully to:\n{OUTPUT_PATH}")
+
+print((merged["type_x"] != merged["type_y"]).sum())
+
+print((merged["amount_x"] != merged["amount_y"]).sum())
