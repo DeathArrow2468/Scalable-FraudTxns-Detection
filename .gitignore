@@ -5,3 +5,4 @@ archive (1).zip
 kinesis-producer-local_accessKeys.csv
 __pycache__/
 *.pyc
+train_data/
