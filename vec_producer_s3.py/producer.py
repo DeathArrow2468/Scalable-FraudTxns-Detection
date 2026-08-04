@@ -10,8 +10,8 @@ import pandas as pd
 # ==========================
 
 BUCKET_NAME = "fraud-txns-detection"
-CSV_KEY = "paysim_shuffled.csv"      # Change if stored inside a folder
-LOCAL_FILE = "dataset/paysim_shuffled.csv"
+CSV_KEY = "dataset/paysim_shuffled.csv"      # Change if stored inside a folder
+LOCAL_FILE = "paysim_shuffled.csv"
 
 STREAM_NAME = "fraud-txns"
 
