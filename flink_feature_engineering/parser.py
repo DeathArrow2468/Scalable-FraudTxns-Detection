@@ -9,7 +9,8 @@ def parse_transaction(raw):
 
     for item in raw.split(","):
         k, v = item.split(":", 1)
-        data[k.strip()] = v.strip()
+        data[k.strip().strip('"')] = v.strip().strip('"')
+        # data[k.strip()] = v.strip()
 
     return Transaction(
         event_number=int(data["event_number"]),
