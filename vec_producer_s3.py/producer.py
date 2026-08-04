@@ -84,7 +84,6 @@ for event_number, row in enumerate(records, start=1):
 
     if event_number % 1000 == 0:
         print(f"Sent {event_number} records")
-
-    time.sleep(DELAY)
+        time.sleep(DELAY)
 
 print("\nFinished sending 50,000 records.")
