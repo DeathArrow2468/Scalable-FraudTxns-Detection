@@ -11,7 +11,7 @@ import pandas as pd
 
 BUCKET_NAME = "fraud-txns-detection"
 CSV_KEY = "paysim_shuffled.csv"      # Change if stored inside a folder
-LOCAL_FILE = "paysim_shuffled.csv"
+LOCAL_FILE = "dataset/paysim_shuffled.csv"
 
 STREAM_NAME = "fraud-txns"
 
@@ -22,8 +22,8 @@ DELAY = 0.02
 
 # ==========================
 
-s3 = boto3.client("s3")
-kinesis = boto3.client("kinesis")
+s3 = boto3.client("s3", region_name='ap-south-1')
+kinesis = boto3.client("kinesis", region_name='ap-south-1')
 
 
 print("Downloading dataset from S3...")
