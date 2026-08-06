@@ -14,70 +14,106 @@ class Heading:
 class HeadingDetector:
 
     CHAPTER = re.compile(r"^CHAPTER\s+[IVXLC]+$", re.IGNORECASE)
+
     ANNEXURE = re.compile(r"^ANNEXURE(\s+[A-Z0-9IVXLC]+)?$", re.IGNORECASE)
 
     SECTION = re.compile(r"^\d+\.$")
+
     SUBSECTION = re.compile(r"^\d+\.\d+$")
+
     SUBSUBSECTION = re.compile(r"^\d+\.\d+\.\d+$")
+
+    @staticmethod
+    def _is_heading(line: str) -> bool:
+
+        return (
+            HeadingDetector.CHAPTER.match(line)
+            or HeadingDetector.ANNEXURE.match(line)
+            or HeadingDetector.SECTION.match(line)
+            or HeadingDetector.SUBSECTION.match(line)
+            or HeadingDetector.SUBSUBSECTION.match(line)
+        )
 
     @staticmethod
     def detect(lines: list[str], index: int) -> Optional[Heading]:
 
         line = lines[index].strip()
 
-        # -----------------------------
-        # Detect type
-        # -----------------------------
+        if not line:
+            return None
+
+        # ------------------------
+        # RBI style headings
+        # ------------------------
 
         if HeadingDetector.CHAPTER.match(line):
-            heading_type = "chapter"
-            level = 0
-            number = line
+            return Heading(
+                type="chapter",
+                level=0,
+                number=line,
+                title=lines[index + 1] if index + 1 < len(lines) else ""
+            )
 
-        elif HeadingDetector.ANNEXURE.match(line):
-            heading_type = "annexure"
-            level = 0
-            number = line
+        if HeadingDetector.ANNEXURE.match(line):
+            return Heading(
+                type="annexure",
+                level=0,
+                number=line,
+                title=lines[index + 1] if index + 1 < len(lines) else ""
+            )
 
-        elif HeadingDetector.SUBSUBSECTION.match(line):
-            heading_type = "subsubsection"
-            level = 3
-            number = line
+        if HeadingDetector.SUBSUBSECTION.match(line):
+            return Heading(
+                type="subsubsection",
+                level=3,
+                number=line,
+                title=lines[index + 1] if index + 1 < len(lines) else ""
+            )
 
-        elif HeadingDetector.SUBSECTION.match(line):
-            heading_type = "subsection"
-            level = 2
-            number = line
+        if HeadingDetector.SUBSECTION.match(line):
+            return Heading(
+                type="subsection",
+                level=2,
+                number=line,
+                title=lines[index + 1] if index + 1 < len(lines) else ""
+            )
 
-        elif HeadingDetector.SECTION.match(line):
-            heading_type = "section"
-            level = 1
-            number = line
+        if HeadingDetector.SECTION.match(line):
+            return Heading(
+                type="section",
+                level=1,
+                number=line.rstrip("."),
+                title=lines[index + 1] if index + 1 < len(lines) else ""
+            )
 
-        else:
-            return None
-        
-        ### Get title
-        title = ""
+        # ------------------------
+        # Generic document headings
+        # ------------------------
 
-        if index + 1 < len(lines):
+        # Single reasonably short line
+        if (
+            len(line) < 120
+            and not line.endswith(".")
+            and ":" not in line
+        ):
 
-            next_line = lines[index + 1].strip()
+            # next line exists
+            if index + 1 < len(lines):
 
-            # Only treat it as a title if it isn't another heading
-            if (
-                next_line
-                and not HeadingDetector.CHAPTER.match(next_line)
-                and not HeadingDetector.ANNEXURE.match(next_line)
-                and not HeadingDetector.SECTION.match(next_line)
-                and not HeadingDetector.SUBSECTION.match(next_line)
-                and not HeadingDetector.SUBSUBSECTION.match(next_line)
-            ):
-                title = next_line
+                nxt = lines[index + 1].strip()
 
-        return Heading(
-            type=heading_type,
-            level=level,
-            number=number if heading_type!="section" else number.rstrip("."),
-            title=title
-        )
+                # next line should NOT itself be a heading
+                if (
+                    nxt
+                    and not HeadingDetector._is_heading(nxt)
+                    and len(nxt) > len(line)
+                ):
+
+                    return Heading(
+                        type="generic",
+                        level=1,
+                        number="",
+                        title=line
+                    )
+
+        return None

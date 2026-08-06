@@ -1,0 +1,736 @@
+{
+    "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "86073828-2833-47e9-b4c8-43f3dc85562e",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 0,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "UPI fraud surged 85% in FY 2023-24, reaching Rs 1,087 crore in losses, making robust risk scoring non-negotiable for businesses accepting digital payments in India.\nRBI’s three-tier risk classification – Simplified Due Diligence (SDD), Customer Due Diligence (CDD), and Enhanced Due Diligence (EDD).\nDoT’s Financial Fraud Risk Indicator (FRI) classifies mobile numbers into Medium, High, or Very High risk, enabling platforms to flag suspicious UPI transactions before completion.\nDomestic payment fraud volume rose to 15.51 lakh cases in the six months ending March 2024, up from 11.5 lakh previously.\nRBI’s final guidelines effective April 1, 2026 allow issuers to apply additional risk-based checks beyond standard two-factor authentication .\nNPCI is piloting AI models that assign risk scores based on transaction history and behavioral patterns, signaling the shift toward predictive fraud prevention."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "b2e4334a-e363-40d8-9a5c-da2bf3897f1a",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 1,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Before building a risk scoring system, businesses must understand the foundational components driving accurate assessment in India’s payments landscape."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "b8e8add3-c77e-435a-9632-998c926e1954",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 2,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Traditional credit scoring built on CIBIL data and static bureau records  serves lending decisions but falls short for payment risk. Payment risk assessment operates in real time, analyzing behavioral signals and device-level data at the moment of payment. Many Indian customers lack formal credit history, making traditional scoring irrelevant. Manual processes can take 7-15 days for onboarding, causing drop-off that modern payment platforms eliminate."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c895daa3-a680-4c59-955d-9ec636f2fa22",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 3,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "RBI Master Directions on KYC, updated June 12, 2025, mandate a three-tier risk categorization that every compliant payment processor must implement."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "cc9a940b-9ac2-4477-b9fd-18d46364e9a0",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 4,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "SDD applies to low-risk customers – government employees and small-balance accounts. Verification requirements are reduced, allowing streamlined onboarding with minimal documentation."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "2a780fba-1fe8-4bfd-a6ca-f8d53bc3aadf",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 5,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "EDD targets PEPs, cash-intensive businesses, and cross-border participants. It mandates source-of-funds documentation, senior management approval, and elevated monitoring frequency."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "02607255-c010-4a56-9b3b-73ac1edb7292",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 6,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "India Stack provides identity verification infrastructure powering real-time KYC. Key integration points include Aadhaar-PAN linking for identity deduplication, GSTN verification for business legitimacy, and the Account Aggregator framework for consent-based data access. India’s fintech market is projected to grow to ₹36.47 lakh crore by 2029, with UPI infrastructure at the center."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "2d595b2d-35df-4a31-8520-f81c660b7b2b",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 7,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "With foundational components in place, real-time techniques form the “how” of modern risk scoring."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c7fc8b6c-40cd-48aa-b764-547d9c872dde",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 8,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "ML models trained on Indian transaction data identify region-specific fraud patterns that rule-based systems miss. Training data must reflect festival spending spikes, agricultural income cycles, and UPI-specific patterns. NPCI is testing AI models to assign risk scores based on transaction history. Razorpay’s smart routing capability helps direct transactions through optimal paths, complementing ML-based risk scoring by reducing failed transactions requiring manual review."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "05ab4ada-7c0c-4355-8d69-9b57b7b011ac",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 9,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Behavioral scoring builds dynamic risk profiles by analyzing transaction velocity, device fingerprints, and spending patterns. Deviations – sudden high-value transactions or unusual geographic patterns – trigger alerts. Fraud volume rose to 15.51 lakh cases in March 2024, making seasonal adjustment essential."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c918dfec-e6b3-45ac-a452-b18c0d083227",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 10,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "DoT’s FRI classifies mobile numbers as Medium, High, or Very High risk based on cybercrime reports from I4C’s National Cybercrime Reporting Portal and Chakshu platform. Payment platforms integrating FRI data can flag suspicious UPI transactions before completion – adding a telecom-level fraud layer that traditional models lack."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "838b809b-42ce-488c-a162-fbf93b519884",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 11,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Razorpay’s payment platform is built to help businesses manage transaction risk across India’s complex digital payment landscape. By combining routing intelligence, fraud detection, and compliance tools, Razorpay enables layered risk scoring without building every component from scratch.\nSmart Transaction Routing and Fraud Detection: Razorpay’s smart routing directs transactions through optimal payment paths, helping reduce failed transactions. The platform includes fraud detection tools that monitor transactions and flag anomalies based on behavioral analysis – covering UPI, cards, wallets, and netbanking.\nAutomated Compliance Monitoring: Razorpay provides automated reporting features designed to help businesses meet RBI and regulatory requirements, reducing manual compliance overhead.\nDeveloper-Friendly Risk Management APIs: Razorpay offers APIs allowing businesses to build custom risk management workflows and integrate fraud prevention into existing systems, enabling composite assessment tailored to specific risk profiles.\nRisk scoring in Indian payments demands a platform that evolves with regulatory changes – explore Razorpay’s payment gateway to see these capabilities in action."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "158177b9-da6b-411e-9b0e-4b3bb24659dd",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 12,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Compliance is the non-negotiable foundation of any risk scoring system in India."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "8d870bad-f00d-49f5-836a-110471e0bf1e",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 13,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "PMLA mandates customer due diligence, suspicious transaction reporting to FIU-IND, and record-keeping that shapes risk scoring design. RBI’s guidelines effective April 1, 2026 allow additional risk-based checks beyond standard 2FA."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3baa7319-1923-4cd3-9a79-cc87e22ee4b4",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 14,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Updated RBI Master Directions on KYC, revised June 12, 2025, mandate specific risk categorization methodologies and technology standards for digital verification. These are living documents requiring continuous monitoring. Razorpay’s automated compliance reporting features help generate regulatory documentation aligned with RBI requirements."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "0309a3a5-44c2-4274-bd5c-38eaa42c08f5",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 15,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Regulators expect comprehensive audit trails – transaction logs, risk assessment records, and STR filings. RBI imposed a ₹5 crore penalty on a major bank for KYC/AML non-compliance, demonstrating enforcement carries real consequences."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "5af79302-9abe-418e-99ee-a94590a6be0a",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 16,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Different payment methods carry different risk profiles – effective prevention requires India-specific strategies."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "2f5609d9-58b7-45b9-a3fd-4002c470024a",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 17,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "UPI fraud rose 85% in FY 2023-24, reaching Rs 1,087 crore. Common vectors include collect request scams, QR code manipulation, and social engineering. Mitigation includes FRI integration, velocity limits, and behavioral analysis. UPI platforms must also account for NPCI’s directive on P2P collect request flows."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "0529892c-e3c0-4021-a28d-ce0ab7c0c5a1",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 18,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Card-not-present fraud is addressed through tokenization, 3D Secure authentication, and PCI DSS compliance. RBI’s risk-based authentication guidelines effective April 2026 allow additional checks beyond 2FA, enabling payment gateways to apply friction proportional to risk."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1140b2f8-3ed8-47a0-819d-f0ef3de2d39b",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 19,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Cross-border transactions introduce currency conversion fraud, sanctions screening, and FEMA compliance. Risk scoring for international payments requires data inputs beyond domestic analysis, including adverse media screening and cross-jurisdictional regulatory mapping."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "0bcf47ac-b253-4161-a9c1-ab42208cc312",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 20,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "One-size-fits-all risk scoring fails – different business types require calibrated models."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "dbe952e4-d986-4fff-aee8-f1472738134f",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 21,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Marketplaces face dual-sided risk: buyer fraud and seller fraud. Risk scoring for platforms and marketplaces must assess both profiles simultaneously. With domestic frauds up 70.64% to INR 2,604 crore, single-dimension scoring is insufficient."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "da31b31f-c749-4efe-a5b9-25d429769ad3",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 22,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Assessing SMEs lacking credit history requires alternative data – GST filings, utility payments, and UPI transaction patterns. Models must account for seasonal cash flow patterns common in Indian SMEs. India’s fintech growth depends on payment solutions serving this segment.\nPro Tip: Use alternative data sources like GST filings and UPI transaction patterns for customers without credit history, enabling assessment for businesses invisible to credit bureaus."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "7e829e38-66de-4219-835a-7523eead04a8",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 23,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "International merchants entering India face RBI data localization mandates, tokenization rules, and 2FA regulations. Risk scoring must account for cross-jurisdictional compliance gaps, and international payment acceptance requires mapping foreign profiles against Indian regulatory expectations."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "5ebf71b9-2340-4295-ae3b-67404d2f8724",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 24,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "This section covers how to integrate risk scoring technology into existing payment infrastructure."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "8f3808dc-b6ed-4701-9962-6528d9499116",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 25,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "API-first integration connects risk scoring engines with payment gateways, identity services, and government databases. Real-time API calls are essential – delays of seconds can allow fraudulent transactions to complete. Razorpay provides developer-friendly APIs that allow businesses to integrate risk management workflows directly into existing infrastructure."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "19ae0dee-6b65-48f5-b9bb-716e12d20c5c",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 26,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Effective monitoring includes transaction-level alerts, threshold-based triggers, and escalation workflows. Systems must handle India-specific patterns – festival volume spikes, salary disbursement surges – without excessive false positives."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "6c4bfea8-723a-4080-8b91-01b4a6517f4b",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 27,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Risk scoring must balance fraud prevention data collection with privacy obligations under the Digital Personal Data Protection Act, PCI DSS compliance, and RBI’s data localization mandates."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "277feb77-e459-46d6-a2f7-9394ab562ec6",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 28,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Risk scoring is never “done” – continuous measurement separates effective systems from static ones."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "ff64dd53-c4a4-4f1c-9485-0441b9d4fbfd",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 29,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Core KPIs include fraud detection rate, false positive rate, chargeback ratio, and time-to-detection. Each connects to business outcomes: fraud rate impacts revenue, false positives hurt conversion, and compliance KPIs determine regulatory standing."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "09476ad4-f4d2-4f9b-9a16-a1fac0c50718",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 30,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "RBI imposed a ₹5 crore penalty on a major bank for KYC/AML non-compliance, highlighting enforcement risks beyond monetary fines."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "5bade725-3fac-4a17-b6c0-cc8af6d88d87",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 31,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "High false positive rates block legitimate transactions and erode revenue. Reduction techniques include model retraining with feedback loops, multi-factor scoring combining behavioral and identity signals, and contextual analysis for Indian market patterns like festival spending surges."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "b7abca6b-5fb1-4784-b76a-3780f1724297",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 32,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Transaction outcomes – confirmed fraud, false positives, successful transactions – must feed back into model training. Regular validation against evolving fraud patterns and RBI’s April 2026 guidelines ensures risk scoring systems remain effective."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "a75d86b9-cdbb-49f4-ac81-e315942d4004",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 33,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Razorpay integrates risk management capabilities across the entire transaction lifecycle, helping businesses protect revenue while maintaining compliance."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "a545c569-e681-4cad-9087-2e6bef7f1642",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 34,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Smart Routing\tDirects transactions through optimal payment paths to help reduce failures"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "b2d627ff-7b17-4179-a694-c487ebec75c6",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 35,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Compliance Automation\tProvides automated reporting tools for RBI and regulatory requirements\nAPI Integration\tDeveloper-friendly tools for building custom risk management workflows\nMulti-layered Security\tPCI DSS Level 1 compliant platform with encryption protocols"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c5aedd0b-f1f1-4628-9936-084ca6c1bc17",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 36,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Scale your business with a gateway that supports 100+ payment methods, including UPI, Credit Cards, and Netbanking. Transition to a reliable infrastructure designed to improve transaction success rates and automate your daily reconciliation.\nGet Started with Razorpay"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3ca01942-b019-472e-9e5e-9ac0ffa2c711",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 37,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Effective risk scoring in Indian payments requires deep understanding of RBI’s regulatory framework, real-time assessment techniques, and technology purpose-built for India’s digital payment landscape. Success depends on balancing compliance with user experience – overly aggressive prevention blocks legitimate customers, while lax controls invite losses.\nThe scale of opportunity and risk is immense. India’s fintech market is projected to grow to ₹36.47 lakh crore by 2029, yet UPI fraud surged 85% in a single year. Businesses investing in multi-layered risk scoring – combining RBI’s framework, DoT’s FRI, ML-based analysis, and continuous improvement – will capture growth while protecting revenue.\nThe next generation of risk scoring will be defined by AI-driven predictive models, federated scoring, and real-time telecom fraud signals. Businesses building these capabilities today will lead tomorrow."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "8e57da5c-e55a-48e0-8c90-2b7c40f8fd37",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 38,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Risk scoring evaluates the likelihood of a transaction being fraudulent or non-compliant. It uses transaction patterns, identity verification, behavioral analysis, and regulatory signals like DoT’s FRI to assign risk levels. This score determines whether a transaction is approved, flagged, or blocked."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "63d92aa1-e48e-45ed-816b-025dde7797c0",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 39,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "RBI mandates three due diligence levels: Simplified Due Diligence for low-risk customers, Basic KYC for standard customers, and Enhanced Due Diligence for high-risk entities including PEPs and cash-intensive businesses. Each tier requires progressively more verification and monitoring."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "2a2f1168-f221-41f5-b97c-3e85eb42ad7e",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 40,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "DoT’s FRI classifies mobile numbers as Medium, High, or Very High risk based on cybercrime reports from I4C’s portal and Chakshu platform. Payment platforms integrate FRI data to flag transactions linked to high-risk numbers before completion."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "6f91e058-6731-42b6-ba7a-5d7fb8141ba4",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 41,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Common patterns include UPI collect request scams, QR code manipulation, SIM swap fraud, phishing via fake support, and card-not-present fraud. UPI fraud rose 85% in FY 2023-24 to Rs 1,087 crore, requiring multi-layered detection."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c33adea9-11e7-4bc4-994d-7d6d3b07b488",
+                "document_uuid": "9bf24683-6c69-40c0-a630-30bb4ae3a87f",
+                "chunk_index": 42,
+                "authority": "Razorpay",
+                "document_title": "razorpay fraud detection guidelines",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Implement feedback loops where confirmed fraud and legitimate outcomes retrain the model. Multi-factor scoring combining behavioral, transactional, and identity signals improves accuracy. Contextual analysis for Indian patterns – festival spikes, seasonal cycles – prevents legitimate transactions from being flagged."
+        }
+    ]
+}

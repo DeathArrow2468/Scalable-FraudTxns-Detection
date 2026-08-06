@@ -1,0 +1,22 @@
+{
+    "document_uuid": "b25d9929-3791-4bca-9394-4019b3c29f0f",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "6db1424d-af71-4095-8f0b-d88940e69b6d",
+                "document_uuid": "b25d9929-3791-4bca-9394-4019b3c29f0f",
+                "chunk_index": 0,
+                "authority": "NPCI",
+                "document_title": "NPCI TransactionLimit 2026",
+                "chapter": "DOCUMENT",
+                "chapter_title": "NPCI TransactionLimit 2026",
+                "section": "",
+                "subsection": "",
+                "heading": "NPCI TransactionLimit 2026",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "The transaction limit has been set from rupees 5000 to rupees 10000 for online transactions."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+2026-08-07 04:14:55,854 | INFO | ========== Chunking Started ==========
+2026-08-07 04:14:55,857 | INFO | Processing NationalInsurance_Anti_Fraud_Policy_2026.json
+2026-08-07 04:14:55,911 | INFO | Saved 14 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\chunks\NationalInsurance\NationalInsurance_Anti_Fraud_Policy_2026.json
+2026-08-07 04:14:55,914 | INFO | Processing NPCI_TransactionLimit_2026.json
+2026-08-07 04:14:55,939 | INFO | Saved 0 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\chunks\NPCI\NPCI_TransactionLimit_2026.json
+2026-08-07 04:14:55,940 | INFO | Processing razorpay_fraud_detection_guidelines.json
+2026-08-07 04:14:55,981 | INFO | Saved 0 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\chunks\Razorpay\razorpay_fraud_detection_guidelines.json
+2026-08-07 04:14:55,982 | INFO | Processing RBI_All_India_Financial_Institutions_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:14:56,026 | INFO | Saved 10 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\chunks\RBI\RBI_All_India_Financial_Institutions_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:14:56,027 | INFO | Processing RBI_Commercial_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:14:56,070 | INFO | Saved 10 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\chunks\RBI\RBI_Commercial_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:14:56,071 | INFO | Processing RBI_Digital_Payments_E-mandate_2026.json
+2026-08-07 04:14:56,107 | INFO | Saved 8 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\chunks\RBI\RBI_Digital_Payments_E-mandate_2026.json
+2026-08-07 04:14:56,107 | INFO | Processing RBI_Local_Area_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:14:56,149 | INFO | Saved 10 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\chunks\RBI\RBI_Local_Area_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:14:56,150 | INFO | Processing RBI_Payments Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:14:56,189 | INFO | Saved 10 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\chunks\RBI\RBI_Payments Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:14:56,189 | INFO | Processing RBI_Small_Finance_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:14:56,235 | INFO | Saved 10 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\chunks\RBI\RBI_Small_Finance_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:14:56,235 | INFO | Processing RBI_Urban_Co_operative_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:14:56,269 | INFO | Saved 10 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\chunks\RBI\RBI_Urban_Co_operative_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:14:56,270 | INFO | ========== Chunking Finished ==========
+2026-08-07 04:14:56,270 | INFO | Processed : 10
+2026-08-07 04:14:56,270 | INFO | Failed    : 0
+2026-08-07 04:23:12,119 | INFO | ========== Chunking Started ==========
+2026-08-07 04:23:12,121 | INFO | Processing NationalInsurance_Anti_Fraud_Policy_2026.json
+2026-08-07 04:23:12,246 | INFO | Saved 529 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\chunks\NationalInsurance\NationalInsurance_Anti_Fraud_Policy_2026.json
+2026-08-07 04:23:12,248 | INFO | Processing NPCI_TransactionLimit_2026.json
+2026-08-07 04:23:12,251 | INFO | Saved 1 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\chunks\NPCI\NPCI_TransactionLimit_2026.json
+2026-08-07 04:23:12,251 | INFO | Processing razorpay_fraud_detection_guidelines.json
+2026-08-07 04:23:12,265 | INFO | Saved 43 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\chunks\Razorpay\razorpay_fraud_detection_guidelines.json
+2026-08-07 04:23:12,266 | INFO | Processing RBI_All_India_Financial_Institutions_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:23:12,323 | INFO | Saved 228 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\chunks\RBI\RBI_All_India_Financial_Institutions_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:23:12,324 | INFO | Processing RBI_Commercial_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:23:12,371 | INFO | Saved 238 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\chunks\RBI\RBI_Commercial_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:23:12,372 | INFO | Processing RBI_Digital_Payments_E-mandate_2026.json
+2026-08-07 04:23:12,388 | INFO | Saved 56 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\chunks\RBI\RBI_Digital_Payments_E-mandate_2026.json
+2026-08-07 04:23:12,389 | INFO | Processing RBI_Local_Area_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:23:12,427 | INFO | Saved 229 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\chunks\RBI\RBI_Local_Area_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:23:12,428 | INFO | Processing RBI_Payments Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:23:12,457 | INFO | Saved 179 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\chunks\RBI\RBI_Payments Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:23:12,457 | INFO | Processing RBI_Small_Finance_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:23:12,498 | INFO | Saved 228 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\chunks\RBI\RBI_Small_Finance_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:23:12,499 | INFO | Processing RBI_Urban_Co_operative_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:23:12,535 | INFO | Saved 190 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\chunks\RBI\RBI_Urban_Co_operative_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 04:23:12,535 | INFO | ========== Chunking Finished ==========
+2026-08-07 04:23:12,536 | INFO | Processed : 10
+2026-08-07 04:23:12,536 | INFO | Failed    : 0

@@ -1,0 +1,3881 @@
+{
+    "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "0d04a40e-6d20-4d89-ade8-9e80aae9be5f",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 0,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "पयर्वेक्षण ͪ वभाग, भारतीय ǐरज़वर् बैंक, केंद्रȣय कायार्लय, मेकर टावर-ई, 20वीं मंिजल, कफ परेड, कोलाबा, मुंबई-400 005\nदूरभाष: 022-6989 2022 ई-मेल: fmgdosco@rbi.org.in\nDepartment of Supervision, Reserve Bank of India, Central Office, Maker Tower-E, 20th floor, Cuffe Parade, Colaba, Mumbai- 400 005\nTel: 022-6989 2022 Email: fmgdosco@rbi.org.in\nᳲहंदी आसान है, इसका ᮧयोग बढ़ाइए"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "7f83cbf7-a30c-43b0-a96e-31ac5991201c",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 1,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "DoS.CO.FMG.15/23.04.001/2026-27"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "4cf5325d-979d-4f6f-8a94-3ca49dea887f",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 2,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Reserve Bank of India (Small Finance Banks – Fraud Risk Management)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "fb097f17-dc36-484d-9329-5d92dbad32c4",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 3,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Chapter I - Preliminary ............................................................................................. 4"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "b932ae14-b8f1-4bef-a846-249e6c4d528c",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 4,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "B. Applicability ..................................................................................................... 4\nC. Definitions ........................................................................................................ 4\nChapter II - Governance and Oversight .................................................................. 6\nA. Governance Structure for Fraud Risk Management ..................................... 6"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "b308aa24-b283-446b-ad83-0e915a62b4c5",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 5,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "A. Governance Structure ..................................................................................... 9"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d3193780-0836-4c98-94f4-61dbe095ad34",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 6,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Facilities / Loan Accounts ............................................................................. 10"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3f54edf0-9202-4812-a9c8-3352490761ad",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 7,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Chapter IV - General Instructions ......................................................................... 12"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1b25e83b-d98e-452e-a227-395804bec11e",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 8,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Reporting of Fraud ........................................................................................ 12"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "13771c76-270a-4e99-8efc-ebef759edc23",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 9,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Professionals ................................................................................................. 13"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1b49d233-7e09-4193-859c-ef1168217263",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 10,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "D. Penal Measures .............................................................................................. 14\nE. Treatment of Accounts under Resolution ................................................... 14"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1c979255-162e-484c-8136-cf70082d22b2",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 11,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 2
+            },
+            "text": "B. Central Fraud Registry .................................................................................. 17\nC. Modalities of Reporting Incidents of Fraud ................................................. 18\nRBI (SFBs - Fraud Risk Management) Directions, 2026"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "218d4077-1e5b-4b33-ab55-03fee1ea4e9f",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 12,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 2,
+                "page_end": 2
+            },
+            "text": "D. Closure of Fraud Cases Reported ................................................................ 19"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3b55a5be-30e5-42b5-bb74-f1c8312746b2",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 13,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 2,
+                "page_end": 2
+            },
+            "text": "and Reserve Bank of India .................................................................................... 20\nChapter VIII - Other Instructions ........................................................................... 21"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "75948307-240f-484d-ab0c-fa0857d867ee",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 14,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 2,
+                "page_end": 2
+            },
+            "text": "Accounts ........................................................................................................ 21"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "9456e4f1-5826-438e-820b-f2c16c87efb2",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 15,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 2,
+                "page_end": 2
+            },
+            "text": "C. Role of Auditors ............................................................................................. 21"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "28864fb0-da73-4db4-b091-d6770293cb50",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 16,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 2,
+                "page_end": 2
+            },
+            "text": "A. Repeal and Saving ......................................................................................... 23"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "6fff82bb-28f1-488c-8ad2-52d4667f77c2",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 17,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 2,
+                "page_end": 3
+            },
+            "text": "C. Interpretations ................................................................................................ 24"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "56b82eea-ade5-4117-91fe-2bd6cf157157",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 18,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 3,
+                "page_end": 3
+            },
+            "text": "RBI (SFBs - Fraud Risk Management) Directions, 2026"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c2512127-ee22-44e0-bd3d-d993bc82e239",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 19,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 3,
+                "page_end": 3
+            },
+            "text": "These Directions are issued with a view to providing a framework for prevention, early\ndetection, and timely reporting of incidents of fraud by Small Finance Banks to Law\nEnforcement Agencies (LEAs) and Reserve Bank of India (‘RBI’) and dissemination of\ninformation by RBI and matters connected therewith or incidental thereto."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "82837495-508b-42ea-932d-f78c6f1faf06",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 20,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 3,
+                "page_end": 4
+            },
+            "text": "being satisfied that it is necessary and expedient in public interest so to do, hereby,\nissues these Directions hereinafter specified."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e08d3e6a-8039-4976-9db3-4b2c6e98d06a",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 21,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "RBI (SFBs - Fraud Risk Management) Directions, 2026\nChapter I - Preliminary\nA.\nShort Title and Commencement"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "abca44c0-4769-4464-b460-749d5cc2ed36",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 22,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "1",
+                "subsection": "",
+                "heading": "These Directions shall be called the Reserve Bank of India (Small Finance",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 1\nThese Directions shall be called the Reserve Bank of India (Small Finance\nBanks - Fraud Risk Management) Directions, 2026."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "a644e047-b912-434c-95fe-44891e61d204",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 23,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2",
+                "subsection": "",
+                "heading": "These Directions shall come into effect immediately upon issuance.",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 2\nThese Directions shall come into effect immediately upon issuance.\nB.\nApplicability"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "f34f9e2b-731d-4f2e-afb0-9ada14ebe8e2",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 24,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "3",
+                "subsection": "",
+                "heading": "These Directions shall be applicable to Small Finance Banks (hereinafter",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 3\nThese Directions shall be applicable to Small Finance Banks (hereinafter\ncollectively referred to as 'SFBs' and individually as 'SFB').\nC.\nDefinitions"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "657551d0-ae74-4731-a632-c0beb104c6d9",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 25,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "4",
+                "subsection": "",
+                "heading": "In these Directions, unless the context states otherwise, the terms herein shall",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 4\nIn these Directions, unless the context states otherwise, the terms herein shall\nbear the meaning assigned to them below:"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "0e123faf-1dfb-4c11-b08e-618c55e2dc0d",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 26,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "4",
+                "subsection": "",
+                "heading": "In these Directions, unless the context states otherwise, the terms herein shall",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 4\nIn these Directions, unless the context states otherwise, the terms herein shall"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d04ebce4-a021-48a5-9440-50783b02d767",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 27,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "4",
+                "subsection": "",
+                "heading": "In these Directions, unless the context states otherwise, the terms herein shall",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 4\nIn these Directions, unless the context states otherwise, the terms herein shall\nmaintained by RBI. Fraud related data, including the updates thereof,\ndirectly flow to CFR from online reporting by the SFB through Fraud\nMonitoring Returns (FMRs)."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3c89a658-27e6-4c6e-9750-f003bd17962d",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 28,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "4",
+                "subsection": "",
+                "heading": "In these Directions, unless the context states otherwise, the terms herein shall",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 4\nIn these Directions, unless the context states otherwise, the terms herein shall\n‘CRILC’ is the Central Repository of Information on Large Credits as\nreferred to in the Reserve Bank of India (Small Finance Banks –\nSupervisory Returns) Directions, 2026."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e5af24a3-7cae-4f77-ab6c-bc6ba752cf39",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 29,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "4",
+                "subsection": "",
+                "heading": "In these Directions, unless the context states otherwise, the terms herein shall",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 4\nIn these Directions, unless the context states otherwise, the terms herein shall\n‘Date of Classification’, for the purpose of reporting under FMR, is the date\nwhen due approval from the competent authority has been obtained for\nsuch classification, and the reasoned order is passed."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c1180e8b-f526-452d-8540-e17de402f8c5",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 30,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "4",
+                "subsection": "",
+                "heading": "In these Directions, unless the context states otherwise, the terms herein shall",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 4\nIn these Directions, unless the context states otherwise, the terms herein shall\n‘Date of Detection’ to be reported in FMR, is the actual date when the fraud\ncame to light in the concerned branch / audit / department of the SFB, as\nthe case may be, and not the date of approval by the competent authority\nof the SFB."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "5236c163-1ac0-4dd0-88f1-3114b184d3e9",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 31,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "4",
+                "subsection": "",
+                "heading": "In these Directions, unless the context states otherwise, the terms herein shall",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 4\nIn these Directions, unless the context states otherwise, the terms herein shall"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "23a1db5a-4780-4400-b890-8e760d5d586b",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 32,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "4",
+                "subsection": "",
+                "heading": "In these Directions, unless the context states otherwise, the terms herein shall",
+                "page_start": 4,
+                "page_end": 5
+            },
+            "text": "Section 4\nIn these Directions, unless the context states otherwise, the terms herein shall\nwhen the actual misappropriation of funds has started taking place, or the"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "4baf2706-9b8b-4f7c-a658-d723835b3a53",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 33,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "4",
+                "subsection": "",
+                "heading": "In these Directions, unless the context states otherwise, the terms herein shall",
+                "page_start": 5,
+                "page_end": 5
+            },
+            "text": "Section 4\nIn these Directions, unless the context states otherwise, the terms herein shall"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "eac0c254-520f-4158-91a4-ece8053c755c",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 34,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "4",
+                "subsection": "",
+                "heading": "In these Directions, unless the context states otherwise, the terms herein shall",
+                "page_start": 5,
+                "page_end": 5
+            },
+            "text": "Section 4\nIn these Directions, unless the context states otherwise, the terms herein shall\nevent occurred, as evidenced / reported in the audit or other findings."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "24973992-ae0b-4850-b251-09b779ff2784",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 35,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "4",
+                "subsection": "",
+                "heading": "In these Directions, unless the context states otherwise, the terms herein shall",
+                "page_start": 5,
+                "page_end": 5
+            },
+            "text": "Section 4\nIn these Directions, unless the context states otherwise, the terms herein shall\n'Red Flagged Account' is one where suspicion of fraudulent activity is"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "080ccf72-12e8-47d6-b9ed-918529c8d889",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 36,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "4",
+                "subsection": "",
+                "heading": "In these Directions, unless the context states otherwise, the terms herein shall",
+                "page_start": 5,
+                "page_end": 6
+            },
+            "text": "Section 4\nIn these Directions, unless the context states otherwise, the terms herein shall\nindicators, alerting / triggering deeper investigation from potential fraud\nangle and requiring initiation of preventive measures by all banks."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1a32275f-51d0-4fda-b564-4f11ac3bf172",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 37,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "4",
+                "subsection": "",
+                "heading": "In these Directions, unless the context states otherwise, the terms herein shall",
+                "page_start": 6,
+                "page_end": 6
+            },
+            "text": "Section 4\nIn these Directions, unless the context states otherwise, the terms herein shall\nRBI (SFBs - Fraud Risk Management) Directions, 2026\nChapter II - Governance and Oversight\nA.\nGovernance Structure for Fraud Risk Management"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "7195033c-86bd-4fd3-b41d-55b365be8688",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 38,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "5",
+                "subsection": "",
+                "heading": "The SFB shall put in place a Board approved policy on Fraud Risk Management",
+                "page_start": 6,
+                "page_end": 6
+            },
+            "text": "Section 5\nThe SFB shall put in place a Board approved policy on Fraud Risk Management\ndelineating roles and responsibilities of Board / Board Committees and Senior"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d1c64e16-a964-432b-af76-272ae3951811",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 39,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "5",
+                "subsection": "",
+                "heading": "The SFB shall put in place a Board approved policy on Fraud Risk Management",
+                "page_start": 6,
+                "page_end": 6
+            },
+            "text": "Section 5\nThe SFB shall put in place a Board approved policy on Fraud Risk Management\nprevention, early detection, investigation, staff accountability, monitoring,\nrecovery, and reporting of frauds as well as a framework for Early Warning\nSignals (EWS) and Red Flagging of Accounts (RFA).\nIn this context, ‘Board’ will refer to ‘Board of Directors’ of the SFB."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d3c0f1c9-b123-4961-bde2-eab00bed2c11",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 40,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "6",
+                "subsection": "",
+                "heading": "The Policy shall also incorporate measures for ensuring compliance with",
+                "page_start": 6,
+                "page_end": 6
+            },
+            "text": "Section 6\nThe Policy shall also incorporate measures for ensuring compliance with\nprinciples of natural justice1 in a time-bound manner, which at a minimum, shall\ninclude:"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "7bebf718-9603-4dc3-8ddb-36f79a8e4934",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 41,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "6",
+                "subsection": "",
+                "heading": "The Policy shall also incorporate measures for ensuring compliance with",
+                "page_start": 6,
+                "page_end": 6
+            },
+            "text": "Section 6\nThe Policy shall also incorporate measures for ensuring compliance with\nIssuance of a detailed Show Cause Notice (SCN) to the Persons (including\nThird Party Service Providers and Professionals, inter-alia, architects,"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "606a8595-8bb0-43e4-8fad-322de9f80daa",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 42,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "6",
+                "subsection": "",
+                "heading": "The Policy shall also incorporate measures for ensuring compliance with",
+                "page_start": 6,
+                "page_end": 6
+            },
+            "text": "Section 6\nThe Policy shall also incorporate measures for ensuring compliance with\nservice providers), Entities and their Promoters / Whole-time and Executive"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "80f27339-3ee8-4022-92b2-2d999fbc1662",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 43,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "6",
+                "subsection": "",
+                "heading": "The Policy shall also incorporate measures for ensuring compliance with",
+                "page_start": 6,
+                "page_end": 6
+            },
+            "text": "Section 6\nThe Policy shall also incorporate measures for ensuring compliance with\nshall provide complete details of transactions / actions / events basis which\ndeclaration and reporting of a fraud is being contemplated under these"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d385de1c-66ea-4a0e-9d55-a3937164c161",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 44,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "6",
+                "subsection": "",
+                "heading": "The Policy shall also incorporate measures for ensuring compliance with",
+                "page_start": 6,
+                "page_end": 6
+            },
+            "text": "Section 6\nThe Policy shall also incorporate measures for ensuring compliance with\nindependent directors) are normally not in charge of, or responsible to the"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "2a65298f-37d3-4c00-94e9-969831a44c4a",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 45,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "6",
+                "subsection": "",
+                "heading": "The Policy shall also incorporate measures for ensuring compliance with",
+                "page_start": 6,
+                "page_end": 6
+            },
+            "text": "Section 6\nThe Policy shall also incorporate measures for ensuring compliance with\nthis into consideration before proceeding against such directors under\nthese Directions."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "b1d4c17d-7eff-46b5-bcc2-8795c6b8762f",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 46,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "6",
+                "subsection": "",
+                "heading": "The Policy shall also incorporate measures for ensuring compliance with",
+                "page_start": 6,
+                "page_end": 6
+            },
+            "text": "Section 6\nThe Policy shall also incorporate measures for ensuring compliance with"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "521a8d63-56b4-4c8d-b85c-e687e4f4b322",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 47,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "6",
+                "subsection": "",
+                "heading": "The Policy shall also incorporate measures for ensuring compliance with",
+                "page_start": 6,
+                "page_end": 6
+            },
+            "text": "Section 6\nThe Policy shall also incorporate measures for ensuring compliance with\n1  Refer to the judgement of the Hon’ble Supreme Court dated March 27, 2023 on Civil Appeal No.7300\nof 2022 in the matter of State Bank of India & Ors Vs. Rajesh Agarwal & Ors. and connected matters,\nread with the Order dated May 12, 2023 passed by the Hon’ble Supreme Court in Misc. Application."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1c168f32-dcc1-48a9-9806-6c93010c71f6",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 48,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "6",
+                "subsection": "",
+                "heading": "The Policy shall also incorporate measures for ensuring compliance with",
+                "page_start": 6,
+                "page_end": 6
+            },
+            "text": "Section 6\nThe Policy shall also incorporate measures for ensuring compliance with\nrepresentation before classifying Persons / Entities as fraud and passing a reasoned order. The orders"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c9b96264-b5c9-43fe-96ba-df5c3074beea",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 49,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "6",
+                "subsection": "",
+                "heading": "The Policy shall also incorporate measures for ensuring compliance with",
+                "page_start": 6,
+                "page_end": 7
+            },
+            "text": "Section 6\nThe Policy shall also incorporate measures for ensuring compliance with\nthe Hon’ble High Court of Gujarat dated August 31, 2023 in Special Civil Application No. 12000 of 2021\nand connected matters shall be referred to."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d3772f32-1db2-4f8d-83d4-202f5df1c9b3",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 50,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "6",
+                "subsection": "",
+                "heading": "The Policy shall also incorporate measures for ensuring compliance with",
+                "page_start": 7,
+                "page_end": 7
+            },
+            "text": "Section 6\nThe Policy shall also incorporate measures for ensuring compliance with"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "f69eddec-4d60-4841-8d0d-0024ee68fe71",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 51,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "6",
+                "subsection": "",
+                "heading": "The Policy shall also incorporate measures for ensuring compliance with",
+                "page_start": 7,
+                "page_end": 7
+            },
+            "text": "Section 6\nThe Policy shall also incorporate measures for ensuring compliance with\nPersons / Entities on whom the SCN was served to respond to the said\nSCN."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "478168b1-264a-49ab-bb77-90f7ae0dc6cc",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 52,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "6",
+                "subsection": "",
+                "heading": "The Policy shall also incorporate measures for ensuring compliance with",
+                "page_start": 7,
+                "page_end": 7
+            },
+            "text": "Section 6\nThe Policy shall also incorporate measures for ensuring compliance with"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "4a82bee9-a4ec-4353-8b34-ca1fc028f21a",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 53,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "6",
+                "subsection": "",
+                "heading": "The Policy shall also incorporate measures for ensuring compliance with",
+                "page_start": 7,
+                "page_end": 7
+            },
+            "text": "Section 6\nThe Policy shall also incorporate measures for ensuring compliance with\nexamination of the responses / submissions made by the Persons / Entities\nprior to declaring such Persons / Entities as fraudulent."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "7d29e3e4-43dd-4b1f-b604-f4836667e128",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 54,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "6",
+                "subsection": "",
+                "heading": "The Policy shall also incorporate measures for ensuring compliance with",
+                "page_start": 7,
+                "page_end": 7
+            },
+            "text": "Section 6\nThe Policy shall also incorporate measures for ensuring compliance with"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3e69036f-2a5c-43bf-ad60-3e01bbf4b734",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 55,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "6",
+                "subsection": "",
+                "heading": "The Policy shall also incorporate measures for ensuring compliance with",
+                "page_start": 7,
+                "page_end": 7
+            },
+            "text": "Section 6\nThe Policy shall also incorporate measures for ensuring compliance with\nits decision regarding declaration / classification of the account as fraud or\notherwise. Such Order(s) must contain relevant facts / circumstances relied\nupon, the submission made against the SCN and the reasons for\nclassification as fraud or otherwise.\nExplanation: The requirement of ensuring compliance to the principles of\nnatural justice is applicable to all Persons / Entities and their Promoters /\nWhole-time and Executive Directors classified as fraud by the SFB. In other\nwords, this requirement is applicable in all cases of fraud classification\nwhich may have civil consequences (i.e., penal measures, caution listing)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c0c478ad-0cbd-46f8-86a1-553b3bcaec4b",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 56,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "6",
+                "subsection": "",
+                "heading": "The Policy shall also incorporate measures for ensuring compliance with",
+                "page_start": 7,
+                "page_end": 7
+            },
+            "text": "Section 6\nThe Policy shall also incorporate measures for ensuring compliance with\n27, 2023 (Civil Appeal No. 7300 of 2022 in the matter of State Bank of India\n& Ors. Vs. Rajesh Agarwal & Ors.)."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "a7af8968-84c5-4c36-b70a-4c5bd17cb3f6",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 57,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "7",
+                "subsection": "",
+                "heading": "The Board shall review the Fraud Risk Management Policy at least once in three",
+                "page_start": 7,
+                "page_end": 7
+            },
+            "text": "Section 7\nThe Board shall review the Fraud Risk Management Policy at least once in three\nyears, or more frequently, as may be prescribed by the Board."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d51450b6-dbeb-485b-97af-4b42f1221b10",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 58,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "8",
+                "subsection": "",
+                "heading": "Special Committee of the Board for Monitoring and Follow-up of cases of",
+                "page_start": 7,
+                "page_end": 7
+            },
+            "text": "Section 8\nSpecial Committee of the Board for Monitoring and Follow-up of cases of\nFrauds:"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "a04fdebd-7cb2-446e-a01e-00721345ac56",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 59,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "8",
+                "subsection": "",
+                "heading": "Special Committee of the Board for Monitoring and Follow-up of cases of",
+                "page_start": 7,
+                "page_end": 7
+            },
+            "text": "Section 8\nSpecial Committee of the Board for Monitoring and Follow-up of cases of\nThe SFB shall constitute a Committee of the Board to be known as ‘Special\nCommittee of the Board for Monitoring and Follow-up of cases of Frauds’\n(SCBMF) with a minimum of three members of the Board, consisting of a\nwhole-time director and a minimum of two independent directors / non-\nexecutive directors. The Committee shall be headed by one of the\nindependent directors / non-executive directors."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "6171dd71-e4bb-4f8e-a63d-91a52d0d0c1a",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 60,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "8",
+                "subsection": "",
+                "heading": "Special Committee of the Board for Monitoring and Follow-up of cases of",
+                "page_start": 7,
+                "page_end": 8
+            },
+            "text": "Section 8\nSpecial Committee of the Board for Monitoring and Follow-up of cases of\nSCBMF shall oversee the effectiveness of the Fraud Risk Management in"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c92ece51-87e8-4f1b-a2d4-3c548e7644e6",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 61,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "8",
+                "subsection": "",
+                "heading": "Special Committee of the Board for Monitoring and Follow-up of cases of",
+                "page_start": 8,
+                "page_end": 8
+            },
+            "text": "Section 8\nSpecial Committee of the Board for Monitoring and Follow-up of cases of"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e0667b51-69c4-4b8d-b757-67fe9cedfbd3",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 62,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "8",
+                "subsection": "",
+                "heading": "Special Committee of the Board for Monitoring and Follow-up of cases of",
+                "page_start": 8,
+                "page_end": 8
+            },
+            "text": "Section 8\nSpecial Committee of the Board for Monitoring and Follow-up of cases of\nthe SFB. SCBMF shall review and monitor cases of frauds, including root\ncause analysis, and suggest mitigating measures for strengthening the"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c8892bf7-15cb-4939-87f4-cd9df8c06bd6",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 63,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "8",
+                "subsection": "",
+                "heading": "Special Committee of the Board for Monitoring and Follow-up of cases of",
+                "page_start": 8,
+                "page_end": 8
+            },
+            "text": "Section 8\nSpecial Committee of the Board for Monitoring and Follow-up of cases of\nincidence of frauds. The Board of the SFB shall decide the coverage and\nperiodicity of such reviews. The coverage may include, among others,"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "9f4c9424-1cfa-46b6-a0cb-8f14f92a9e7f",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 64,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "8",
+                "subsection": "",
+                "heading": "Special Committee of the Board for Monitoring and Follow-up of cases of",
+                "page_start": 8,
+                "page_end": 8
+            },
+            "text": "Section 8\nSpecial Committee of the Board for Monitoring and Follow-up of cases of\nconcentration of frauds, delay in detection / classification of frauds and\ndelay in examination / conclusion of staff accountability."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e4d1d4f1-22f2-4724-b296-e9a7775e7cc6",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 65,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "8",
+                "subsection": "",
+                "heading": "Special Committee of the Board for Monitoring and Follow-up of cases of",
+                "page_start": 8,
+                "page_end": 8
+            },
+            "text": "Section 8\nSpecial Committee of the Board for Monitoring and Follow-up of cases of\nThe Board of the SFB shall decide the threshold amount of fraud cases to\nbe placed before the SCBMF, after duly taking into account the scale and\ncomplexity of its operations."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "89b8bf8e-4903-47e0-9920-701dfe4c681c",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 66,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 8,
+                "page_end": 8
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "f8d30bd9-30b4-44db-b0a9-a9bb4622f018",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 67,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 8,
+                "page_end": 8
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nof the SFB shall also place a periodic review of incidents of fraud before Board /\nAudit Committee of Board (ACB), as appropriate."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "ce80289f-7882-4f45-8ce5-7bec231e77df",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 68,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 8,
+                "page_end": 8
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nBlower complaints on possible fraud cases / suspicious activities in account(s)\nare examined and concluded appropriately under its Whistle Blower Policy.\n11. The"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "dfaa91c7-7884-4347-ad92-a0bfa9f3f645",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 69,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 8,
+                "page_end": 8
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "5348cb4c-92c9-41a0-bcaf-263611d3c877",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 70,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 8,
+                "page_end": 8
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nset-up"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "63c5c383-57f3-49f5-b13a-0e0cba0d5991",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 71,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 8,
+                "page_end": 8
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "4b121372-2d28-4ff0-945e-e1459af61324",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 72,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 8,
+                "page_end": 8
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\norganisational\nstructure"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "43c70684-711c-4dd1-87e7-6759efa4f76c",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 73,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 8,
+                "page_end": 8
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\ninstitutionalisation of Fraud Risk Management within its overall risk management"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "8813b8b7-029f-4780-ad09-fff747ba2785",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 74,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 8,
+                "page_end": 9
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\ndetection, investigation, staff accountability, monitoring, recovery, analysis,\nreporting of frauds, and other related aspects under the Board approved Policy.\nA senior official in the rank of at least a General Manager or equivalent shall be\nresponsible for monitoring and reporting of frauds."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "ee589063-f07b-4bf6-944e-bdac7675c870",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 75,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 9,
+                "page_end": 9
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "231d779b-2c85-4fc5-a71c-256609e03376",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 76,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 9,
+                "page_end": 9
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nChapter III - Early Detection of Frauds - Framework for Early Warning Signals\nand Red Flagging of Accounts\nA."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "b53b6747-7709-4d1f-bb45-de1a66639ec9",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 77,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 9,
+                "page_end": 9
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\n12. The SFB shall have a framework for EWS and Red Flagging of Accounts (RFA)\nunder the overall Fraud Risk Management Policy approved by the Board."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "914611b3-1361-4509-b137-934827da827b",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 78,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 9,
+                "page_end": 9
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "9ca1ba08-d54b-4dd5-be01-48ae2365265e",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 79,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 9,
+                "page_end": 9
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nManagement shall be responsible for implementation of a robust Framework for\nEWS and RFA within the SFB.\n14. The RMCB shall approve the EWS indicators identified for monitoring credit"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "151f7da6-91bb-469e-bf8d-186f98adb657",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 80,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 9,
+                "page_end": 9
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nappropriate Turnaround Time (TAT), preferably not more than 30 days, for\nexamination of EWS alerts / triggers.\n15. RMCB shall review the status of red flagged accounts, including the EWS alerts /\ntriggers and remedial actions initiated by the SFB at periodic intervals as\napproved by the Board.\n16. The EWS / RFA framework shall be subject to suitable validation in accordance\nwith the directions of RMCB so as to ensure its integrity, robustness and\nconsistency of the outcomes.\n17. The EWS / RFA Framework shall provide for, among others:"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "95662d09-d39a-46a5-80b3-eb01a9d8ea10",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 81,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 9,
+                "page_end": 9
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nA system of robust EWS which is integrated with Core Banking Solution\n(CBS) or other operational systems;"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "fddcf8c4-051d-44d5-b516-bd1dac3a981b",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 82,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 9,
+                "page_end": 9
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nInitiation of remedial action on alerts / triggers from EWS System in a timely\nmanner;"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "dc0699e6-1b9e-4667-a39a-b400c0bc13f3",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 83,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 9,
+                "page_end": 9
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nPeriodic review of credit sanction and monitoring processes, internal\ncontrols and systems; and"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e5fe25f2-31d1-49fe-8c7a-8357814e5bff",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 84,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 9,
+                "page_end": 10
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nEffective use of CRILC database and the CFR."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "219bcfce-8ec7-4e8a-9f02-54e3ba05f524",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 85,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 10,
+                "page_end": 10
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "fbc208d4-3032-477c-912f-055319894092",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 86,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 10,
+                "page_end": 10
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\n18. The SFB shall put in place / suitably upgrade its existing EWS system on an\nongoing basis.\nB.\nEarly Warning Signal / Red Flagging of Accounts Framework for Credit"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "5ecc1f25-7f32-4a7a-9d61-928bae48a1d2",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 87,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 10,
+                "page_end": 10
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\n19. Development of EWS System: The EWS system shall be comprehensive and\ndesigned to include both the quantitative and qualitative indicators to make the\nframework robust and effective. The broad indicators which the EWS system may\nillustratively capture could be based on the transactional data of accounts,\nfinancial performance of borrowers, market intelligence and conduct of the\nborrowers.\n20. Data Analytics and Market Intelligence (MI) Unit: The SFB shall set up a"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "18c6dc81-07d3-40a7-9e5e-30c0b05a5670",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 88,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 10,
+                "page_end": 10
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nbusiness mix and risk profile. Such Unit shall facilitate collection and processing\nof relevant information to enable an early detection and prevention of potentially\nfraudulent activities.\n21. Generation of EWS alert(s) / trigger(s) shall necessitate examination whether the\naccount needs to be red flagged and consequently, investigation from potential\nfraud angle.\n22. The SFB shall report an account, with an aggregate exposure of ₹3 crore and\nabove, once red flagged, in ‘Red Flagged Account Return’ on the Reserve Bank’s\nCRILC platform within seven days of being red flagged.\n‘Exposure’ in this context, shall include all funded and non-funded exposures.\nC."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e4a90df1-f134-4bb7-ba63-5bf79bdb0b92",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 89,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 10,
+                "page_end": 10
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\n23. The SFB shall develop / strengthen its EWS system by identifying suitable"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e233f41b-e7c5-4a8c-ac5a-7cec548d3d9c",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 90,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 10,
+                "page_end": 10
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nbanking / non-credit related transactions. The SFB shall strive to continuously"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c4c9d237-f59e-4c9a-91e2-411a7d117a2a",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 91,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 10,
+                "page_end": 11
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nother banking / non-credit related transactions efficiently and prevent fraudulent\nactivities through the banking channel. Further, the effectiveness of EWS system"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "8243b3c5-9997-4fe3-8927-ee44c5cee5ec",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 92,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 11,
+                "page_end": 11
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nRBI (SFBs - Fraud Risk Management) Directions, 2026\nshall be tested periodically.\n24. The design and specification of EWS system shall be robust and resilient to\nensure that integrity of system is maintained, personal and financial data of\ncustomers are secure and transaction monitoring for prevention / detection of"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "abc73316-2721-448b-8dcd-876dd38fd7c0",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 93,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 11,
+                "page_end": 11
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\ncompromising the effectiveness of the outcome of EWS system in prevention /"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "8cf955a7-ff8b-4230-9078-7cdabc54ebd2",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 94,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 11,
+                "page_end": 11
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "f47820ea-2229-4cd5-a526-8f4aca5ca5d1",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 95,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 11,
+                "page_end": 11
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nmoney mule accounts, to contain unauthorised / fraudulent transactions and to\nprevent misuse of banking channel.\n25. The Data Analytics and MI Unit or other dedicated analytics set up in the SFB"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "a3eb985b-7def-4e21-a84e-652a5e0d462f",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 96,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 11,
+                "page_end": 11
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "df5bd8d2-9adf-41a3-8985-fbe82ac2bd81",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 97,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 11,
+                "page_end": 12
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\napplications, in order to identify unusual patterns and activities which could alert\nthe SFB timely in initiating appropriate measures towards prevention of\nfraudulent activities."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "ea9326f6-fda7-47fe-84bb-140e2dd6d8e0",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 98,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 12,
+                "page_end": 12
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nRBI (SFBs - Fraud Risk Management) Directions, 2026\nChapter IV - General Instructions\nA.\nCredit facility / Loan Account Classified as Red-flagged Account and"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "37695bb1-e23f-4eab-9d03-a23c23cd367d",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 99,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 12,
+                "page_end": 12
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\n26. In case of a credit facility / loan account classified as red-flagged account, the\nSFB shall use an external audit, or an internal audit as per its Board approved\nPolicy, for further investigation in such accounts.\n27. The SFB shall frame a policy on engagement of external auditors covering"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d3106983-6fd2-4167-adb8-ab8f40e09e79",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 100,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 12,
+                "page_end": 12
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\namong others. Further, the contractual agreement with the auditors shall, inter"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "4fe20f53-9a9b-48d9-ab7e-04c84e2c8e53",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 101,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 12,
+                "page_end": 12
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nsubmission of audit report to the SFB within a specified time limit, as approved\nby the Board.\n28. The loan agreement with the borrower shall contain clauses for conduct of such\naudit at the behest of lender(s) consequent upon red flagging of the account. In\ncases where the audit report submitted remains inconclusive or is delayed due"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "aee031e2-9fac-4064-b7e0-8b1fb98d8e09",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 102,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 12,
+                "page_end": 12
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\naccount as a fraud or otherwise based on the material available on its record and\nits own internal investigation / assessment in such cases. The SFB shall ensure\nthat principles of natural justice are strictly adhered to before classifying /\ndeclaring an account as fraud (Refer to Paragraph 6).\n29. The decision to classify any account, either standard or NPA, as a red-flagged\naccount shall be at the individual SFB level and such SFB(s) shall report the\nstatus of the account on Reserve Bank’s CRILC platform immediately (not later\nthan seven days from date of classification as a red-flagged account).\n30. The SFB (in case of sole lending) or the individual SFBs (in case of multiple"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "5dd78485-495f-471e-91fc-89866ad23da4",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 103,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 12,
+                "page_end": 13
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nnatural justice (Refer to Paragraph 6) are strictly adhered to before classifying /\ndeclaring an account as fraud.\n31. Once an account has been red-flagged, the entire process of classification of the\naccount as fraud or removal of red-flagged status shall ordinarily be completed"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "efb464e8-bf62-4668-a850-8ad957c9a2f5",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 104,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 13,
+                "page_end": 13
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e413a3e8-6511-4ae2-994d-1f7f2501aba2",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 105,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 13,
+                "page_end": 13
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nwithin 180 days from the date of first reporting of the account as red-flagged on\nCRILC platform. Cases remaining in red-flagged status beyond 180 days shall\nbe reported to the SCBMF for review with adequate reasoning / justification\nthereof. Such cases shall also be subject to supervisory review by RBI.\n32. In case an account is identified as a fraud by any SFB, the borrowal accounts of"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e95ea84c-b2ef-4abc-835e-0ebccc51bb7c",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 106,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 13,
+                "page_end": 13
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\ndirector(s) are common, shall also be subjected to examination by Regulated\nEntities (REs) concerned from fraud angle under these Directions."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "5b9c009d-2705-4dcb-ad90-482e232a62a0",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 107,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 13,
+                "page_end": 13
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "87beab36-808f-48a7-a271-92ded5dca3bc",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 108,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 13,
+                "page_end": 13
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nthe account and follow the usual process for classification of account as fraud\nand complete the same within the stipulated period as specified at Paragraph 31\nabove.\nB.\nIndependent Confirmation from Third-party Service Providers including"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "927d926f-55a5-4ce2-b829-27491af9d0f2",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 109,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 13,
+                "page_end": 13
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\n34. The SFB places reliance on various third-party service providers as part of pre-"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "a04e867d-6a6b-4863-af96-d50b24563c64",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 110,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 13,
+                "page_end": 13
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1ad431cd-aec8-44a7-8e28-d517baa138d3",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 111,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 13,
+                "page_end": 13
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nservice providers to hold them accountable in situations where wilful negligence /\nmalpractice by them is found to be a causative factor for fraud.\n35. The SFB shall, after complying with the principles of natural justice, report to"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "a7025b88-3b29-437f-b4ac-191bf4e8fdde",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 112,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 13,
+                "page_end": 13
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\ninvolved in frauds. Indian Banks’ Association (IBA) would, in turn, prepare caution\nlists of such third parties for circulation among banks.\nC."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "0d2be7e6-c483-4a2e-8ab4-d983b468578c",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 113,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 13,
+                "page_end": 14
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\n36. The SFB shall initiate and complete the examination of staff accountability in all\nfraud cases in a time-bound manner in accordance with its internal policy.\n2 Refer to Exposure Norms in the Reserve Bank of India (Small Finance Banks-Concentration Risk\nManagement) Directions, 2025"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "eca2ec3c-3ae0-4145-b99e-9b61973fc2a5",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 114,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 14,
+                "page_end": 14
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "bbbfde83-4e97-4a94-8be3-0ae0279ca3a0",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 115,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 14,
+                "page_end": 14
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "4caa6b32-868d-4d4a-907c-cda2043a547b",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 116,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 14,
+                "page_end": 14
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nDirector / Executives of equivalent rank), the ACB shall initiate examination of\ntheir accountability and place it before the Board. Such executives shall not\nparticipate in the meeting of the Board / ACB / SCBMF in which their\naccountability is to be considered.\nD."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "5cf41bfe-4818-4fdc-9210-9b0fc6d555bf",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 117,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 14,
+                "page_end": 14
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\n38. Persons / Entities classified and reported as fraud by the SFB and also Entities"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "b779c265-4cde-4c0b-be97-7857405d4850",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 118,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 14,
+                "page_end": 14
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nfunds and / or seeking additional credit facilities from financial entities regulated\nby RBI, for a period of five years from the date of full repayment of the defrauded\namount / settlement amount agreed upon in case of a compromise settlement.\nExplanation:"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3848015f-da9b-4596-b500-bf60e19a2ba6",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 119,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 14,
+                "page_end": 14
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nIf it is an Entity, another Entity will be deemed to be associated with it if that"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "9b92e86e-b724-4140-b84d-52af5df73c93",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 120,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "9",
+                "subsection": "",
+                "heading": "The Senior Management shall be responsible for implementation of the fraud risk",
+                "page_start": 14,
+                "page_end": 14
+            },
+            "text": "Section 9\nThe Senior Management shall be responsible for implementation of the fraud risk\nCompanies Act, 2013 or (ii) falls within the definition of a ‘joint venture’ or\nan ‘associate company’ under clause (6) of Section 2 of the Companies Act,"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c2c9fd3b-0cc8-4d6d-a065-fd70d6120a7b",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 121,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 14,
+                "page_end": 14
+            },
+            "text": "Section 2013\n(2)\nIn case of a Natural Person, all entities in which she / he is associated as"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "6bc5cad3-fc16-4b48-9071-438b140d8828",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 122,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 14,
+                "page_end": 14
+            },
+            "text": "Section 2013\n(2)\nmanagement of the affairs of the entity shall be deemed to be associated.\n39. Lending to such Persons / Entities, being commercial decisions, the lending SFB\nshall have the sole discretion to entertain or decline such requests for credit\nfacilities after the expiry of the mandatory cooling period as mentioned at\nParagraph 38 above.\nE."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d5fc3ef1-1e58-4e00-b185-05381095c07b",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 123,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 14,
+                "page_end": 15
+            },
+            "text": "Section 2013\n(2)\n40. In case an entity classified as fraud has subsequently undergone a resolution\neither under Insolvency and Bankruptcy Code, 2016 (IBC) or under the resolution"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "2aa579f7-1869-4159-9d4f-68b1c3472381",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 124,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 15,
+                "page_end": 15
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "66fa0565-8395-4e53-88a2-61ae6088f6ca",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 125,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 15,
+                "page_end": 15
+            },
+            "text": "Section 2013\n(2)\nframework of RBI3, resulting in a change in the management and control of the"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "bbf91253-a139-4401-957a-4ed350c6e196",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 126,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 15,
+                "page_end": 15
+            },
+            "text": "Section 2013\n(2)\ncontinue to remain classified as fraud or the classification as fraud could be"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "a3f4d5f1-048e-44b0-b9f2-58a99c797eed",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 127,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 15,
+                "page_end": 15
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "9b6eeb59-ba08-46a4-9fea-a7f55babccbc",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 128,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 15,
+                "page_end": 15
+            },
+            "text": "Section 2013\n(2)\nhowever, be without prejudice to the continuance of criminal action against"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e9f992f2-a3ad-4222-a8f2-6da502fa94c6",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 129,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 15,
+                "page_end": 15
+            },
+            "text": "Section 2013\n(2)\nresponsible for the management of the affairs of the entity / business enterprise.\n41. The penal measures as detailed in Paragraphs 38 and 39 shall not be applicable\nto entities / business enterprises after implementation of the Resolution Plan\nunder Insolvency and Bankruptcy Code, 2016 (IBC) or aforesaid resolution\nframework.\n42. The penal measures detailed in Paragraphs 38 and 39 shall continue to apply to"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "8127c620-02e4-400c-ab23-e40f99aa4c44",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 130,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 15,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)\nresponsible for the management of the affairs of the entity / business enterprise.\n3 Reserve Bank of India (Small Finance Banks – Resolution of Stressed Assets) Directions, 2025"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "7db57c5c-58b3-4d86-bede-7be797b199ab",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 131,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "957a7cc7-48c7-4db9-a945-6600b191165a",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 132,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "5d0f939a-ef4b-4fe9-a881-383b5bd21049",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 133,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)\n43. The SFB shall immediately report the incidents of fraud to LEAs, subject to\napplicable laws, as indicated below4:\nAmount involved in"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "fee7e629-6323-4ee2-8fbb-3949ea443617",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 134,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)\nLEA to whom complaint should\nbe lodged"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "107e23f2-4127-4b88-8020-ef6925f76003",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 135,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "46d5ec47-d63b-431f-8b1b-a31dac5a532e",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 136,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)\nState / Union Territory (UT) Police"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "6d79ea07-c697-427e-bf87-90347e2ce418",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 137,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "663bfb38-cdea-48b2-ba03-15cd06e1e673",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 138,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1e03f57c-6384-4d57-8438-88182571bff8",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 139,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)\nSerious Fraud Investigation Office"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "6999278a-3a58-440b-8f64-f3138d60b270",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 140,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)\nMinistry"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e0c14da6-c053-4c88-8e02-77c23034790e",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 141,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e5e1f256-f739-4df6-b372-d125d78f9ef9",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 142,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)\nAffairs, Government of India\nDetails of fraud are to\nbe reported to SFIO in"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "00e490ee-54dd-4f11-9dd1-b82bd70917fb",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 143,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "29844656-299e-46f4-beb4-b85acbabd624",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 144,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)\nReturn (FMR) format.\nNote:"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "049f9da1-2732-4b89-8a57-1e434752f5ca",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 145,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)\nAs the thresholds for reporting to LEAs vary across the States / UTs, these\nreporting requirements have been prescribed after due consultation with\nCentral Vigilance Commission, Department of Financial Services,\nGovernment of India and select LEAs."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "2bdcbf1a-ca6d-4448-98e7-9e7a86235d37",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 146,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "092ee2cc-30b8-4239-8392-2c3f59e291d9",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 147,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)\nseparate complaints, if separate offences have been committed in respect"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "f4fff598-170e-435a-bfcf-f95979cca020",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 148,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)\nfraudulent act / transaction. In other cases of such lending, only one"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "a7ff3b53-e1a8-41e6-a653-39f68925f7de",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 149,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)\nnecessary support to the said member and the LEAs in investigation of the"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "f03c6725-d036-4b59-88bd-5954671bb1ca",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 150,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)\ndocuments. The SFB may take a decision in this regard depending on the\nfacts and circumstances that may be relevant in a given case and the\napplicable laws.\n44. The SFB shall establish suitable nodal point(s) / designate officer(s) for reporting\nincidents of fraud to LEAs and for proper coordination to meet the requirements\nof the LEAs."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "b175a6c6-c26b-4c2d-92b3-2faea4ed62cf",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 151,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 16
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "ad3c7505-b9a9-4e84-b8be-4ecb019748f0",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 152,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 16,
+                "page_end": 17
+            },
+            "text": "Section 2013\n(2)\nare listed in that Section. The SFB is, however, advised to mandatorily report incidents of fraud involving\nan amount of ₹1 lakh or more to LEAs."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "9c67499f-86a1-4162-bb20-1f1fcbc0f622",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 153,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 17,
+                "page_end": 17
+            },
+            "text": "Section 2013\n(2)\nRBI (SFBs - Fraud Risk Management) Directions, 2026\nChapter VI - Reporting to Reserve Bank of India\nA."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "6d6f7b2e-c996-4de7-a2e6-e373eeede8ad",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 154,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 17,
+                "page_end": 17
+            },
+            "text": "Section 2013\n(2)\n45. To ensure uniformity and consistency while reporting incidents of fraud to RBI\nthrough Fraud Monitoring Returns (FMRs) using online portal, the SFB shall\nchoose the most appropriate category from any one of the following:"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "b552c68f-045e-4a72-a542-a7db3ce08102",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 155,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 17,
+                "page_end": 17
+            },
+            "text": "Section 2013\n(2)\nMisappropriation of funds and criminal breach of trust;"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "815a0613-02a4-44e2-a867-8065628c5974",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 156,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 17,
+                "page_end": 17
+            },
+            "text": "Section 2013\n(2)\nFraudulent encashment through forged instruments;"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "2843b6e1-32d7-4630-a468-bf308f4f9e31",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 157,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 17,
+                "page_end": 17
+            },
+            "text": "Section 2013\n(2)\nManipulation of books of accounts or through fictitious accounts, and\nconversion of property;"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "26c07e80-4d71-49a3-a9d5-761043904b63",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 158,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 17,
+                "page_end": 17
+            },
+            "text": "Section 2013\n(2)\nCheating by concealment of facts with the intention to deceive any person\nand cheating by impersonation;"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "094ce7b2-7e57-465a-864b-265b181221cc",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 159,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 17,
+                "page_end": 17
+            },
+            "text": "Section 2013\n(2)\nForgery with the intention to commit fraud by making any false documents /\nelectronic records;"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1e744222-1069-4ac6-9918-00f824dde52b",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 160,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 17,
+                "page_end": 17
+            },
+            "text": "Section 2013\n(2)\nWilful falsification, destruction, alteration, mutilations of any book, electronic\nrecord, paper, writing, valuable security or account with intent to defraud;"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "adb1aa26-099f-4763-939d-20b5db11dd5d",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 161,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 17,
+                "page_end": 17
+            },
+            "text": "Section 2013\n(2)\nFraudulent credit facilities extended for illegal gratification;"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3f7e7c57-ba56-42e3-bf1c-a8aa52fbd5b9",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 162,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 17,
+                "page_end": 17
+            },
+            "text": "Section 2013\n(2)\nCash shortages on account of frauds;"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3d64681c-c4e3-4952-b558-5d4b881c42e2",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 163,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 17,
+                "page_end": 17
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "ed9ced5d-2791-4bb0-a6ca-e39033b3e4f8",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 164,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 17,
+                "page_end": 17
+            },
+            "text": "Section 2013\n(2)\n(10) Fraudulent electronic banking / digital payment related transactions"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "ef0d070a-a6cd-46cb-b54b-5628999186fb",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 165,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 17,
+                "page_end": 17
+            },
+            "text": "Section 2013\n(2)\n(11) Other type of fraudulent activity not covered under any of the above.\nB."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d19c58bb-ac33-4b5e-86aa-abe354d52cee",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 166,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 17,
+                "page_end": 18
+            },
+            "text": "Section 2013\n(2)\n46. The SFB shall put in place systems and procedures to ensure that the information\navailable in Central Fraud Registry (CFR) is used for credit risk and fraud risk\nmanagement effectively."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "8b488d23-bc89-4e62-b8e1-58f2d623c9b6",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 167,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 18,
+                "page_end": 18
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "be6c7e74-ba27-48f4-8169-94cd17a1b499",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 168,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 18,
+                "page_end": 18
+            },
+            "text": "Section 2013\n(2)\n47. The SFB is required to report payment system related disputed / suspected or\nattempted fraudulent transactions to Central Payments Fraud Information\nRegistry\n(CPFIR),"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "af0fbfa9-8d3c-458b-b84f-f29771f5b90d",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 169,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 18,
+                "page_end": 18
+            },
+            "text": "Section 2013\n(2)\nrequired"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "28ac4ae3-55ec-4962-aabe-04d5703b8d5e",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 170,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 18,
+                "page_end": 18
+            },
+            "text": "Section 2013\n(2)\nterms"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "a4c2a52e-60fc-4c58-945c-1e9a969540bf",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 171,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 18,
+                "page_end": 18
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "294965cb-cfff-4eb4-947a-1c8ee610dbf1",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 172,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 18,
+                "page_end": 18
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "01177e4c-6b5a-4a39-9616-e8bff83da7c1",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 173,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 18,
+                "page_end": 18
+            },
+            "text": "Section 2013\n(2)\n2022, maintained by RBI. However, such transactions, if subsequently concluded\nas fraud committed on the SFB, shall invariably be reported through FMR so as\nto be reflected in CFR.\nC."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "68846d1f-be33-4db5-8e4b-990886f8dbe7",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 174,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 18,
+                "page_end": 18
+            },
+            "text": "Section 2013\n(2)\n48. The SFB shall furnish FMR in individual fraud cases, irrespective of the amount\ninvolved, immediately, but not later than 14 days from the date of classification"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d495daeb-dc3b-461a-b546-9b84632ff86b",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 175,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 18,
+                "page_end": 18
+            },
+            "text": "Section 2013\n(2)\nFMR Update Application (FUA). Further, filing / reporting of Monthly Certificate\non Frauds, Monthly CFR Certificate and Flash Report by the SFB to RBI is not\nrequired.\n49. The SFB shall also report frauds perpetrated in its group entities to RBI"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e412eb37-644e-4875-925d-7e340359ff88",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 176,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 18,
+                "page_end": 18
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "aab31948-1228-4982-ba5f-d0f5091c8f9c",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 177,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 18,
+                "page_end": 18
+            },
+            "text": "Section 2013\n(2)\nregulatory / supervisory authority. The group entities will have to comply with the\nprinciples of natural justice before declaration of fraud (Refer to Paragraph 6\nabove)."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1a8c8696-c6f9-4a12-a0ad-620f724a360f",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 178,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 18,
+                "page_end": 18
+            },
+            "text": "Section 2013\n(2)\nsubsidiaries, affiliates and joint ventures as defined under applicable accounting\nstandards, whether engaged in financial or non-financial services."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1a1a7a83-7766-430f-a71b-ad7256fd9354",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 179,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 18,
+                "page_end": 18
+            },
+            "text": "Section 2013\n(2)\nreporting of fraud cases to RBI. Delay in reporting of frauds, and the consequent\ndelay in alerting other banks and dissemination of information through CFR could"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "7ee6ba21-69ee-4c15-9900-4c632d37d401",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 180,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 18,
+                "page_end": 19
+            },
+            "text": "Section 2013\n(2)\nfix staff accountability for delays in identification of fraud cases and in reporting\nto RBI.\n51. While reporting frauds, the SFB shall ensure that persons / entities who / which"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "37e1d2cb-4629-4290-be9b-db21538a5b6e",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 181,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 19,
+                "page_end": 19
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d242dcee-99fd-4e8a-90ba-a954a9f9701b",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 182,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 19,
+                "page_end": 19
+            },
+            "text": "Section 2013\n(2)\nare not involved / associated with the fraud are not reported in the FMR."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "97748a0b-8ec2-4e2d-873b-db52d9161fbb",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 183,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 19,
+                "page_end": 19
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "5eebc65b-0b77-4117-99f2-80b7397196dd",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 184,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 19,
+                "page_end": 19
+            },
+            "text": "Section 2013\n(2)\nbe made with due justification and with the approval of an official at least in the\nrank of a whole-time director.\n53. In cases where withdrawal of FMR / removal of name(s) of perpetrator(s) is\nnecessitated due to Court directions, the SFB may arrange to withdraw"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1b48b07c-217c-4977-9f9f-63b7239a9778",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 185,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 19,
+                "page_end": 19
+            },
+            "text": "Section 2013\n(2)\nsubsequently be placed before the official in the rank of WTD for information.\nD."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "93cb8ad8-0d8c-492b-95ed-a3d0ded17a56",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 186,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 19,
+                "page_end": 19
+            },
+            "text": "Section 2013\n(2)\n54. The SFB shall close fraud cases using ‘Closure Module’ where the actions as\nstated below are complete:"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "261ecb5c-541c-429d-baec-5868ab0a72df",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 187,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 19,
+                "page_end": 19
+            },
+            "text": "Section 2013\n(2)\nThe fraud cases pending with LEAs / Court are disposed of; and"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "9671bc97-1022-4664-a884-c88c0f586c2e",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 188,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 19,
+                "page_end": 19
+            },
+            "text": "Section 2013\n(2)\nThe examination of staff accountability has been completed.\n55. The SFB is allowed, for limited statistical / reporting purposes, to close those\nreported fraud cases involving amount up to ₹1 crore, where examination of staff\naccountability and disciplinary action, if any, have been taken and"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "58e9d8bd-1e92-494e-910d-6db7426f4acf",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 189,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 19,
+                "page_end": 19
+            },
+            "text": "Section 2013\n(2)\nThe investigation is going on or charge-sheet has not been filed in the Court\nby LEA for more than three years from the date of registration of First\nInformation Report (FIR); or"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "df87fd55-2cff-4c96-9007-c0aa8282a039",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 190,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 19,
+                "page_end": 20
+            },
+            "text": "Section 2013\n(2)\nThe charge-sheet is filed by the LEAs in trial court and the trial in the court\nhas not commenced or is pending before the court for more than three years\nfrom the date of registration of FIR.\n56. In all closure cases of reported frauds, the SFB shall maintain details of such\ncases for examination by auditors."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "a6574f0f-911e-44f9-a9cd-a81a264af1fe",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 191,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 20,
+                "page_end": 20
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "a0bd50fb-fece-45ac-98ba-3bc869f5ca86",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 192,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 20,
+                "page_end": 20
+            },
+            "text": "Section 2013\n(2)\nChapter VII - Cheque Related Frauds - Reporting to Law Enforcement Agencies"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "4d875381-8983-4305-bbed-febb09918d15",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 193,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 20,
+                "page_end": 20
+            },
+            "text": "Section 2013\n(2)\n57. To ensure uniformity and avoid duplication, reporting of frauds involving forged\ninstruments, including fake / forged instruments sent in clearing in respect of\ntruncated instruments, shall continue to be done by the paying banker and not\nby the presenting banker. In such cases the presenting bank shall immediately\nhand over the underlying instrument to the drawee / paying bank, as and when\ndemanded, to enable them to inform LEAs for investigation and further action\nunder law and to report the fraud to RBI.\n58. However, in the case of presentment of an instrument which is genuine but"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "50d254ee-9c46-4a3e-8f6a-d8c406f14abc",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 194,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 20,
+                "page_end": 20
+            },
+            "text": "Section 2013\n(2)\namount has been credited before realisation and subsequently the instrument is"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "a6a1abf5-8b09-42d4-ac87-8f2603c938af",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 195,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 20,
+                "page_end": 21
+            },
+            "text": "Section 2013\n(2)\nwhich is defrauded or is put to loss by paying the amount before realisation of\nthe instrument shall file the fraud report with RBI and inform the LEAs for\ninvestigation and further action under law."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "233b27d6-b666-4950-99ac-b7b7f807f1c2",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 196,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 21,
+                "page_end": 21
+            },
+            "text": "Section 2013\n(2)\nRBI (SFBs - Fraud Risk Management) Directions, 2026\nChapter VIII - Other Instructions\nA."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3e62d263-8edd-45bd-b31c-0975c52acdc6",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 197,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 21,
+                "page_end": 21
+            },
+            "text": "Section 2013\n(2)\n59. The SFB shall subject the title deeds and other related title documents in respect"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1b540599-3616-4bfe-ae0a-70b0b81d610e",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 198,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 21,
+                "page_end": 21
+            },
+            "text": "Section 2013\n(2)\nverification, till the loan is fully repaid. The scope and periodicity of legal audit\nshall be in accordance with the Board approved policy referred to in Paragraph\n5 above.\nB.\nTreatment of Accounts classified as Fraud and sold to other Lenders /"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "328ed324-4479-4ca3-bf83-de1bce706c4a",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 199,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 21,
+                "page_end": 21
+            },
+            "text": "Section 2013\n(2)\n60. The SFB shall complete the investigation from fraud angle before transferring the\nloan account / credit facility to other lenders / Asset Reconstruction Companies\n(ARCs). In cases where the SFB concludes that a fraud has been perpetrated in\nthe account, they shall report it to RBI before selling the accounts to other\nlenders / ARCs. In cases where accounts are sold to ARCs, the SFB shall\ncontinue to report subsequent developments in such accounts to RBI, by\nobtaining requisite information periodically from the concerned ARCs.\nC."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3de88692-9b87-46ca-98a9-8c008f11a7f7",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 200,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 21,
+                "page_end": 21
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "aecd5565-1c27-4c70-99b3-76d6235d4fdc",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 201,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 21,
+                "page_end": 21
+            },
+            "text": "Section 2013\n(2)\ntransactions in the account or the documents point to the possibility of fraudulent\ntransactions in the account. In such a situation, the auditor should immediately\nbring it to the notice of the senior management and if necessary, to the ACB of\nthe SFB for appropriate action.\n62. Internal Audit in the SFB shall cover controls and processes involved in\nprevention, detection, classification, monitoring, reporting, closure and"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "97783340-aeb0-43ce-b9a2-900ba417f5c7",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 202,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 21,
+                "page_end": 22
+            },
+            "text": "Section 2013\n(2)\nprocesses in the fraud risk management framework of the SFB, including delay\nin reporting, non-reporting, conduct of staff accountability examination and\nprudential provisioning.\n5 Reference is invited to the Reserve Bank of India (Small Finance Banks- Transfer and Distribution of\nCredit Risk) Directions, 2025"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e415523b-8acf-466f-8471-4c4fe45f61af",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 203,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 22,
+                "page_end": 22
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "91bbe6b4-1d84-4169-81e8-53493603e4ff",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 204,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 22,
+                "page_end": 22
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3a8ae4df-70fb-435d-8131-b843aa51e401",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 205,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 22,
+                "page_end": 22
+            },
+            "text": "Section 2013\n(2)\n63. The SFB shall report instances of theft, burglary, dacoity and robbery (including"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e274fc0f-0fc1-400c-951a-441558cff0b8",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 206,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 22,
+                "page_end": 22
+            },
+            "text": "Section 2013\n(2)\nCentral Office, Reserve Bank of India, immediately (not later than seven days)\nfrom their occurrence, in the prescribed ‘Return on Bank Robberies, Dacoities,\nThefts and Burglaries (RBR)’ format through e-mail (doscofrmc@rbi.org.in). The\nformat is available on RBI website."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e92055fe-620f-4c6e-a9eb-e80881beda54",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 207,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 22,
+                "page_end": 22
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e44d7279-457c-4bca-974b-180650365f47",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 208,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 22,
+                "page_end": 23
+            },
+            "text": "Section 2013\n(2)\ncases during the quarter. This shall be submitted within 15 days from the end of\nthe quarter to which it relates."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "4360d4e6-a3c6-4131-96a4-1d0006edbbc4",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 209,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 23,
+                "page_end": 23
+            },
+            "text": "Section 2013\n(2)\nRBI (SFBs - Fraud Risk Management) Directions, 2026\nChapter X - Repeal and Other Provisions\nA."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "0274edc9-8452-45e9-9c6a-ec41ec6a38ee",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 210,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 23,
+                "page_end": 23
+            },
+            "text": "Section 2013\n(2)\n65. With the issue of these Directions, the existing directions, instructions, and\nguidelines relating to Fraud Risk Management as applicable to Small Finance\nBanks"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "0899929e-fb7e-4f75-841f-a84c06c940cf",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 211,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 23,
+                "page_end": 23
+            },
+            "text": "Section 2013\n(2)\nrepealed,"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "7d359b76-0bd5-4b0b-923c-1d6b0f686784",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 212,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 23,
+                "page_end": 23
+            },
+            "text": "Section 2013\n(2)\ncommunicated"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "2798f5e8-e175-44b8-9587-c38c8ce2849f",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 213,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 23,
+                "page_end": 23
+            },
+            "text": "Section 2013\n(2)\ncircular\nno."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "8bdd1297-c9a6-4772-9c37-d67ac9618d20",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 214,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 23,
+                "page_end": 23
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3ee67210-5249-4d0f-a399-943622b9814c",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 215,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 23,
+                "page_end": 23
+            },
+            "text": "Section 2013\n(2)\ninstructions, and guidelines listed in the above circular shall continue to remain\nrepealed.\n66. Notwithstanding such repeal, any action taken or purported to have been taken,\nor initiated under the repealed directions, instructions, or guidelines shall"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "ad70ef6a-c05a-453a-ae05-402cd53f58b3",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 216,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 23,
+                "page_end": 23
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1534e29f-df7a-4bc0-a88a-8f603d41f8f6",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 217,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 23,
+                "page_end": 23
+            },
+            "text": "Section 2013\n(2)\ngoverned by these Directions. Further, the repeal of these directions,\ninstructions, or guidelines shall not in any way prejudicially affect:"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "29a9992f-4c16-4460-9c47-6df473d0fe10",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 218,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 23,
+                "page_end": 23
+            },
+            "text": "Section 2013\n(2)\nany right, obligation or liability acquired, accrued, or incurred thereunder;"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e728e5a2-d30d-40af-9214-a22f95f5dc0a",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 219,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 23,
+                "page_end": 23
+            },
+            "text": "Section 2013\n(2)\nany penalty, forfeiture, or punishment incurred in respect of any\ncontravention committed thereunder;"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "241de555-8a38-40d8-9544-9dff00580d71",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 220,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 23,
+                "page_end": 23
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "ca87f174-f6c8-4646-bd34-28d8792c87e4",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 221,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 23,
+                "page_end": 23
+            },
+            "text": "Section 2013\n(2)\nprivilege, obligation, liability, penalty, forfeiture, or punishment as aforesaid;\nand any such investigation, legal proceedings or remedy may be instituted,"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1b8aad7c-7e1e-4434-84f4-3f13bcd316f0",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 222,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 23,
+                "page_end": 23
+            },
+            "text": "Section 2013\n(2)\nbe imposed as if those directions, instructions, or guidelines had not been\nrepealed.\nB."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "7bbda1ee-9648-494e-ba91-dc58cbc4832d",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 223,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 23,
+                "page_end": 24
+            },
+            "text": "Section 2013\n(2)\n67. The provisions of these Directions shall be in addition to, and not in derogation\nof the provisions of any other laws, rules, regulations, or directions, for the time\nbeing in force.\n24\nC."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "f9841f43-bdac-4bed-99d3-b14009d744c4",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 224,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 24,
+                "page_end": 24
+            },
+            "text": "Section 2013\n(2)\n68. For giving effect to the provisions of these Directions or to remove any"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "4cb7704c-3be2-4b7e-a3fc-adf90f22310a",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 225,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 24,
+                "page_end": 24
+            },
+            "text": "Section 2013\n(2)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1ef59e8a-5d44-4e75-9733-09d124456fbf",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 226,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 24,
+                "page_end": 24
+            },
+            "text": "Section 2013\n(2)\nin respect of any matter covered herein and the interpretation of any provision\nof these Directions given by RBI shall be final and binding."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "25af86ac-8d47-4d98-b4a5-85f439f2b2bb",
+                "document_uuid": "7980a13e-4188-4cbe-a021-7da539324b08",
+                "chunk_index": 227,
+                "authority": "RBI",
+                "document_title": "RBI Small Finance Banks Fraud Risk Management Directions 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2013",
+                "subsection": "",
+                "heading": "(2)",
+                "page_start": 24,
+                "page_end": 24
+            },
+            "text": "Section 2013\n(2)\nChief General Manager"
+        }
+    ]
+}

@@ -1,0 +1,957 @@
+{
+    "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "e939a68d-981a-43d6-878a-0ce77f63b24e",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 0,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "RESERVE BANK OF INDIA"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "136418e8-1fbc-452a-b073-68ef443ad246",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 1,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "RBI/CO.DPSS.POLC.No.S56/02.14.003/2026-27\nApril 21, 2026"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "89596f3d-ae88-4bc1-abfc-b282d9108f5f",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 2,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Short Title and Commencement\nApplicability"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3c604c8c-ee5e-4f36-a862-2020c4cafc0b",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 3,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Processing of First Transaction and Subsequent Recurring"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "bd6829af-e8d1-4792-9144-71a0125aea99",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 4,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Dispute Resolution and Grievance Redressal\nOther Provisions"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e8c2e199-8b44-4d76-ab98-6326c4bc760a",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 5,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "In exercise of the powers conferred by Sections 10(2) read with Section 18 of the"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "9944860b-d3d7-4986-a508-7d398c9f29fb",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 6,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "hereby consolidates all circulars pertaining to e-mandates and issues the Directions\nhereinafter specified."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "daf6f6e7-1c22-4263-b0f9-2dea4ab531a9",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 7,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "(a) These Directions shall be called the “Digital Payments - E-mandate\nFramework, 2026”.\n(b) These Directions shall be effective immediately."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "9bdc5d8c-ffce-43ac-a371-d5bec0662b52",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 8,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 2
+            },
+            "text": "Providers and Payment System Participants in respect of processing of recurring\ntransactions, domestic or cross-border, using cards / PPI / UPI."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "37b941d0-b9f7-49b9-84f9-a8851a1f6a8f",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 9,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 2,
+                "page_end": 2
+            },
+            "text": "(a) The terms ‘authentication’, ’factor of authentication’, ‘issuer’, ‘merchant’"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "380aff3a-fae3-4e22-88f2-176bc51c818d",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 10,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 2,
+                "page_end": 2
+            },
+            "text": "(Authentication mechanisms for digital payment transactions) Directions, 2025\ndated September 25, 2025 and Master Direction on Regulation of Payment\nAggregator (PA) dated September 15, 2025."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "6a982665-ff78-4451-81f0-706d90612889",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 11,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 2,
+                "page_end": 2
+            },
+            "text": "(a) A customer desirous of opting for e-mandate facility shall undertake a one-time"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "cba279fc-a2e8-4d05-bf29-64b7d8163493",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 12,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 2,
+                "page_end": 2
+            },
+            "text": "validation of additional factor of authentication (AFA), in addition to the normal\nprocess required by the issuer.\n(b) Every e-mandate registered by the issuer shall specify the validity period of the\ne-mandate. The issuer shall provide the customer with a facility to modify the"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "4b020e05-b754-4fec-9c55-9c108d05ef98",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 13,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 2,
+                "page_end": 2
+            },
+            "text": "about this facility shall be clearly communicated to the customer at the time of\nregistration.\n(c) The e-mandate may be for either a pre-specified fixed amount or for a variable\namount subject to the overall cap fixed by the RBI. In the case of variable e-\nmandates, the issuer shall provide the customer with a facility to specify the\nmaximum value of any recurring transaction.\n(d) The customer shall be given a facility to choose or change a mode among\navailable options (SMS, email, etc.) for receiving the pre-transaction\nnotification from the issuer.\n(e) Any modification in, or withdrawal of, an existing e-mandate shall require AFA\nvalidation by the issuer."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "8330b617-d50e-46e4-83b1-f258824076c2",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 14,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 2,
+                "page_end": 3
+            },
+            "text": "(a) The first transaction under an e-mandate shall require AFA validation. If the\nfirst transaction is processed along with registration of the e-mandate, then\nAFA validation may be combined.\n(b) Payments under e-mandates shall not be subject to any other limits / controls\nset by the customer."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "b748ffef-ffbc-4f1e-adde-2effed8a2ef6",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 15,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 3,
+                "page_end": 3
+            },
+            "text": "(a) An issuer shall send a pre-transaction notification to the customer, at least 24\nhours prior to the actual charge / debit.\n(b) The pre-transaction notification shall, at the minimum, inform the customer\nabout the merchant’s name, transaction amount, date / time of debit, reference\nnumber of e-mandate, reason for debit, i.e., e-mandate registered by the\ncustomer.\n(c) The issuer shall provider a customer with a facility to opt-out of any particular\ntransaction or the e-mandate. Any such opt-out shall be validated by the issuer\nusing AFA. An intimation to this effect shall be sent to the customer.\n(d) Pre-transaction notification is not required for e-mandates registered to auto-\nreplenish balances of FASTag, and National Common Mobility Card (NCMC)."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "4045d0b9-35f1-4ed7-bf8e-5a876e1fb098",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 16,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 3,
+                "page_end": 3
+            },
+            "text": "notification shall, at the minimum, inform the customer about the merchant’s"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "8106715c-6c59-4644-8cda-792b125219aa",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 17,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 3,
+                "page_end": 3
+            },
+            "text": "transaction and e-mandate, reason for debit, i.e., e-mandate registered by the\ncustomer, and details on grievance redressal1."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "edc00842-25ed-4fa2-9490-48d756c17767",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 18,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 3,
+                "page_end": 3
+            },
+            "text": "(a) All recurring transactions may be authorised without AFA up to ₹15,000/- per\ntransaction. Transactions above this amount shall be subject to AFA.\n(b) Payment of insurance premiums, subscription to mutual funds, and credit card\nbill payments may be made without AFA up to ₹1,00,000/- per transaction."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "f149bf6e-ba28-46a0-a546-43197a956bea",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 19,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 3,
+                "page_end": 4
+            },
+            "text": "(a) An appropriate dispute redressal system shall be put in place by the issuer to\nfacilitate the customer to lodge grievance/s.\n(b) RBI instructions on limiting liability of customers for unauthorised transactions\nshall be applicable to recurring transactions under e-mandates as well.\n1 The requirement for providing details of grievance redressal is added, based on feedback."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "f249e930-135c-4b25-8291-46e49b710bd3",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 20,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "(a) No charges shall be levied to the customer for availing the e-mandate facility\nfor recurring transactions.\n(b) In case of cards, existing e-mandate(s) can be mapped to reissued cards2.\n(c) An acquirer shall ensure compliance with these directions by merchants on-\nboarded by them."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "5c56a3be-6f23-4d28-8ea4-52f40a12c796",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 21,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "With the issue of these directions, the instructions/guidelines contained in the\nfollowing circulars, issued by the Reserve Bank stand repealed."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "cbe2f5b8-c56d-4ab6-9fc8-1a69aee7b00e",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 22,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Circular No."
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c2ef1b10-15ba-4d35-8d66-a20b61691667",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 23,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Subject"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "b13cc14c-32b5-428f-8781-4d3c51e0bf74",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 24,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "1",
+                "subsection": "",
+                "heading": "DPSS.CO.PD.No.447/02.14.003/2019-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 1\nDPSS.CO.PD.No.447/02.14.003/2019-"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "866e7c4d-2420-40de-b430-2ef0c4af279e",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 25,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "1",
+                "subsection": "",
+                "heading": "DPSS.CO.PD.No.447/02.14.003/2019-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 1\nDPSS.CO.PD.No.447/02.14.003/2019-\nAugust 21,"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3ad4f073-a630-43cb-ad06-23a7b2e0d844",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 26,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "1",
+                "subsection": "",
+                "heading": "DPSS.CO.PD.No.447/02.14.003/2019-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 1\nDPSS.CO.PD.No.447/02.14.003/2019-\nProcessing of e-mandate on\ncards"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "666716aa-c8c7-401b-a089-4047ac37ce28",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 27,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "1",
+                "subsection": "",
+                "heading": "DPSS.CO.PD.No.447/02.14.003/2019-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 1\nDPSS.CO.PD.No.447/02.14.003/2019-"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "6857592f-475b-4092-90fa-c06e4d8e9580",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 28,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "1",
+                "subsection": "",
+                "heading": "DPSS.CO.PD.No.447/02.14.003/2019-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 1\nDPSS.CO.PD.No.447/02.14.003/2019-\ntransactions"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "53d4cc39-5ee4-4a6a-a92f-555288d07e1b",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 29,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2",
+                "subsection": "",
+                "heading": "DPSS.CO.PD",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 2\nDPSS.CO.PD\nNo.1324/02.23.001/2019-20"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "62b33ab2-6954-4cd0-a54b-8a04100c969e",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 30,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2",
+                "subsection": "",
+                "heading": "DPSS.CO.PD",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 2\nDPSS.CO.PD"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e994303a-d7ab-4ceb-afb7-466aa0bc8841",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 31,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2",
+                "subsection": "",
+                "heading": "DPSS.CO.PD",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 2\nDPSS.CO.PD\nProcessing of e-mandate in\nUnified Payments Interface\n(UPI)"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "0646f4ce-0e13-4eb0-bc7c-1b1555249c07",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 32,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2",
+                "subsection": "",
+                "heading": "DPSS.CO.PD",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 2\nDPSS.CO.PD"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3ae11c37-b78c-4b46-ba85-14dd3e703be1",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 33,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "2",
+                "subsection": "",
+                "heading": "DPSS.CO.PD",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 2\nDPSS.CO.PD\ntransactions"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e3d296cf-0c66-4598-9b8f-117ca998050b",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 34,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "3",
+                "subsection": "",
+                "heading": "DPSS.CO.PD No.754/02.14.003/2020-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 3\nDPSS.CO.PD No.754/02.14.003/2020-"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "b35c8a38-91c8-4eeb-901f-3e2bd7607c71",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 35,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "3",
+                "subsection": "",
+                "heading": "DPSS.CO.PD No.754/02.14.003/2020-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 3\nDPSS.CO.PD No.754/02.14.003/2020-\nDecember"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c2da66fb-bbee-43cd-a085-98db2d82ddd8",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 36,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "3",
+                "subsection": "",
+                "heading": "DPSS.CO.PD No.754/02.14.003/2020-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 3\nDPSS.CO.PD No.754/02.14.003/2020-"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c8934e60-d4ff-43f7-8879-20c6ab61bb80",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 37,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "3",
+                "subsection": "",
+                "heading": "DPSS.CO.PD No.754/02.14.003/2020-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 3\nDPSS.CO.PD No.754/02.14.003/2020-\nfor recurring transactions"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "9beda0ef-bd08-4c4d-804d-3ea0fc8d4075",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 38,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "4",
+                "subsection": "",
+                "heading": "CO.DPSS.POLC.No.S34/02-14-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 4\nCO.DPSS.POLC.No.S34/02-14-"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e0fc41d8-6290-4fb5-92f5-c58da7c5caf6",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 39,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "4",
+                "subsection": "",
+                "heading": "CO.DPSS.POLC.No.S34/02-14-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 4\nCO.DPSS.POLC.No.S34/02-14-\nMarch 31,"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c53bdc22-f493-48f6-a2e2-1a064643a116",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 40,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "4",
+                "subsection": "",
+                "heading": "CO.DPSS.POLC.No.S34/02-14-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 4\nCO.DPSS.POLC.No.S34/02-14-"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "2803dbe8-3127-484c-9ee8-3036e1d722ce",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 41,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "4",
+                "subsection": "",
+                "heading": "CO.DPSS.POLC.No.S34/02-14-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 4\nCO.DPSS.POLC.No.S34/02-14-\nof e-mandates for recurring\nonline transactions"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "7088eb87-76bc-4c2d-9ca5-66284b93796f",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 42,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "5",
+                "subsection": "",
+                "heading": "Clarification issued to IBA on e-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 5\nClarification issued to IBA on e-\nmandate based recurring transactions"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "4e970839-2149-471e-a569-020c58d6b045",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 43,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "5",
+                "subsection": "",
+                "heading": "Clarification issued to IBA on e-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 5\nClarification issued to IBA on e-"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "ac542c43-78cd-4548-9dd5-76bd6ce84d92",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 44,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "5",
+                "subsection": "",
+                "heading": "Clarification issued to IBA on e-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 5\nClarification issued to IBA on e-"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "b8ab0111-41b1-42b6-8186-93736d351a9b",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 45,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "5",
+                "subsection": "",
+                "heading": "Clarification issued to IBA on e-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 5\nClarification issued to IBA on e-\nmandate based recurring\ntransactions"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d5fc961f-8454-4a1d-9f4d-6ac45cbbc611",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 46,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "6",
+                "subsection": "",
+                "heading": "CO.DPSS.POLC.No.S-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 6\nCO.DPSS.POLC.No.S-\n518/02.14.003/2022-23\nJune 16,"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "4ccbb71c-4ac2-44c5-b83c-0dec81410c99",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 47,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "6",
+                "subsection": "",
+                "heading": "CO.DPSS.POLC.No.S-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 6\nCO.DPSS.POLC.No.S-"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "0f6cc06c-fd2e-4b6c-a06d-e366e2be3b23",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 48,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "6",
+                "subsection": "",
+                "heading": "CO.DPSS.POLC.No.S-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 6\nCO.DPSS.POLC.No.S-\nfor recurring transactions"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e2cb169d-bae8-421f-ac68-f97f1d8fcf4f",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 49,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "7",
+                "subsection": "",
+                "heading": "CO.DPSS.POLC.No.S-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 7\nCO.DPSS.POLC.No.S-\n882/02.14.003/2023-24\nDecember"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "b0044f07-ce26-415e-97ff-99e751c9dc65",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 50,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "7",
+                "subsection": "",
+                "heading": "CO.DPSS.POLC.No.S-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 7\nCO.DPSS.POLC.No.S-"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "becc6794-a93a-4110-971c-f8e6280ac858",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 51,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "7",
+                "subsection": "",
+                "heading": "CO.DPSS.POLC.No.S-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 7\nCO.DPSS.POLC.No.S-\nfor recurring transactions"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "9cf878dd-0791-4365-8dae-1cefc27fc151",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 52,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "8",
+                "subsection": "",
+                "heading": "CO.DPSS.POLC.No.S528/02-14-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 8\nCO.DPSS.POLC.No.S528/02-14-\n003/2024-25\nAugust 22,"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "fb3da0df-ca9a-4450-ba70-7ab2703979e8",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 53,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "8",
+                "subsection": "",
+                "heading": "CO.DPSS.POLC.No.S528/02-14-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 8\nCO.DPSS.POLC.No.S528/02-14-"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "72255fac-2c19-45f0-92ee-475412eec82f",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 54,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "8",
+                "subsection": "",
+                "heading": "CO.DPSS.POLC.No.S528/02-14-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 8\nCO.DPSS.POLC.No.S528/02-14-\nfor recurring transactions"
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "a0402b76-97c3-4f3b-8dc6-90de52afd3a4",
+                "document_uuid": "73964c2f-e49e-4fcb-80d0-3769b13f74d0",
+                "chunk_index": 55,
+                "authority": "RBI",
+                "document_title": "RBI Digital Payments E-mandate 2026",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "8",
+                "subsection": "",
+                "heading": "CO.DPSS.POLC.No.S528/02-14-",
+                "page_start": 4,
+                "page_end": 4
+            },
+            "text": "Section 8\nCO.DPSS.POLC.No.S528/02-14-\n2 This clause is added based on feedback."
+        }
+    ]
+}
