@@ -1,0 +1,20 @@
+2026-08-07 01:44:21,529 | INFO | Processing NationalInsurance_Anti_Fraud_Policy_2026.pdf
+2026-08-07 01:44:21,773 | INFO | Saved extracted\NationalInsurance\NationalInsurance_Anti_Fraud_Policy_2026.json
+2026-08-07 01:44:21,773 | INFO | Processing NPCI_TransactionLimit_2026.pdf
+2026-08-07 01:44:21,807 | INFO | Saved extracted\NPCI\NPCI_TransactionLimit_2026.json
+2026-08-07 01:44:21,807 | INFO | Processing razorpay_fraud_detection_guidelines.md
+2026-08-07 01:44:21,837 | INFO | Saved extracted\Razorpay\razorpay_fraud_detection_guidelines.json
+2026-08-07 01:44:21,840 | INFO | Processing RBI_All_India_Financial_Institutions_Fraud_Risk_Management_Directions_2026.pdf
+2026-08-07 01:44:22,023 | INFO | Saved extracted\RBI\RBI_All_India_Financial_Institutions_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 01:44:22,023 | INFO | Processing RBI_Commercial_Banks_Fraud_Risk_Management_Directions_2026.pdf
+2026-08-07 01:44:22,230 | INFO | Saved extracted\RBI\RBI_Commercial_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 01:44:22,231 | INFO | Processing RBI_Digital_Payments_E-mandate_2026.pdf
+2026-08-07 01:44:22,293 | INFO | Saved extracted\RBI\RBI_Digital_Payments_E-mandate_2026.json
+2026-08-07 01:44:22,293 | INFO | Processing RBI_Local_Area_Banks_Fraud_Risk_Management_Directions_2026.pdf
+2026-08-07 01:44:22,462 | INFO | Saved extracted\RBI\RBI_Local_Area_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 01:44:22,463 | INFO | Processing RBI_Payments Banks_Fraud_Risk_Management_Directions_2026.pdf
+2026-08-07 01:44:22,603 | INFO | Saved extracted\RBI\RBI_Payments Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 01:44:22,603 | INFO | Processing RBI_Small_Finance_Banks_Fraud_Risk_Management_Directions_2026.pdf
+2026-08-07 01:44:22,776 | INFO | Saved extracted\RBI\RBI_Small_Finance_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 01:44:22,780 | INFO | Processing RBI_Urban_Co_operative_Banks_Fraud_Risk_Management_Directions_2026.pdf
+2026-08-07 01:44:22,923 | INFO | Saved extracted\RBI\RBI_Urban_Co_operative_Banks_Fraud_Risk_Management_Directions_2026.json
