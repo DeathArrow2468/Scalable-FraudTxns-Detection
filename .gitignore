@@ -6,5 +6,4 @@ kinesis-producer-local_accessKeys.csv
 __pycache__/
 *.pyc
 train_data/
-RAG_Systems/Reteiever_1_research_papers/raw_papers
 RAG_Systems/Retriever_3_docs_on_guidelines/raw

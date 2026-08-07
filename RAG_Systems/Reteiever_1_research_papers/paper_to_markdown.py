@@ -5,7 +5,7 @@ from utils.pdf_processor import PDFProcessor
 from utils.prompt_builder import PromptBuilder
 from utils.ollama_client import OllamaClient
 from utils.markdown_writer import MarkdownWriter
-
+PAGES_PER_BATCH = 8
 
 BASE_DIR = Path(__file__).resolve().parent
 
@@ -24,19 +24,54 @@ def process(file_path):
 
     paper = PDFProcessor.process(file_path)
 
-    prompt = PromptBuilder.build(paper)
+    batches = batch_pages(paper.pages)
 
-    markdown = ollama.generate(prompt)
+    logger.info(f"{len(batches)} batches created")
+
+    intermediate_markdowns = []
+
+    for i, batch in enumerate(batches, start=1):
+
+        logger.info(
+            f"Processing batch {i}/{len(batches)}"
+        )
+
+        prompt = PromptBuilder.build_chunk(batch)
+
+        markdown = ollama.generate(prompt)
+
+        intermediate_markdowns.append(markdown)
+
+    logger.info("Merging markdowns")
+
+    merge_prompt = PromptBuilder.build_merge(
+        intermediate_markdowns
+    )
+
+    final_markdown = ollama.generate(
+        merge_prompt
+    )
 
     output = OUTPUT_FOLDER / f"{file_path.stem}.md"
 
     MarkdownWriter.save(
-        markdown,
+        final_markdown,
         output
     )
 
     logger.info(f"Saved {output}")
 
+def batch_pages(pages):
+
+    batches = []
+
+    for i in range(0, len(pages), PAGES_PER_BATCH):
+
+        batches.append(
+            pages[i:i + PAGES_PER_BATCH]
+        )
+
+    return batches
 
 def main():
 

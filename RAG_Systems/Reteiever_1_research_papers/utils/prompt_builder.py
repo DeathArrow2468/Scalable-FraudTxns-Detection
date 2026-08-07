@@ -1,18 +1,16 @@
-from utils.models import Paper
+from utils.models import Page
 
 
 class PromptBuilder:
 
     @staticmethod
-    def build(paper: Paper):
+    def build_chunk(pages: list[Page]):
 
         document = ""
 
-        for page in paper.pages:
+        for page in pages:
 
-            document += (
-                f"\n\n========== PAGE {page.page_number} ==========\n\n"
-            )
+            document += f"\n\n========== PAGE {page.page_number} ==========\n\n"
 
             document += page.text
 
@@ -21,19 +19,74 @@ You are a senior fraud investigator.
 
 Your task is NOT to summarize this paper.
 
-Instead, extract actionable fraud intelligence.
+Extract operational fraud intelligence.
 
 Ignore:
 
 - Experimental setup
-- Benchmarks
 - Accuracy
-- Training
-- Dataset descriptions
-- Equations
+- Datasets
 - Mathematical derivations
+- Related work
+- Evaluation
 
-Produce ONLY markdown.
+Return ONLY markdown.
+
+Use EXACTLY these headings.
+
+# Fraud Pattern
+
+# Executive Summary
+
+# Definition
+
+# Typical Attack Workflow
+
+# Behavioural Characteristics
+
+# Indicators
+
+# Common Feature Patterns
+
+# Detection Signals
+
+# False Positives
+
+# Prevention
+
+# References
+
+Paper:
+
+{document}
+"""
+
+    @staticmethod
+def build_merge(markdowns):
+
+    combined = "\n\n".join(markdowns)
+
+    return f"""
+You are a senior fraud intelligence analyst.
+
+The following markdown documents were independently generated from different sections of the SAME research paper.
+
+Your task is to merge them into ONE canonical fraud intelligence document.
+
+Rules:
+
+1. Remove duplicate information.
+2. Merge similar ideas into a single coherent explanation.
+3. Keep the MOST detailed explanation whenever two sections overlap.
+4. NEVER invent information that is not present.
+5. NEVER remove fraud indicators.
+6. NEVER remove behavioural characteristics.
+7. NEVER remove detection signals.
+8. NEVER remove common feature patterns.
+9. Preserve all references that appear in the markdowns.
+10. Preserve all fraud workflows.
+11. Keep the output concise but information complete.
+12. Return ONLY markdown.
 
 Use EXACTLY this structure.
 
@@ -59,7 +112,7 @@ Use EXACTLY this structure.
 
 # References
 
-Below is the paper.
+Below are the markdowns generated from the paper.
 
-{document}
+{combined}
 """
