@@ -46,3 +46,251 @@
 2026-08-07 04:23:12,535 | INFO | ========== Chunking Finished ==========
 2026-08-07 04:23:12,536 | INFO | Processed : 10
 2026-08-07 04:23:12,536 | INFO | Failed    : 0
+2026-08-07 13:48:51,017 | INFO | ========== Embedding Started ==========
+2026-08-07 13:48:51,020 | INFO | Embedding NationalInsurance_Anti_Fraud_Policy_2026.json
+2026-08-07 13:48:51,045 | INFO | Embedding Chunk 1/1
+2026-08-07 13:48:55,052 | ERROR | An error occurred (AccessDeniedException) when calling the InvokeModel operation: User: arn:aws:iam::134442916393:user/kinesis-producer-local is not authorized to perform: bedrock:InvokeModel on resource: arn:aws:bedrock:ap-south-1::foundation-model/amazon.titan-embed-text-v2:0 because no identity-based policy allows the bedrock:InvokeModel action
+Traceback (most recent call last):
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embed_chunks.py", line 86, in main
+    process_document(file)
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embed_chunks.py", line 68, in process_document
+    chunk.embedding = embedder.embed(chunk.embedding_text)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\utils\titan_embedder.py", line 21, in embed
+    reponse = self.client.invoke_model(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\client.py", line 606, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\context.py", line 123, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\client.py", line 1094, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.errorfactory.AccessDeniedException: An error occurred (AccessDeniedException) when calling the InvokeModel operation: User: arn:aws:iam::134442916393:user/kinesis-producer-local is not authorized to perform: bedrock:InvokeModel on resource: arn:aws:bedrock:ap-south-1::foundation-model/amazon.titan-embed-text-v2:0 because no identity-based policy allows the bedrock:InvokeModel action
+2026-08-07 13:48:55,057 | INFO | Embedding NPCI_TransactionLimit_2026.json
+2026-08-07 13:48:55,078 | INFO | Embedding Chunk 1/1
+2026-08-07 13:48:58,223 | ERROR | An error occurred (AccessDeniedException) when calling the InvokeModel operation: User: arn:aws:iam::134442916393:user/kinesis-producer-local is not authorized to perform: bedrock:InvokeModel on resource: arn:aws:bedrock:ap-south-1::foundation-model/amazon.titan-embed-text-v2:0 because no identity-based policy allows the bedrock:InvokeModel action
+Traceback (most recent call last):
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embed_chunks.py", line 86, in main
+    process_document(file)
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embed_chunks.py", line 68, in process_document
+    chunk.embedding = embedder.embed(chunk.embedding_text)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\utils\titan_embedder.py", line 21, in embed
+    reponse = self.client.invoke_model(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\client.py", line 606, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\context.py", line 123, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\client.py", line 1094, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.errorfactory.AccessDeniedException: An error occurred (AccessDeniedException) when calling the InvokeModel operation: User: arn:aws:iam::134442916393:user/kinesis-producer-local is not authorized to perform: bedrock:InvokeModel on resource: arn:aws:bedrock:ap-south-1::foundation-model/amazon.titan-embed-text-v2:0 because no identity-based policy allows the bedrock:InvokeModel action
+2026-08-07 13:48:58,225 | INFO | Embedding razorpay_fraud_detection_guidelines.json
+2026-08-07 13:48:58,250 | INFO | Embedding Chunk 1/1
+2026-08-07 13:49:01,398 | ERROR | An error occurred (AccessDeniedException) when calling the InvokeModel operation: User: arn:aws:iam::134442916393:user/kinesis-producer-local is not authorized to perform: bedrock:InvokeModel on resource: arn:aws:bedrock:ap-south-1::foundation-model/amazon.titan-embed-text-v2:0 because no identity-based policy allows the bedrock:InvokeModel action
+Traceback (most recent call last):
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embed_chunks.py", line 86, in main
+    process_document(file)
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embed_chunks.py", line 68, in process_document
+    chunk.embedding = embedder.embed(chunk.embedding_text)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\utils\titan_embedder.py", line 21, in embed
+    reponse = self.client.invoke_model(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\client.py", line 606, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\context.py", line 123, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\client.py", line 1094, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.errorfactory.AccessDeniedException: An error occurred (AccessDeniedException) when calling the InvokeModel operation: User: arn:aws:iam::134442916393:user/kinesis-producer-local is not authorized to perform: bedrock:InvokeModel on resource: arn:aws:bedrock:ap-south-1::foundation-model/amazon.titan-embed-text-v2:0 because no identity-based policy allows the bedrock:InvokeModel action
+2026-08-07 13:49:01,400 | INFO | Embedding RBI_All_India_Financial_Institutions_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 13:49:01,424 | INFO | Embedding Chunk 1/1
+2026-08-07 13:49:04,556 | ERROR | An error occurred (AccessDeniedException) when calling the InvokeModel operation: User: arn:aws:iam::134442916393:user/kinesis-producer-local is not authorized to perform: bedrock:InvokeModel on resource: arn:aws:bedrock:ap-south-1::foundation-model/amazon.titan-embed-text-v2:0 because no identity-based policy allows the bedrock:InvokeModel action
+Traceback (most recent call last):
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embed_chunks.py", line 86, in main
+    process_document(file)
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embed_chunks.py", line 68, in process_document
+    chunk.embedding = embedder.embed(chunk.embedding_text)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\utils\titan_embedder.py", line 21, in embed
+    reponse = self.client.invoke_model(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\client.py", line 606, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\context.py", line 123, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\client.py", line 1094, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.errorfactory.AccessDeniedException: An error occurred (AccessDeniedException) when calling the InvokeModel operation: User: arn:aws:iam::134442916393:user/kinesis-producer-local is not authorized to perform: bedrock:InvokeModel on resource: arn:aws:bedrock:ap-south-1::foundation-model/amazon.titan-embed-text-v2:0 because no identity-based policy allows the bedrock:InvokeModel action
+2026-08-07 13:49:04,558 | INFO | Embedding RBI_Commercial_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 13:49:04,586 | INFO | Embedding Chunk 1/1
+2026-08-07 13:49:07,733 | ERROR | An error occurred (AccessDeniedException) when calling the InvokeModel operation: User: arn:aws:iam::134442916393:user/kinesis-producer-local is not authorized to perform: bedrock:InvokeModel on resource: arn:aws:bedrock:ap-south-1::foundation-model/amazon.titan-embed-text-v2:0 because no identity-based policy allows the bedrock:InvokeModel action
+Traceback (most recent call last):
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embed_chunks.py", line 86, in main
+    process_document(file)
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embed_chunks.py", line 68, in process_document
+    chunk.embedding = embedder.embed(chunk.embedding_text)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\utils\titan_embedder.py", line 21, in embed
+    reponse = self.client.invoke_model(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\client.py", line 606, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\context.py", line 123, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\client.py", line 1094, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.errorfactory.AccessDeniedException: An error occurred (AccessDeniedException) when calling the InvokeModel operation: User: arn:aws:iam::134442916393:user/kinesis-producer-local is not authorized to perform: bedrock:InvokeModel on resource: arn:aws:bedrock:ap-south-1::foundation-model/amazon.titan-embed-text-v2:0 because no identity-based policy allows the bedrock:InvokeModel action
+2026-08-07 13:49:07,735 | INFO | Embedding RBI_Digital_Payments_E-mandate_2026.json
+2026-08-07 13:49:07,759 | INFO | Embedding Chunk 1/1
+2026-08-07 13:49:10,898 | ERROR | An error occurred (AccessDeniedException) when calling the InvokeModel operation: User: arn:aws:iam::134442916393:user/kinesis-producer-local is not authorized to perform: bedrock:InvokeModel on resource: arn:aws:bedrock:ap-south-1::foundation-model/amazon.titan-embed-text-v2:0 because no identity-based policy allows the bedrock:InvokeModel action
+Traceback (most recent call last):
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embed_chunks.py", line 86, in main
+    process_document(file)
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embed_chunks.py", line 68, in process_document
+    chunk.embedding = embedder.embed(chunk.embedding_text)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\utils\titan_embedder.py", line 21, in embed
+    reponse = self.client.invoke_model(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\client.py", line 606, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\context.py", line 123, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\client.py", line 1094, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.errorfactory.AccessDeniedException: An error occurred (AccessDeniedException) when calling the InvokeModel operation: User: arn:aws:iam::134442916393:user/kinesis-producer-local is not authorized to perform: bedrock:InvokeModel on resource: arn:aws:bedrock:ap-south-1::foundation-model/amazon.titan-embed-text-v2:0 because no identity-based policy allows the bedrock:InvokeModel action
+2026-08-07 13:49:10,899 | INFO | Embedding RBI_Local_Area_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 13:49:10,925 | INFO | Embedding Chunk 1/1
+2026-08-07 13:49:14,064 | ERROR | An error occurred (AccessDeniedException) when calling the InvokeModel operation: User: arn:aws:iam::134442916393:user/kinesis-producer-local is not authorized to perform: bedrock:InvokeModel on resource: arn:aws:bedrock:ap-south-1::foundation-model/amazon.titan-embed-text-v2:0 because no identity-based policy allows the bedrock:InvokeModel action
+Traceback (most recent call last):
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embed_chunks.py", line 86, in main
+    process_document(file)
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embed_chunks.py", line 68, in process_document
+    chunk.embedding = embedder.embed(chunk.embedding_text)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\utils\titan_embedder.py", line 21, in embed
+    reponse = self.client.invoke_model(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\client.py", line 606, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\context.py", line 123, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\client.py", line 1094, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.errorfactory.AccessDeniedException: An error occurred (AccessDeniedException) when calling the InvokeModel operation: User: arn:aws:iam::134442916393:user/kinesis-producer-local is not authorized to perform: bedrock:InvokeModel on resource: arn:aws:bedrock:ap-south-1::foundation-model/amazon.titan-embed-text-v2:0 because no identity-based policy allows the bedrock:InvokeModel action
+2026-08-07 13:49:14,065 | INFO | Embedding RBI_Payments Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 13:49:14,091 | INFO | Embedding Chunk 1/1
+2026-08-07 13:49:17,232 | ERROR | An error occurred (AccessDeniedException) when calling the InvokeModel operation: User: arn:aws:iam::134442916393:user/kinesis-producer-local is not authorized to perform: bedrock:InvokeModel on resource: arn:aws:bedrock:ap-south-1::foundation-model/amazon.titan-embed-text-v2:0 because no identity-based policy allows the bedrock:InvokeModel action
+Traceback (most recent call last):
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embed_chunks.py", line 86, in main
+    process_document(file)
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embed_chunks.py", line 68, in process_document
+    chunk.embedding = embedder.embed(chunk.embedding_text)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\utils\titan_embedder.py", line 21, in embed
+    reponse = self.client.invoke_model(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\client.py", line 606, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\context.py", line 123, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\client.py", line 1094, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.errorfactory.AccessDeniedException: An error occurred (AccessDeniedException) when calling the InvokeModel operation: User: arn:aws:iam::134442916393:user/kinesis-producer-local is not authorized to perform: bedrock:InvokeModel on resource: arn:aws:bedrock:ap-south-1::foundation-model/amazon.titan-embed-text-v2:0 because no identity-based policy allows the bedrock:InvokeModel action
+2026-08-07 13:49:17,234 | INFO | Embedding RBI_Small_Finance_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 13:49:17,259 | INFO | Embedding Chunk 1/1
+2026-08-07 13:49:20,398 | ERROR | An error occurred (AccessDeniedException) when calling the InvokeModel operation: User: arn:aws:iam::134442916393:user/kinesis-producer-local is not authorized to perform: bedrock:InvokeModel on resource: arn:aws:bedrock:ap-south-1::foundation-model/amazon.titan-embed-text-v2:0 because no identity-based policy allows the bedrock:InvokeModel action
+Traceback (most recent call last):
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embed_chunks.py", line 86, in main
+    process_document(file)
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embed_chunks.py", line 68, in process_document
+    chunk.embedding = embedder.embed(chunk.embedding_text)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\utils\titan_embedder.py", line 21, in embed
+    reponse = self.client.invoke_model(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\client.py", line 606, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\context.py", line 123, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\client.py", line 1094, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.errorfactory.AccessDeniedException: An error occurred (AccessDeniedException) when calling the InvokeModel operation: User: arn:aws:iam::134442916393:user/kinesis-producer-local is not authorized to perform: bedrock:InvokeModel on resource: arn:aws:bedrock:ap-south-1::foundation-model/amazon.titan-embed-text-v2:0 because no identity-based policy allows the bedrock:InvokeModel action
+2026-08-07 13:49:20,400 | INFO | Embedding RBI_Urban_Co_operative_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 13:49:20,429 | INFO | Embedding Chunk 1/1
+2026-08-07 13:49:23,566 | ERROR | An error occurred (AccessDeniedException) when calling the InvokeModel operation: User: arn:aws:iam::134442916393:user/kinesis-producer-local is not authorized to perform: bedrock:InvokeModel on resource: arn:aws:bedrock:ap-south-1::foundation-model/amazon.titan-embed-text-v2:0 because no identity-based policy allows the bedrock:InvokeModel action
+Traceback (most recent call last):
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embed_chunks.py", line 86, in main
+    process_document(file)
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embed_chunks.py", line 68, in process_document
+    chunk.embedding = embedder.embed(chunk.embedding_text)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\utils\titan_embedder.py", line 21, in embed
+    reponse = self.client.invoke_model(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\client.py", line 606, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\context.py", line 123, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\.venv\Lib\site-packages\botocore\client.py", line 1094, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.errorfactory.AccessDeniedException: An error occurred (AccessDeniedException) when calling the InvokeModel operation: User: arn:aws:iam::134442916393:user/kinesis-producer-local is not authorized to perform: bedrock:InvokeModel on resource: arn:aws:bedrock:ap-south-1::foundation-model/amazon.titan-embed-text-v2:0 because no identity-based policy allows the bedrock:InvokeModel action
+2026-08-07 13:49:23,568 | INFO | ========== Embedding Finished ==========
+2026-08-07 13:49:23,569 | INFO | Processed : 0
+2026-08-07 13:49:23,569 | INFO | Failed : 10
+2026-08-07 13:51:30,296 | INFO | ========== Embedding Started ==========
+2026-08-07 13:51:30,298 | INFO | Embedding NationalInsurance_Anti_Fraud_Policy_2026.json
+2026-08-07 13:51:30,305 | INFO | Embedding Chunk 1/1
+2026-08-07 13:51:31,332 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embeddings\NationalInsurance\NationalInsurance_Anti_Fraud_Policy_2026.json
+2026-08-07 13:51:31,333 | INFO | Embedding NPCI_TransactionLimit_2026.json
+2026-08-07 13:51:31,333 | INFO | Embedding Chunk 1/1
+2026-08-07 13:51:34,590 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embeddings\NPCI\NPCI_TransactionLimit_2026.json
+2026-08-07 13:51:34,591 | INFO | Embedding razorpay_fraud_detection_guidelines.json
+2026-08-07 13:51:34,592 | INFO | Embedding Chunk 1/1
+2026-08-07 13:51:34,758 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embeddings\Razorpay\razorpay_fraud_detection_guidelines.json
+2026-08-07 13:51:34,759 | INFO | Embedding RBI_All_India_Financial_Institutions_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 13:51:34,762 | INFO | Embedding Chunk 1/1
+2026-08-07 13:51:34,929 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embeddings\RBI\RBI_All_India_Financial_Institutions_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 13:51:34,929 | INFO | Embedding RBI_Commercial_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 13:51:34,933 | INFO | Embedding Chunk 1/1
+2026-08-07 13:51:35,104 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embeddings\RBI\RBI_Commercial_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 13:51:35,105 | INFO | Embedding RBI_Digital_Payments_E-mandate_2026.json
+2026-08-07 13:51:35,106 | INFO | Embedding Chunk 1/1
+2026-08-07 13:51:35,273 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embeddings\RBI\RBI_Digital_Payments_E-mandate_2026.json
+2026-08-07 13:51:35,273 | INFO | Embedding RBI_Local_Area_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 13:51:35,276 | INFO | Embedding Chunk 1/1
+2026-08-07 13:51:35,427 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embeddings\RBI\RBI_Local_Area_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 13:51:35,428 | INFO | Embedding RBI_Payments Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 13:51:35,430 | INFO | Embedding Chunk 1/1
+2026-08-07 13:51:35,573 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embeddings\RBI\RBI_Payments Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 13:51:35,573 | INFO | Embedding RBI_Small_Finance_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 13:51:35,578 | INFO | Embedding Chunk 1/1
+2026-08-07 13:51:35,732 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embeddings\RBI\RBI_Small_Finance_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 13:51:35,732 | INFO | Embedding RBI_Urban_Co_operative_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 13:51:35,735 | INFO | Embedding Chunk 1/1
+2026-08-07 13:51:36,913 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retriever_3_docs_on_guidelines\embeddings\RBI\RBI_Urban_Co_operative_Banks_Fraud_Risk_Management_Directions_2026.json
+2026-08-07 13:51:36,914 | INFO | ========== Embedding Finished ==========
+2026-08-07 13:51:36,914 | INFO | Processed : 10
+2026-08-07 13:51:36,915 | INFO | Failed : 0

@@ -1,5 +1,5 @@
 from dataclasses import dataclass, field
-from typing import List
+from typing import List, Optional
 
 @dataclass
 class ChunkMetadata:
@@ -25,6 +25,8 @@ class ChunkMetadata:
 class Chunk:
     metadata: ChunkMetadata
     text: str
+    embedding: Optional[List[float]] = None
+    embedding_text: Optional[List[str]] = None
 
 @dataclass
 class ChunkCollection:
