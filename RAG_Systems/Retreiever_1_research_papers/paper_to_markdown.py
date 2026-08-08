@@ -52,7 +52,8 @@ def process(file_path):
         merge_prompt
     )
 
-    output = OUTPUT_FOLDER / f"{file_path.stem}.md"
+    relative_parent = file_path.relative_to(RAW_FOLDER).parent
+    output = OUTPUT_FOLDER / relative_parent / f"{file_path.stem}.md"    
 
     MarkdownWriter.save(
         final_markdown,
@@ -79,7 +80,7 @@ def main():
 
     failed = 0
 
-    for file in RAW_FOLDER.glob("*.pdf"):
+    for file in RAW_FOLDER.rglob("*.pdf"):
 
         try:
 
