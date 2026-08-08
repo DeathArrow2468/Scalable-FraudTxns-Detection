@@ -1,0 +1,233 @@
+{
+    "document_uuid": "930f5c5b-0405-4723-bc44-3666f575478e",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "98eae950-6af0-491c-8928-75609cf7247a",
+                "document_uuid": "930f5c5b-0405-4723-bc44-3666f575478e",
+                "chunk_index": 0,
+                "authority": "Merchant_Fraud",
+                "document_title": "2509.09928v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "E-commerce fraud detection using a two-layer graph convolutional network (GCN) integrated with large language models (LLMs) demonstrates high precision for legitimate transactions but struggles with low recall for fraudulent cases. The model achieves near-perfect precision (0.98) and recall (1.00) for non-fraud (Class 0), minimizing false positives, yet detects only 5% of fraudulent transactions (Class 1), with 31,726 false positives.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c0106573-94b2-41f9-b23f-e1b111023595",
+                "document_uuid": "930f5c5b-0405-4723-bc44-3666f575478e",
+                "chunk_index": 1,
+                "authority": "Merchant_Fraud",
+                "document_title": "2509.09928v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "The two-layer GCN-LLM framework excels at reducing false negatives for fraud (missing only 4 cases) but suffers from severe class imbalance (≈2.6% fraud samples), leading to low recall (0.05) and high false positives. Key limitations include insufficient modeling of higher-order graph dependencies, underutilization of LLMs for contextual features, and lack of temporal or behavioral cues. Recommendations include advanced sampling, focal loss, deeper GCN layers, multimodal fusion, and expanded feature spaces to balance precision and recall.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "05642179-5d8e-4904-b36b-ec96e6f09cc2",
+                "document_uuid": "930f5c5b-0405-4723-bc44-3666f575478e",
+                "chunk_index": 2,
+                "authority": "Merchant_Fraud",
+                "document_title": "2509.09928v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "E-commerce fraud refers to deceptive transactions involving fake user identities, stolen payment information, or coordinated bot networks. The GCN-LLM model aims to detect such fraud by analyzing transactional graphs and leveraging LLMs for semantic feature extraction.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "315d797a-e97e-469c-b917-58cdf400e08c",
+                "document_uuid": "930f5c5b-0405-4723-bc44-3666f575478e",
+                "chunk_index": 3,
+                "authority": "Merchant_Fraud",
+                "document_title": "2509.09928v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "1. Fraudsters create fake accounts using synthetic identities.\n2. They execute high-volume, low-risk transactions to avoid immediate detection.\n3. Fraudulent activities are often clustered in time or location, exploiting weaknesses in static graph analysis.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "4166d201-b0ac-4259-b4b9-af09686b4de4",
+                "document_uuid": "930f5c5b-0405-4723-bc44-3666f575478e",
+                "chunk_index": 4,
+                "authority": "Merchant_Fraud",
+                "document_title": "2509.09928v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **High precision for legitimate users**: Minimal false positives ensure smooth user experience.\n- **Low recall for fraud**: Majority of fraudulent transactions remain undetected due to class imbalance.\n- **Over-reliance on static features**: Lack of temporal dynamics (e.g., sudden transaction spikes) reduces sensitivity to evolving fraud patterns.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "b235a99e-e77e-49bb-944b-77d6a210def7",
+                "document_uuid": "930f5c5b-0405-4723-bc44-3666f575478e",
+                "chunk_index": 5,
+                "authority": "Merchant_Fraud",
+                "document_title": "2509.09928v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Model strengths**: Near-perfect precision for non-fraud, low false negatives (4 cases).\n- **Model weaknesses**: Low recall (0.05), high false positives (31,726), inability to capture long-range graph interactions or contextual LLM features.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "5885a5af-e10c-4cb7-b8cb-cf6c7b1000c4",
+                "document_uuid": "930f5c5b-0405-4723-bc44-3666f575478e",
+                "chunk_index": 6,
+                "authority": "Merchant_Fraud",
+                "document_title": "2509.09928v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Class imbalance**: Fraudulent samples (≈2.6%) are vastly outnumbered by legitimate transactions.\n- **Feature gaps**: Missing temporal (e.g., time-of-day), device, and behavioral (e.g., cart abandonment) data.\n- **Graph limitations**: Two-layer GCN fails to model higher-order dependencies or dynamic relationships.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "568b438b-7896-4965-b6b0-15b1a7595fc6",
+                "document_uuid": "930f5c5b-0405-4723-bc44-3666f575478e",
+                "chunk_index": 7,
+                "authority": "Merchant_Fraud",
+                "document_title": "2509.09928v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **GCN features**: Transactional and structural graph patterns.\n- **LLM features**: Underutilized semantic embeddings from text (e.g., user reviews, device logs).\n- **Missing signals**: Temporal trends, device fingerprints, and geolocation data.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c63d2bc2-d373-4f10-8fd9-554ec6a45695",
+                "document_uuid": "930f5c5b-0405-4723-bc44-3666f575478e",
+                "chunk_index": 8,
+                "authority": "Merchant_Fraud",
+                "document_title": "2509.09928v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **High volume**: 31,726 false positives due to overly conservative fraud detection thresholds.\n- **Impact**: Increased manual review workload and user frustration from legitimate transaction flags.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1262ee31-1735-4ea7-9b99-aa1645f3b4cc",
+                "document_uuid": "930f5c5b-0405-4723-bc44-3666f575478e",
+                "chunk_index": 9,
+                "authority": "Merchant_Fraud",
+                "document_title": "2509.09928v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "1. **Class imbalance mitigation**:\n- Use synthetic data generation (SMOTE, GANs) or focal loss to prioritize fraud detection.\n- Replace class-weighted loss with Tversky loss for better minority class handling.\n2. **Model enhancements**:\n- Add deeper GCN layers or attention mechanisms (e.g., GATs) for complex graph interactions.\n- Integrate LLMs for contextual embeddings from unstructured data (e.g., phishing-like text).\n3. **Feature expansion**:\n- Incorporate temporal dynamics (dynamic GCNs) and behavioral data (device/IP geolocation).\n- Use multimodal fusion of graph and LLM features.\n4. **Evaluation**: Adopt AUC-ROC and precision-recall curves for imbalanced datasets.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e55b56dc-98f0-4e68-bbcb-ffa56052e10d",
+                "document_uuid": "930f5c5b-0405-4723-bc44-3666f575478e",
+                "chunk_index": 10,
+                "authority": "Merchant_Fraud",
+                "document_title": "2509.09928v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- [Original paper on GCN-LLM framework for e-commerce fraud detection]\n- [Class imbalance techniques: SMOTE, GANs, focal loss]\n- [Graph attention networks (GATs) and dynamic graph convolutional networks (DGCNs)]",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "5ec831f5-b1eb-4045-83c2-3aaf8a5b0527",
+                "document_uuid": "930f5c5b-0405-4723-bc44-3666f575478e",
+                "chunk_index": 11,
+                "authority": "Merchant_Fraud",
+                "document_title": "2509.09928v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "*Note: References are preserved as per the original markdowns, though specific citations are not provided in the input.*",
+            "embedding": null,
+            "embedding_text": null
+        }
+    ]
+}

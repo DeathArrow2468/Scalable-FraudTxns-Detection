@@ -1,0 +1,233 @@
+{
+    "document_uuid": "ff26bfe9-0cb9-4ec0-931e-6cc1a02c5178",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "1c9c0902-87ed-4951-aa6d-f8887fa7ba2e",
+                "document_uuid": "ff26bfe9-0cb9-4ec0-931e-6cc1a02c5178",
+                "chunk_index": 0,
+                "authority": "Merchant_Fraud",
+                "document_title": "jrfm-18-00130",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "The paper presents a comprehensive analysis of using machine learning (ML) for fraud detection in the banking sector, focusing on synthetic data generation, algorithmic approaches (e.g., XGBoost), and evaluation of detection systems. Fraud is framed as a binary classification problem, distinguishing between normal and fraudulent transactions, with a strong emphasis on feature engineering and temporal analysis.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "97df5073-42ad-4375-9e37-4333c2cf4ddb",
+                "document_uuid": "ff26bfe9-0cb9-4ec0-931e-6cc1a02c5178",
+                "chunk_index": 1,
+                "authority": "Merchant_Fraud",
+                "document_title": "jrfm-18-00130",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "This research explores the application of machine learning in detecting fraudulent transactions within the banking sector. Key contributions include:\n- **Dataset and Feature Engineering**: Utilization of synthetic data generation techniques to address data scarcity and privacy challenges.\n- **Algorithm Selection**: Evaluation of advanced ML models, including XGBoost, for their efficacy in fraud detection.\n- **Evaluation Metrics**: Emphasis on precision, recall, and F1-score to balance false positives and false negatives.\n- **Challenges**: Identification of limitations in synthetic data generation, such as overfitting risks and alignment with real-world scenarios.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "92a18e9f-e64b-4ee2-b4f1-f779e94b062a",
+                "document_uuid": "ff26bfe9-0cb9-4ec0-931e-6cc1a02c5178",
+                "chunk_index": 2,
+                "authority": "Merchant_Fraud",
+                "document_title": "jrfm-18-00130",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Fraud detection in banking is defined as the process of identifying unauthorized or deceptive transactions using machine learning techniques. It is framed as a binary classification problem, distinguishing between legitimate (normal) and fraudulent transactions.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "6a1fc9eb-c2d8-4a03-9601-4f241186679c",
+                "document_uuid": "ff26bfe9-0cb9-4ec0-931e-6cc1a02c5178",
+                "chunk_index": 3,
+                "authority": "Merchant_Fraud",
+                "document_title": "jrfm-18-00130",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "While not explicitly detailed in the paper, fraud in banking typically involves:\n1. **Data Collection**: Gathering transactional data (e.g., amounts, times, locations).\n2. **Feature Engineering**: Extracting temporal patterns, behavioral metrics (e.g., transaction frequency), and anomalies.\n3. **Model Training**: Using ML algorithms (e.g., XGBoost) to classify transactions as fraudulent or legitimate.\n4. **Evaluation**: Assessing model performance using metrics like precision, recall, and F1-score to minimize false positives/negatives.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "17dcfed6-e999-4913-be97-55432793274c",
+                "document_uuid": "ff26bfe9-0cb9-4ec0-931e-6cc1a02c5178",
+                "chunk_index": 4,
+                "authority": "Merchant_Fraud",
+                "document_title": "jrfm-18-00130",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Fraudulent behavior is characterized by:\n- **Unusual Transaction Patterns**: Sudden spikes in transaction volume or amounts.\n- **Anomalous User Behavior**: Deviations from historical user activity (e.g., transactions from new locations).\n- **Temporal Irregularities**: Transactions occurring outside typical hours or intervals.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "98c5cc76-a572-4147-9e21-c1ab0e5ac653",
+                "document_uuid": "ff26bfe9-0cb9-4ec0-931e-6cc1a02c5178",
+                "chunk_index": 5,
+                "authority": "Merchant_Fraud",
+                "document_title": "jrfm-18-00130",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Key indicators for fraud detection include:\n- **Transaction-Level Features**: Amount, frequency, and location.\n- **Temporal Aggregations**: Daily/weekly transaction totals.\n- **Behavioral Metrics**: Deviations from user baselines (e.g., login times, device changes).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "217657e5-ad9a-4b57-9f29-eeb304e117e4",
+                "document_uuid": "ff26bfe9-0cb9-4ec0-931e-6cc1a02c5178",
+                "chunk_index": 6,
+                "authority": "Merchant_Fraud",
+                "document_title": "jrfm-18-00130",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Temporal Features**: Aggregation of transaction data over time (e.g., daily totals, peak hours).\n- **Behavioral Features**: User-specific patterns (e.g., transaction frequency, device usage).\n- **Anomaly Detection**: Statistical outliers in transaction attributes (e.g., unusually high amounts).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "58c61a31-49fd-4378-938b-436f65a0a63e",
+                "document_uuid": "ff26bfe9-0cb9-4ec0-931e-6cc1a02c5178",
+                "chunk_index": 7,
+                "authority": "Merchant_Fraud",
+                "document_title": "jrfm-18-00130",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Model Outputs**: Predicted probabilities from ML models (e.g., XGBoost).\n- **Threshold-Based Alerts**: Triggers based on predefined thresholds for suspicious features.\n- **Real-Time Monitoring**: Integration with transaction processing systems for immediate flagging.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "eca3147f-bc6b-412a-a391-320cf878ab30",
+                "document_uuid": "ff26bfe9-0cb9-4ec0-931e-6cc1a02c5178",
+                "chunk_index": 8,
+                "authority": "Merchant_Fraud",
+                "document_title": "jrfm-18-00130",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Challenge**: Balancing sensitivity and specificity to avoid flagging legitimate transactions.\n- **Mitigation**: Refinement of model thresholds and incorporation of contextual data (e.g., user verification steps).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "2258fd41-c3f1-47f4-9265-984d61a3660b",
+                "document_uuid": "ff26bfe9-0cb9-4ec0-931e-6cc1a02c5178",
+                "chunk_index": 9,
+                "authority": "Merchant_Fraud",
+                "document_title": "jrfm-18-00130",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Model Optimization**: Regular retraining with updated datasets to adapt to evolving fraud patterns.\n- **Synthetic Data Enhancements**: Addressing limitations in synthetic data generation (e.g., overfitting) through hybrid approaches.\n- **User Authentication**: Multi-factor authentication to reduce unauthorized access.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "8787e67f-a65d-479c-96f5-916ceacace4e",
+                "document_uuid": "ff26bfe9-0cb9-4ec0-931e-6cc1a02c5178",
+                "chunk_index": 10,
+                "authority": "Merchant_Fraud",
+                "document_title": "jrfm-18-00130",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Rode, Y., Jadhav, M., Jain, P., Kanase, O., & Phalake, V. S. (2022). Study on fraud transaction detection system. *International Journal of Advanced Research in Science Communication and Technology*, 2(3), 209–212. [CrossRef]\n- Siddiqi, N. (2006). *Credit risk scorecards: Developing and implementing intelligent credit scoring*. John Wiley & Sons.\n- Zahariev, A., Angelov, P., & Zarkova, S. (2022). Estimation of bank profitability using vector error correction model and support vector regression. *Economic Alternatives*, 28(2), 157–170. [CrossRef]\n- Assefa, S., D. D. (2020, October 15–16). Generating synthetic data in finance: Opportunities, challenges and pitfalls. *1st International Conference on AI in Finance (ICAIF)*, New York, NY, USA.\n- Zaharieva, G., Tarakchiyan, O., & Zahariev, A. (2022). Market capitalization factors of the Bulgarian pharmaceutical sector in pandemic environment. *Business Management*, 32(4), 35–51. [Online] https://bm.uni-svishtov.bg/title.asp?title=2784 (accessed on 12 November 2024).\n- Zhelev, Z., & Kostova, S. (2024). Investigating the application of digital tools for information management in financial control: Evidence from Bulgaria. *Journal of Risk and Financial Management*, 17(4), 165. [CrossRef]\n- Rode, Y., Jadhav, M., Jain, P., Kanase, O., & Phalake, V. S. (2022). Study on fraud transaction detection system. *International Journal of Advanced Research in Science Communication and Technology*, 2(3), 209–212. [CrossRef]\n- Assefa, S., D. D. (2020, October 15–16). Generating synthetic data in finance: Opportunities, challenges and pitfalls. *1st International Conference on AI in Finance (ICAIF)*, New York, NY, USA.\n- Zahariev, A., Angelov, P., & Zarkova, S. (2022). Estimation of bank profitability using vector error correction model and support vector regression. *Economic Alternatives*, 28(2), 157–170. [CrossRef]\n- Zaharieva, G., Tarakchiyan, O., & Zahariev, A. (2022). Market capitalization factors of the Bulgarian pharmaceutical sector in pandemic environment. *Business Management*, 32(4), 35–51. [Online] https://bm.uni-svishtov.bg/title.asp?title=2784 (accessed on 12 November 2024).\n- Zhelev, Z., & Kostova, S. (2024). Investigating the application of digital tools for information management in financial control: Evidence from Bulgaria. *Journal of Risk and Financial Management*, 17(4), 165. [CrossRef]\n- Rode, Y., Jadhav, M., Jain, P., Kanase, O., & Phalake, V. S. (2022). Study on fraud transaction detection system. *International Journal of Advanced Research in Science Communication and Technology*, 2(3), 209–212. [CrossRef]\n- Assefa, S., D. D. (2020, October 15–16). Generating synthetic data in finance: Opportunities, challenges and pitfalls. *1st International Conference on AI in Finance (ICAIF)*, New York, NY, USA.\n- Zahariev, A., Angelov, P., & Zarkova, S. (2022). Estimation of bank profitability using vector error correction model and support vector regression. *Economic Alternatives*, 28(2), 157–170. [CrossRef]\n- Zaharieva, G., Tarakchiyan, O., & Zahariev, A. (2022). Market capitalization factors of the Bulgarian pharmaceutical sector in pandemic environment. *Business Management*, 32(4), 35–51. [Online] https://bm.uni-svishtov.bg/title.asp?title=2784 (accessed on 12 November 2024).\n- Zhelev, Z., & Kostova, S. (2024). Investigating the application of digital tools for information management in financial control: Evidence from Bulgaria. *Journal of Risk and Financial Management*, 17(4), 165. [CrossRef]",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "0beaf4f0-f8e4-4f9c-80f6-759df3e343ed",
+                "document_uuid": "ff26bfe9-0cb9-4ec0-931e-6cc1a02c5178",
+                "chunk_index": 11,
+                "authority": "Merchant_Fraud",
+                "document_title": "jrfm-18-00130",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "**Note**: The \"Typical Attack Workflow\" section was inferred based on standard fraud detection processes, as the original text did not explicitly detail it. Other sections were derived from the provided content, with gaps addressed using logical extensions.",
+            "embedding": null,
+            "embedding_text": null
+        }
+    ]
+}

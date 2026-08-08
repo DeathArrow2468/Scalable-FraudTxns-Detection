@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "document_uuid": "6279d15c-67df-4505-965f-c4237dbb5dfc",
+        "document_id": "1A",
+        "title": "1a",
+        "authority": "Synthetic_Data",
+        "category": "Other",
+        "source_file": "markdown\\Synthetic_Data\\1a.md",
+        "file_type": "md",
+        "version": "1.0",
+        "year": null,
+        "total_pages": 1
+    },
+    "pages": [
+        {
+            "page_number": 1,
+            "text": "# Fraud Pattern  \nAdaptive financial crime and high-velocity fraud represent key challenges in digital banking. Fraud patterns evolve over time, necessitating continuous learning in detection models to counter adversarial adaptation (e.g., fraudsters modifying tactics to bypass detection). However, the paper does not specify detailed fraud operation tactics (e.g., phishing, identity theft, synthetic account creation) or provide indicator-of-compromise (IoC) data.  \n\n# Executive Summary  \nThe paper emphasizes the technical infrastructure for fraud detection (e.g., ML pipelines, real-time scoring) rather than operational intelligence on fraud itself. It highlights challenges such as adversarial adaptation, model drift, and the need for systems to detect evolving fraud patterns. However, it lacks actionable insights into fraudster tactics, IoCs, or threat actor behaviors, requiring external sources (e.g., threat intelligence platforms, AML reports) for operational fraud intelligence.  \n\n# Definition  \nAdaptive financial crime refers to fraud that evolves in response to detection systems, while high-velocity fraud involves rapid, large-scale attacks. The paper focuses on technical solutions for detecting these phenomena but does not define specific fraud operation tactics or threat actor profiles.  \n\n# Typical Attack Workflow  \nNot explicitly detailed in the paper. The focus is on detection system responses (e.g., real-time scoring, feedback loops) rather than fraud workflows.  \n\n# Behavioural Characteristics  \nAdversarial adaptation (fraudsters modifying tactics to evade detection) is noted as a key challenge. However, no specific behavioural characteristics of threat actors (e.g., organized crime groups, cybercriminals) are described.  \n\n# Indicators  \nNo specific fraud indicators (e.g., suspicious transaction patterns, geolocation anomalies) or IoCs are provided in the paper.  \n\n# Common Feature Patterns  \nNot specified in the paper.  \n\n# Detection Signals  \n- **Business impact metrics**: Fraud detection is evaluated using precision, recall, false-positive rates, and financial loss prevention.  \n- **Real-time scoring**: Immediate intervention to block fraudulent transactions.  \n- **Risk-based decisioning**: Allowing low-risk transactions while flagging high-risk cases.  \n\n# False Positives  \nFalse-positive rates are a critical metric for evaluation. Human oversight is required to review edge cases and validate model outputs, reducing false positives/negatives.  \n\n# Prevention  \n- **Real-time scoring**: Blocking fraudulent transactions pre-loss.  \n- **Risk-based decisioning**: Balancing customer experience with security.  \n- **Feedback loops**: Retraining models using confirmed fraud cases, disputes, and analyst reviews.  \n- **Regulatory compliance**: Ensuring model explainability, data privacy, and human oversight.  \n\n# References  \n- External sources (e.g., threat intelligence platforms, AML reports) are required for operational fraud intelligence on tactics, IoCs, or threat actor behaviors.",
+            "char_count": 3046
+        }
+    ]
+}

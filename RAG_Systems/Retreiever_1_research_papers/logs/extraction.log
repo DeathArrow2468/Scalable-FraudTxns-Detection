@@ -139,3 +139,172 @@
 2026-08-08 09:37:33,167 | INFO | Saved /home/ec2-user/Scalable-FraudTxns-Detection/RAG_Systems/Retreiever_1_research_papers/markdown/UPI_Fraud/a-comprehensive-survey-on-machine-learning-tech.md
 2026-08-08 09:37:33,167 | INFO | Processed : 23
 2026-08-08 09:37:33,167 | INFO | Failed : 0
+2026-08-08 20:37:48,730 | INFO | Processing 1-s2.0-S136-main.md
+2026-08-08 20:37:48,764 | INFO | Saved extracted\Account_Takeover\1-s2.0-S136-main.json
+2026-08-08 20:37:48,764 | INFO | Processing 1134.md
+2026-08-08 20:37:48,790 | INFO | Saved extracted\Account_Takeover\1134.json
+2026-08-08 20:37:48,790 | INFO | Processing 2506.10842v1.md
+2026-08-08 20:37:48,822 | INFO | Saved extracted\Account_Takeover\2506.10842v1.json
+2026-08-08 20:37:48,823 | INFO | Processing 2509.20339v1.md
+2026-08-08 20:37:48,855 | INFO | Saved extracted\Account_Takeover\2509.20339v1.json
+2026-08-08 20:37:48,855 | INFO | Processing View of Unsupervised.md
+2026-08-08 20:37:48,891 | INFO | Saved extracted\Account_Takeover\View of Unsupervised.json
+2026-08-08 20:37:48,893 | INFO | Processing 2506.10842v1.md
+2026-08-08 20:37:48,918 | INFO | Saved extracted\Merchant_Fraud\2506.10842v1.json
+2026-08-08 20:37:48,918 | INFO | Processing 2509.09928v1.md
+2026-08-08 20:37:48,953 | INFO | Saved extracted\Merchant_Fraud\2509.09928v1.json
+2026-08-08 20:37:48,953 | INFO | Processing 2509.18719v1.md
+2026-08-08 20:37:49,002 | INFO | Saved extracted\Merchant_Fraud\2509.18719v1.json
+2026-08-08 20:37:49,002 | INFO | Processing jrfm-18-00130.md
+2026-08-08 20:37:49,043 | INFO | Saved extracted\Merchant_Fraud\jrfm-18-00130.json
+2026-08-08 20:37:49,043 | INFO | Processing s41598-023-38304-5.md
+2026-08-08 20:37:49,078 | INFO | Saved extracted\Merchant_Fraud\s41598-023-38304-5.json
+2026-08-08 20:37:49,079 | INFO | Processing 1-s2.0-S016686-main.md
+2026-08-08 20:37:49,109 | INFO | Saved extracted\Social_Engineering\1-s2.0-S016686-main.json
+2026-08-08 20:37:49,109 | INFO | Processing 2110.06487v1.md
+2026-08-08 20:37:49,135 | INFO | Saved extracted\Social_Engineering\2110.06487v1.json
+2026-08-08 20:37:49,135 | INFO | Processing 2601.13581v1.md
+2026-08-08 20:37:49,168 | INFO | Saved extracted\Social_Engineering\2601.13581v1.json
+2026-08-08 20:37:49,168 | INFO | Processing 2604.11752v1.md
+2026-08-08 20:37:49,201 | INFO | Saved extracted\Social_Engineering\2604.11752v1.json
+2026-08-08 20:37:49,204 | INFO | Processing 41598_2023_Article_37552.md
+2026-08-08 20:37:49,227 | INFO | Saved extracted\Social_Engineering\41598_2023_Article_37552.json
+2026-08-08 20:37:49,227 | INFO | Processing 1a.md
+2026-08-08 20:37:49,261 | INFO | Saved extracted\Synthetic_Data\1a.json
+2026-08-08 20:37:49,261 | INFO | Processing Detecting_Synthetic_.md
+2026-08-08 20:37:49,293 | INFO | Saved extracted\Synthetic_Data\Detecting_Synthetic_.json
+2026-08-08 20:37:49,297 | INFO | Processing IJERET-V4I4P105.md
+2026-08-08 20:37:49,319 | INFO | Saved extracted\Synthetic_Data\IJERET-V4I4P105.json
+2026-08-08 20:37:49,319 | INFO | Processing ssrn-5353731.md
+2026-08-08 20:37:49,344 | INFO | Saved extracted\Synthetic_Data\ssrn-5353731.json
+2026-08-08 20:37:49,344 | INFO | Processing SyntheticDataGenerationUsi.md
+2026-08-08 20:37:49,376 | INFO | Saved extracted\Synthetic_Data\SyntheticDataGenerationUsi.json
+2026-08-08 20:37:49,378 | INFO | Processing a-comprehensive-survey-on-machine-learning-tech.md
+2026-08-08 20:37:49,399 | INFO | Saved extracted\UPI_Fraud\a-comprehensive-survey-on-machine-learning-tech.json
+2026-08-08 20:37:49,399 | INFO | Processing IJCRT2412897.md
+2026-08-08 20:37:49,435 | INFO | Saved extracted\UPI_Fraud\IJCRT2412897.json
+2026-08-08 20:37:49,435 | INFO | Processing IJRTI2510035.md
+2026-08-08 20:37:49,465 | INFO | Saved extracted\UPI_Fraud\IJRTI2510035.json
+2026-08-08 20:38:34,388 | INFO | ========== Chunking Started ==========
+2026-08-08 20:38:34,389 | INFO | Processing 1-s2.0-S136-main.json
+2026-08-08 20:38:34,396 | INFO | Saved 11 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\Account_Takeover\1-s2.0-S136-main.json
+2026-08-08 20:38:34,396 | INFO | Processing 1134.json
+2026-08-08 20:38:34,433 | INFO | Saved 10 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\Account_Takeover\1134.json
+2026-08-08 20:38:34,433 | INFO | Processing 2506.10842v1.json
+2026-08-08 20:38:34,474 | INFO | Saved 11 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\Account_Takeover\2506.10842v1.json
+2026-08-08 20:38:34,474 | INFO | Processing 2509.20339v1.json
+2026-08-08 20:38:34,506 | INFO | Saved 11 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\Account_Takeover\2509.20339v1.json
+2026-08-08 20:38:34,506 | INFO | Processing View of Unsupervised.json
+2026-08-08 20:38:34,532 | INFO | Saved 11 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\Account_Takeover\View of Unsupervised.json
+2026-08-08 20:38:34,539 | INFO | Processing 2506.10842v1.json
+2026-08-08 20:38:34,575 | INFO | Saved 11 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\Merchant_Fraud\2506.10842v1.json
+2026-08-08 20:38:34,575 | INFO | Processing 2509.09928v1.json
+2026-08-08 20:38:34,612 | INFO | Saved 12 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\Merchant_Fraud\2509.09928v1.json
+2026-08-08 20:38:34,612 | INFO | Processing 2509.18719v1.json
+2026-08-08 20:38:34,658 | INFO | Saved 10 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\Merchant_Fraud\2509.18719v1.json
+2026-08-08 20:38:34,658 | INFO | Processing jrfm-18-00130.json
+2026-08-08 20:38:34,693 | INFO | Saved 12 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\Merchant_Fraud\jrfm-18-00130.json
+2026-08-08 20:38:34,693 | INFO | Processing s41598-023-38304-5.json
+2026-08-08 20:38:34,731 | INFO | Saved 10 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\Merchant_Fraud\s41598-023-38304-5.json
+2026-08-08 20:38:34,739 | INFO | Processing 1-s2.0-S016686-main.json
+2026-08-08 20:38:34,779 | INFO | Saved 11 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\Social_Engineering\1-s2.0-S016686-main.json
+2026-08-08 20:38:34,781 | INFO | Processing 2110.06487v1.json
+2026-08-08 20:38:34,821 | INFO | Saved 11 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\Social_Engineering\2110.06487v1.json
+2026-08-08 20:38:34,821 | INFO | Processing 2601.13581v1.json
+2026-08-08 20:38:34,857 | INFO | Saved 12 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\Social_Engineering\2601.13581v1.json
+2026-08-08 20:38:34,860 | INFO | Processing 2604.11752v1.json
+2026-08-08 20:38:34,889 | INFO | Saved 11 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\Social_Engineering\2604.11752v1.json
+2026-08-08 20:38:34,889 | INFO | Processing 41598_2023_Article_37552.json
+2026-08-08 20:38:34,918 | INFO | Saved 9 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\Social_Engineering\41598_2023_Article_37552.json
+2026-08-08 20:38:34,923 | INFO | Processing 1a.json
+2026-08-08 20:38:34,952 | INFO | Saved 11 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\Synthetic_Data\1a.json
+2026-08-08 20:38:34,952 | INFO | Processing Detecting_Synthetic_.json
+2026-08-08 20:38:34,984 | INFO | Saved 11 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\Synthetic_Data\Detecting_Synthetic_.json
+2026-08-08 20:38:34,984 | INFO | Processing IJERET-V4I4P105.json
+2026-08-08 20:38:35,011 | INFO | Saved 11 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\Synthetic_Data\IJERET-V4I4P105.json
+2026-08-08 20:38:35,011 | INFO | Processing ssrn-5353731.json
+2026-08-08 20:38:35,047 | INFO | Saved 11 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\Synthetic_Data\ssrn-5353731.json
+2026-08-08 20:38:35,047 | INFO | Processing SyntheticDataGenerationUsi.json
+2026-08-08 20:38:35,080 | INFO | Saved 9 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\Synthetic_Data\SyntheticDataGenerationUsi.json
+2026-08-08 20:38:35,080 | INFO | Processing a-comprehensive-survey-on-machine-learning-tech.json
+2026-08-08 20:38:35,114 | INFO | Saved 11 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\UPI_Fraud\a-comprehensive-survey-on-machine-learning-tech.json
+2026-08-08 20:38:35,114 | INFO | Processing IJCRT2412897.json
+2026-08-08 20:38:35,147 | INFO | Saved 11 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\UPI_Fraud\IJCRT2412897.json
+2026-08-08 20:38:35,147 | INFO | Processing IJRTI2510035.json
+2026-08-08 20:38:35,182 | INFO | Saved 11 chunks -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\chunks\UPI_Fraud\IJRTI2510035.json
+2026-08-08 20:38:35,182 | INFO | ========== Chunking Finished ==========
+2026-08-08 20:38:35,182 | INFO | Processed : 23
+2026-08-08 20:38:35,182 | INFO | Failed    : 0
+2026-08-08 20:39:44,723 | INFO | ========== Embedding Started ==========
+2026-08-08 20:39:44,727 | INFO | Embedding 1-s2.0-S136-main.json
+2026-08-08 20:39:44,727 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:45,902 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Account_Takeover\1-s2.0-S136-main.json
+2026-08-08 20:39:45,902 | INFO | Embedding 1134.json
+2026-08-08 20:39:45,940 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:46,100 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Account_Takeover\1134.json
+2026-08-08 20:39:46,100 | INFO | Embedding 2506.10842v1.json
+2026-08-08 20:39:46,130 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:46,576 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Account_Takeover\2506.10842v1.json
+2026-08-08 20:39:46,577 | INFO | Embedding 2509.20339v1.json
+2026-08-08 20:39:46,599 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:46,766 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Account_Takeover\2509.20339v1.json
+2026-08-08 20:39:46,767 | INFO | Embedding View of Unsupervised.json
+2026-08-08 20:39:46,792 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:46,967 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Account_Takeover\View of Unsupervised.json
+2026-08-08 20:39:46,967 | INFO | Embedding 2506.10842v1.json
+2026-08-08 20:39:46,993 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:47,153 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Merchant_Fraud\2506.10842v1.json
+2026-08-08 20:39:47,153 | INFO | Embedding 2509.09928v1.json
+2026-08-08 20:39:47,182 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:47,334 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Merchant_Fraud\2509.09928v1.json
+2026-08-08 20:39:47,334 | INFO | Embedding 2509.18719v1.json
+2026-08-08 20:39:47,360 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:47,531 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Merchant_Fraud\2509.18719v1.json
+2026-08-08 20:39:47,533 | INFO | Embedding jrfm-18-00130.json
+2026-08-08 20:39:47,562 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:47,718 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Merchant_Fraud\jrfm-18-00130.json
+2026-08-08 20:39:47,718 | INFO | Embedding s41598-023-38304-5.json
+2026-08-08 20:39:47,744 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:47,914 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Merchant_Fraud\s41598-023-38304-5.json
+2026-08-08 20:39:47,915 | INFO | Embedding 1-s2.0-S016686-main.json
+2026-08-08 20:39:47,942 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:48,213 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Social_Engineering\1-s2.0-S016686-main.json
+2026-08-08 20:39:48,214 | INFO | Embedding 2110.06487v1.json
+2026-08-08 20:39:48,243 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:48,450 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Social_Engineering\2110.06487v1.json
+2026-08-08 20:39:48,451 | INFO | Embedding 2601.13581v1.json
+2026-08-08 20:39:48,486 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:48,633 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Social_Engineering\2601.13581v1.json
+2026-08-08 20:39:48,634 | INFO | Embedding 2604.11752v1.json
+2026-08-08 20:39:48,660 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:48,838 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Social_Engineering\2604.11752v1.json
+2026-08-08 20:39:48,840 | INFO | Embedding 41598_2023_Article_37552.json
+2026-08-08 20:39:48,865 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:49,043 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Social_Engineering\41598_2023_Article_37552.json
+2026-08-08 20:39:49,044 | INFO | Embedding 1a.json
+2026-08-08 20:39:49,070 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:49,318 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Synthetic_Data\1a.json
+2026-08-08 20:39:49,318 | INFO | Embedding Detecting_Synthetic_.json
+2026-08-08 20:39:49,351 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:49,657 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Synthetic_Data\Detecting_Synthetic_.json
+2026-08-08 20:39:49,658 | INFO | Embedding IJERET-V4I4P105.json
+2026-08-08 20:39:49,686 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:49,901 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Synthetic_Data\IJERET-V4I4P105.json
+2026-08-08 20:39:49,901 | INFO | Embedding ssrn-5353731.json
+2026-08-08 20:39:49,930 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:51,499 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Synthetic_Data\ssrn-5353731.json
+2026-08-08 20:39:51,500 | INFO | Embedding SyntheticDataGenerationUsi.json
+2026-08-08 20:39:51,530 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:51,835 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Synthetic_Data\SyntheticDataGenerationUsi.json
+2026-08-08 20:39:51,837 | INFO | Embedding a-comprehensive-survey-on-machine-learning-tech.json
+2026-08-08 20:39:51,862 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:52,030 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\UPI_Fraud\a-comprehensive-survey-on-machine-learning-tech.json
+2026-08-08 20:39:52,032 | INFO | Embedding IJCRT2412897.json
+2026-08-08 20:39:52,057 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:52,357 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\UPI_Fraud\IJCRT2412897.json
+2026-08-08 20:39:52,357 | INFO | Embedding IJRTI2510035.json
+2026-08-08 20:39:52,385 | INFO | Embedding Chunk 1/1
+2026-08-08 20:39:52,847 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\UPI_Fraud\IJRTI2510035.json
+2026-08-08 20:39:52,847 | INFO | ========== Embedding Finished ==========
+2026-08-08 20:39:52,848 | INFO | Processed : 23
+2026-08-08 20:39:52,848 | INFO | Failed : 0

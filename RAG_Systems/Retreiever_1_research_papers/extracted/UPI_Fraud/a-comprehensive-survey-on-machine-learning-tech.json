@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "document_uuid": "4d75da9a-c3b0-462a-b731-62a7e28c174d",
+        "document_id": "A-COMPREHENSIVE-SURVEY-ON-MACHINE-LEARNING-TECH",
+        "title": "a-comprehensive-survey-on-machine-learning-tech",
+        "authority": "UPI_Fraud",
+        "category": "Other",
+        "source_file": "markdown\\UPI_Fraud\\a-comprehensive-survey-on-machine-learning-tech.md",
+        "file_type": "md",
+        "version": "1.0",
+        "year": null,
+        "total_pages": 1
+    },
+    "pages": [
+        {
+            "page_number": 1,
+            "text": "# Fraud Pattern  \n- **Shared anomalies across UPI and telecom**:  \n  - **Frequency bursts**: Sudden spikes in transaction or call volume.  \n  - **Location shifts**: Unusual geographic patterns in user activity.  \n  - **Inconsistent device identities**: Frequent changes in device fingerprints or authentication details.  \n\n# Executive Summary  \nThis paper synthesizes operational fraud intelligence from UPI and telecom domains, highlighting shared behavioral anomalies (e.g., frequency bursts, location shifts, inconsistent device identities) and challenges in real-time detection. Key findings include the need for advanced models to address rising cyber fraud, with India’s losses reaching ₹22,845 crore in 2025, alongside UPI’s 613 million daily transactions.  \n\n# Definition  \nFraud in UPI and telecom systems involves unauthorized exploitation of digital channels, including transaction manipulation, identity spoofing, and network-based attacks, driven by imbalanced datasets and evolving attack vectors.  \n\n# Typical Attack Workflow  \n- **Exploitation of anomalies**: Attackers leverage frequency bursts and location shifts to bypass transaction monitoring.  \n- **Device identity spoofing**: Compromised devices mimic legitimate user behavior to evade detection.  \n- **Network infiltration**: Exploitation of telecom infrastructure vulnerabilities to intercept or manipulate data.  \n\n# Behavioural Characteristics  \n- **Imbalanced datasets**: Fraudulent activities are rare compared to legitimate transactions, complicating model training.  \n- **Key UPI features**: Transaction frequency, geographic location, and device consistency.  \n- **Key telecom features**: Network behavior, call pattern irregularities, and device authentication anomalies.  \n\n# Indicators  \n- **UPI**: Unusual transaction volume, inconsistent geographic locations, and device mismatch.  \n- **Telecom**: Abnormal call duration, unexpected network activity, and identity discrepancies.  \n\n# Common Feature Patterns  \n- **UPI**: Transaction frequency, device consistency, and geographic regularity.  \n- **Telecom**: Network behavior, call pattern irregularities, and device authentication anomalies.  \n\n# Detection Signals  \n- **UPI**: Real-time monitoring of transaction velocity and location drift.  \n- **Telecom**: Anomaly detection in call duration and network traffic patterns.  \n\n# False Positives  \n- Overly sensitive models may flag legitimate high-frequency transactions or temporary location changes.  \n- False positives arise from insufficient contextual data on user behavior or device usage patterns.  \n\n# Prevention  \n- **Advanced models**: Integration of AI/ML for adaptive fraud detection, addressing imbalanced datasets.  \n- **Contextual analysis**: Incorporating user behavior profiles and device usage history to reduce false positives.  \n- **Network security**: Strengthening telecom infrastructure with multi-factor authentication and anomaly-based intrusion detection.  \n\n# References  \n- **India’s cyber fraud losses**: ₹22,845 crore (2025, RMA India).  \n- **UPI transaction volume**: 613 million daily (June 2025, BFSI Elets Online).",
+            "char_count": 3137
+        }
+    ]
+}

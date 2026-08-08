@@ -1,0 +1,195 @@
+{
+    "document_uuid": "3915c7ce-fe7d-48df-aad0-f5559d0dbef1",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "870a4937-820b-4e49-95e6-3044328053bb",
+                "document_uuid": "3915c7ce-fe7d-48df-aad0-f5559d0dbef1",
+                "chunk_index": 0,
+                "authority": "Merchant_Fraud",
+                "document_title": "s41598-023-38304-5",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "The fraud detection model leverages machine learning algorithms and data augmentation techniques to address imbalanced datasets. Key components include:\n- **Algorithm Selection**: Logistic Regression, KNN, SVM, Naïve Bayes, Decision Trees, Random Forests, Gradient Boosting, and Stacked Generalization.\n- **Class Imbalance Handling**: Techniques like SMOTE (Synthetic Minority Over-Sampling Technique) and SMOTENC (SMOTE for categorical features) are employed to balance datasets.\n- **Experimental Setup**: Emphasis on hyperparameter tuning, model evaluation, and scalability for real-world applications.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "277bb577-9f14-4726-af29-7cc359b03827",
+                "document_uuid": "3915c7ce-fe7d-48df-aad0-f5559d0dbef1",
+                "chunk_index": 1,
+                "authority": "Merchant_Fraud",
+                "document_title": "s41598-023-38304-5",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "This research presents a comprehensive approach to fraud detection using advanced machine learning algorithms and data augmentation. The methodology addresses challenges in imbalanced datasets through SMOTE and SMOTENC, while leveraging ensemble methods like Random Forests and Gradient Boosting for improved performance. The work also highlights key takeaways, such as the importance of model interpretability (via SHAP) and cost-sensitive learning, alongside practical recommendations for implementation.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "519fa90c-e932-43bb-8859-ebfb2e63498a",
+                "document_uuid": "3915c7ce-fe7d-48df-aad0-f5559d0dbef1",
+                "chunk_index": 2,
+                "authority": "Merchant_Fraud",
+                "document_title": "s41598-023-38304-5",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "**Fraud Detection** is the process of identifying unauthorized or illegal activities using data analysis and machine learning techniques. It involves detecting anomalies, patterns, and behaviors indicative of fraudulent activity, often in financial transactions, cybersecurity, or other domains.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "56e591e0-44c2-413e-9b54-d53e7c53ebda",
+                "document_uuid": "3915c7ce-fe7d-48df-aad0-f5559d0dbef1",
+                "chunk_index": 3,
+                "authority": "Merchant_Fraud",
+                "document_title": "s41598-023-38304-5",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "While the original markdowns do not explicitly describe a \"Typical Attack Workflow,\" the model's focus on imbalanced data and fraud detection suggests a general workflow:\n1. **Data Collection**: Gathering transactional or behavioral data.\n2. **Preprocessing**: Handling missing values, normalizing features, and addressing class imbalance (e.g., using SMOTE).\n3. **Model Training**: Applying algorithms like Random Forests or Gradient Boosting to detect anomalies.\n4. **Evaluation**: Using metrics like precision, recall, and F1-score to assess performance.\n5. **Deployment**: Implementing models in real-time systems for fraud prevention.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "ef398353-2395-4a7e-919d-571efd08daaa",
+                "document_uuid": "3915c7ce-fe7d-48df-aad0-f5559d0dbef1",
+                "chunk_index": 4,
+                "authority": "Merchant_Fraud",
+                "document_title": "s41598-023-38304-5",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "The model's focus on imbalanced data implies the following behavioral characteristics:\n- **High False Negative Rates**: Common in fraud detection due to the rarity of fraudulent events.\n- **Feature Importance**: Certain features (e.g., transaction amount, user behavior) are critical for distinguishing fraud.\n- **Adaptive Learning**: Models must adapt to evolving fraud patterns over time.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "723ae277-5783-4f3d-ab30-6d5ab43bbae7",
+                "document_uuid": "3915c7ce-fe7d-48df-aad0-f5559d0dbef1",
+                "chunk_index": 5,
+                "authority": "Merchant_Fraud",
+                "document_title": "s41598-023-38304-5",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Key signals for fraud detection include:\n- **Anomalies in Transaction Patterns**: Unusual spending behavior or location discrepancies.\n- **High-Risk Features**: Categorical variables (e.g., user demographics) and numerical thresholds (e.g., transaction amount).\n- **Model Predictions**: Output from trained models (e.g., Random Forests, Gradient Boosting) indicating high probability of fraud.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3b2565b7-bed1-45b1-8a6d-0bcb75d6d2d2",
+                "document_uuid": "3915c7ce-fe7d-48df-aad0-f5559d0dbef1",
+                "chunk_index": 6,
+                "authority": "Merchant_Fraud",
+                "document_title": "s41598-023-38304-5",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **SMOTE/SMOTENC**: To balance datasets and improve model performance on minority classes.\n- **Ensemble Methods**: Combining multiple models to reduce overfitting and improve generalization.\n- **Interpretability Tools**: SHAP (SHapley Additive exPlanations) for explaining model predictions.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "b79a6cc1-0c43-4ed2-9858-78fec1b14f3b",
+                "document_uuid": "3915c7ce-fe7d-48df-aad0-f5559d0dbef1",
+                "chunk_index": 7,
+                "authority": "Merchant_Fraud",
+                "document_title": "s41598-023-38304-5",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Academic references span machine learning, data mining, fraud detection, and model interpretation:\n1. **SMOTE**: Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). *SMOTE: synthetic minority over-sampling technique*. Journal of Artificial Intelligence Research, 16, 321–357. https://doi.org/10.1613/jair.953\n2. **Credit Card Fraud Detection**: Dal Pozzolo, A., Cavallo, B., Fawcett, T., & Sperduti, A. (2018). *Credit card fraud detection using machine learning*. IEEE.\n3. **Ensemble Methods**: Breiman, L. (2001). *Random forests*. Machine Learning, 45(1), 5–32.\n4. **Model Interpretability**: Lundberg, S. M., & Lee, S. I. (2017). *A unified approach to interpreting model predictions*. NeurIPS.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "7216a8d9-4ef5-49e3-a6a2-c02304af40b3",
+                "document_uuid": "3915c7ce-fe7d-48df-aad0-f5559d0dbef1",
+                "chunk_index": 8,
+                "authority": "Merchant_Fraud",
+                "document_title": "s41598-023-38304-5",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Class Imbalance Solutions**: SMOTE (Chawla et al., 2002) and Geometric SMOTE (Douzas & Bacao, 2019).\n- **Fraud Detection Applications**: Works by Dal Pozzolo et al. (2018) and Adewumi & Akinyelu (2017).\n- **Interpretability**: SHAP (Lundberg & Lee, 2017) for explaining model predictions.\n# Challenges and Recommendations\n- **Challenges**:\n- High false negative rates in imbalanced datasets.\n- Evolving fraud patterns requiring adaptive models.\n- **Recommendations**:\n- Use SMOTE/SMOTENC for balancing data.\n- Employ ensemble methods (e.g., Random Forests, Gradient Boosting) for robustness.\n- Integrate SHAP for model interpretability and trust.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "8ee163ce-0fa5-4e15-971f-1a610ffdb21a",
+                "document_uuid": "3915c7ce-fe7d-48df-aad0-f5559d0dbef1",
+                "chunk_index": 9,
+                "authority": "Merchant_Fraud",
+                "document_title": "s41598-023-38304-5",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "This research synthesizes advanced machine learning techniques and data augmentation strategies to address fraud detection challenges. By leveraging SMOTE, ensemble methods, and interpretability tools, the model offers a scalable solution for real-world applications, supported by a comprehensive list of academic references.",
+            "embedding": null,
+            "embedding_text": null
+        }
+    ]
+}

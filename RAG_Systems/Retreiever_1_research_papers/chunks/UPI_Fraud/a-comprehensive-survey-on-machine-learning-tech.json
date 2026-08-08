@@ -1,0 +1,214 @@
+{
+    "document_uuid": "4d75da9a-c3b0-462a-b731-62a7e28c174d",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "08642a8e-b588-4aff-be29-50d8ff49de74",
+                "document_uuid": "4d75da9a-c3b0-462a-b731-62a7e28c174d",
+                "chunk_index": 0,
+                "authority": "UPI_Fraud",
+                "document_title": "a-comprehensive-survey-on-machine-learning-tech",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Shared anomalies across UPI and telecom**:\n- **Frequency bursts**: Sudden spikes in transaction or call volume.\n- **Location shifts**: Unusual geographic patterns in user activity.\n- **Inconsistent device identities**: Frequent changes in device fingerprints or authentication details.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "2e78a218-255c-470b-86c1-d1b7a15f31ba",
+                "document_uuid": "4d75da9a-c3b0-462a-b731-62a7e28c174d",
+                "chunk_index": 1,
+                "authority": "UPI_Fraud",
+                "document_title": "a-comprehensive-survey-on-machine-learning-tech",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "This paper synthesizes operational fraud intelligence from UPI and telecom domains, highlighting shared behavioral anomalies (e.g., frequency bursts, location shifts, inconsistent device identities) and challenges in real-time detection. Key findings include the need for advanced models to address rising cyber fraud, with India’s losses reaching ₹22,845 crore in 2025, alongside UPI’s 613 million daily transactions.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d33f2207-27bd-415e-991b-a6f7588f2f48",
+                "document_uuid": "4d75da9a-c3b0-462a-b731-62a7e28c174d",
+                "chunk_index": 2,
+                "authority": "UPI_Fraud",
+                "document_title": "a-comprehensive-survey-on-machine-learning-tech",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Fraud in UPI and telecom systems involves unauthorized exploitation of digital channels, including transaction manipulation, identity spoofing, and network-based attacks, driven by imbalanced datasets and evolving attack vectors.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "63e34d68-d17e-41c5-95bf-75f06ec77456",
+                "document_uuid": "4d75da9a-c3b0-462a-b731-62a7e28c174d",
+                "chunk_index": 3,
+                "authority": "UPI_Fraud",
+                "document_title": "a-comprehensive-survey-on-machine-learning-tech",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Exploitation of anomalies**: Attackers leverage frequency bursts and location shifts to bypass transaction monitoring.\n- **Device identity spoofing**: Compromised devices mimic legitimate user behavior to evade detection.\n- **Network infiltration**: Exploitation of telecom infrastructure vulnerabilities to intercept or manipulate data.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "0e8844b8-2e15-4f46-b649-b35487093f00",
+                "document_uuid": "4d75da9a-c3b0-462a-b731-62a7e28c174d",
+                "chunk_index": 4,
+                "authority": "UPI_Fraud",
+                "document_title": "a-comprehensive-survey-on-machine-learning-tech",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Imbalanced datasets**: Fraudulent activities are rare compared to legitimate transactions, complicating model training.\n- **Key UPI features**: Transaction frequency, geographic location, and device consistency.\n- **Key telecom features**: Network behavior, call pattern irregularities, and device authentication anomalies.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3ed13d81-93ea-4e27-9965-3437bf8bba32",
+                "document_uuid": "4d75da9a-c3b0-462a-b731-62a7e28c174d",
+                "chunk_index": 5,
+                "authority": "UPI_Fraud",
+                "document_title": "a-comprehensive-survey-on-machine-learning-tech",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **UPI**: Unusual transaction volume, inconsistent geographic locations, and device mismatch.\n- **Telecom**: Abnormal call duration, unexpected network activity, and identity discrepancies.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "0be82061-8095-4ef9-90e6-370e46c35a70",
+                "document_uuid": "4d75da9a-c3b0-462a-b731-62a7e28c174d",
+                "chunk_index": 6,
+                "authority": "UPI_Fraud",
+                "document_title": "a-comprehensive-survey-on-machine-learning-tech",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **UPI**: Transaction frequency, device consistency, and geographic regularity.\n- **Telecom**: Network behavior, call pattern irregularities, and device authentication anomalies.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "095a8df7-7bb0-4c2b-ab14-84fceedf2175",
+                "document_uuid": "4d75da9a-c3b0-462a-b731-62a7e28c174d",
+                "chunk_index": 7,
+                "authority": "UPI_Fraud",
+                "document_title": "a-comprehensive-survey-on-machine-learning-tech",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **UPI**: Real-time monitoring of transaction velocity and location drift.\n- **Telecom**: Anomaly detection in call duration and network traffic patterns.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "ec208069-4a49-4899-96be-65dd1a20312e",
+                "document_uuid": "4d75da9a-c3b0-462a-b731-62a7e28c174d",
+                "chunk_index": 8,
+                "authority": "UPI_Fraud",
+                "document_title": "a-comprehensive-survey-on-machine-learning-tech",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Overly sensitive models may flag legitimate high-frequency transactions or temporary location changes.\n- False positives arise from insufficient contextual data on user behavior or device usage patterns.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "71488b4e-17dc-442b-9d93-48a97f07ed95",
+                "document_uuid": "4d75da9a-c3b0-462a-b731-62a7e28c174d",
+                "chunk_index": 9,
+                "authority": "UPI_Fraud",
+                "document_title": "a-comprehensive-survey-on-machine-learning-tech",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Advanced models**: Integration of AI/ML for adaptive fraud detection, addressing imbalanced datasets.\n- **Contextual analysis**: Incorporating user behavior profiles and device usage history to reduce false positives.\n- **Network security**: Strengthening telecom infrastructure with multi-factor authentication and anomaly-based intrusion detection.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c54a262c-e886-4519-9602-687f099182ed",
+                "document_uuid": "4d75da9a-c3b0-462a-b731-62a7e28c174d",
+                "chunk_index": 10,
+                "authority": "UPI_Fraud",
+                "document_title": "a-comprehensive-survey-on-machine-learning-tech",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **India’s cyber fraud losses**: ₹22,845 crore (2025, RMA India).\n- **UPI transaction volume**: 613 million daily (June 2025, BFSI Elets Online).",
+            "embedding": null,
+            "embedding_text": null
+        }
+    ]
+}

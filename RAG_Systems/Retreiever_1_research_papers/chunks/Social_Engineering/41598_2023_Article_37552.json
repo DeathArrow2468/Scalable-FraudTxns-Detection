@@ -1,0 +1,176 @@
+{
+    "document_uuid": "d5b89f9e-d13c-4b79-b2b7-3faac7be57fd",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "d3f15bae-0969-4918-8f1b-d5e7f33ee60b",
+                "document_uuid": "d5b89f9e-d13c-4b79-b2b7-3faac7be57fd",
+                "chunk_index": 0,
+                "authority": "Social_Engineering",
+                "document_title": "41598 2023 Article 37552",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Phishing fraud involves deceptive tactics to extract sensitive information, often leveraging machine learning (ML) and natural language processing (NLP) for detection. The paper explores adaptive ML techniques, such as **Transfer Learning (TL)** and **Continual Learning (CL)**, to address challenges like **catastrophic forgetting** while improving phishing detection accuracy across evolving datasets.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "4f487f58-da98-4e38-acfe-4190a0580dd6",
+                "document_uuid": "d5b89f9e-d13c-4b79-b2b7-3faac7be57fd",
+                "chunk_index": 1,
+                "authority": "Social_Engineering",
+                "document_title": "41598 2023 Article 37552",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "This research evaluates **TL** and **CL** (specifically **Learning Without Forgetting (LWF)** and **Elastic Weight Consolidation (EWC)**) for phishing detection in dynamic environments. While **TL** excels in adapting to new tasks, it suffers from catastrophic forgetting. **CL** techniques retain historical knowledge, making them critical for long-term phishing detection. The paper also reviews ML/NLP methods for phishing, emphasizing **feature-based models**, **hybrid ensembles**, and **domain adaptation**.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "f92329f0-bc9f-4fa5-b9ed-2cb5b7a37aaf",
+                "document_uuid": "d5b89f9e-d13c-4b79-b2b7-3faac7be57fd",
+                "chunk_index": 2,
+                "authority": "Social_Engineering",
+                "document_title": "41598 2023 Article 37552",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Phishing Fraud**: Deceptive tactics (e.g., fake emails, websites) to steal sensitive data.\n- **Transfer Learning (TL)**: Fine-tunes pre-trained models on new tasks without retraining from scratch.\n- **Continual Learning (CL)**: Learns new tasks while retaining performance on older ones (e.g., **LWF**, **EWC**).\n- **Catastrophic Forgetting**: Performance degradation on older tasks during model retraining.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "b68e086c-edac-41c7-8ec6-be296ddd8604",
+                "document_uuid": "d5b89f9e-d13c-4b79-b2b7-3faac7be57fd",
+                "chunk_index": 3,
+                "authority": "Social_Engineering",
+                "document_title": "41598 2023 Article 37552",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Phishing attacks typically involve:\n1. Crafting deceptive emails/websites with malicious links.\n2. Exploiting user trust to extract credentials or financial data.\n3. Evolving tactics over time (e.g., 2018A → 2020B datasets).\n# Behavioural Characteristics\n- **Model Adaptation**:\n- **TL**: Rapid adaptation to new datasets but poor retention of prior knowledge.\n- **CL (LWF/EWC)**: Maintains performance across sequential datasets via regularization (e.g., **shared weights**, **gradient constraints**).\n- **Phishing Tactics**:\n- Use of suspicious URLs, HTML features, and social engineering.\n- Evolving patterns over time (e.g., domain variations, phishing kits).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d251c7b8-a743-4639-84bd-6ba42f8469a4",
+                "document_uuid": "d5b89f9e-d13c-4b79-b2b7-3faac7be57fd",
+                "chunk_index": 4,
+                "authority": "Social_Engineering",
+                "document_title": "41598 2023 Article 37552",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Phishing Indicators**:\n- Suspicious URLs, HTML anomalies, and NLP-based text features (e.g., urgency, typos).\n- **Model Performance**:\n- **TL**: High accuracy on new tasks but significant accuracy drop on older datasets.\n- **CL**: Stable accuracy across all datasets, though with higher computational overhead.\n# Common Feature Patterns\n- **Phishing Detection**:\n- URL structure, image analysis, and linguistic patterns (e.g., keyword stuffing).\n- **Model Adaptation**:\n- **LWF**: Shared weights between tasks.\n- **EWC**: Fisher information matrix for gradient constraints.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "5ae517b4-04d4-4525-bc55-72db2dea0cfa",
+                "document_uuid": "d5b89f9e-d13c-4b79-b2b7-3faac7be57fd",
+                "chunk_index": 5,
+                "authority": "Social_Engineering",
+                "document_title": "41598 2023 Article 37552",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Phishing**: NLP features (e.g., sentiment analysis, entity extraction), domain reputation checks.\n- **Model Adaptation**: Accuracy metrics, gradient divergence, and memory usage during retraining.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "2c1ec75e-5715-496b-8e32-14681dfb4e80",
+                "document_uuid": "d5b89f9e-d13c-4b79-b2b7-3faac7be57fd",
+                "chunk_index": 6,
+                "authority": "Social_Engineering",
+                "document_title": "41598 2023 Article 37552",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Phishing**: Legitimate emails/links misclassified due to feature overlap (e.g., marketing emails mimicking phishing).\n- **Model Adaptation**: Over-regularization in **CL** may reduce sensitivity to novel tasks.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3003d030-f744-4462-bc1a-3cff508ff8cd",
+                "document_uuid": "d5b89f9e-d13c-4b79-b2b7-3faac7be57fd",
+                "chunk_index": 7,
+                "authority": "Social_Engineering",
+                "document_title": "41598 2023 Article 37552",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Phishing**: Deploy hybrid ML models (e.g., **feature-based ensembles**) with real-time updates via **CL**.\n- **Model Adaptation**: Use **EWC** or **LWF** to balance retention and adaptation, reducing catastrophic forgetting.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "05b3ff40-d584-4a8b-ad38-343c3db775f0",
+                "document_uuid": "d5b89f9e-d13c-4b79-b2b7-3faac7be57fd",
+                "chunk_index": 8,
+                "authority": "Social_Engineering",
+                "document_title": "41598 2023 Article 37552",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "1. Transfer Learning vs. Continual Learning: Experimental Setup, Key Findings, and Visual Aids.\n2. Phishing Detection Techniques: ML/NLP Methods, Challenges, and Broader Implications.\n3. Fisher Information Matrix in EWC, Shared Weights in LWF, and Domain Adaptation for Phishing.\n4. Author Contributions and Evaluation Metrics in Phishing Research.",
+            "embedding": null,
+            "embedding_text": null
+        }
+    ]
+}

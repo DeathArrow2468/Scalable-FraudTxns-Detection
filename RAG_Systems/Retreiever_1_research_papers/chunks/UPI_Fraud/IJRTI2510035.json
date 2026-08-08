@@ -1,0 +1,214 @@
+{
+    "document_uuid": "125cec34-46be-44e5-9dd3-96045bb4b3d6",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "78caf3fa-ceab-4911-8281-2c49897f36a8",
+                "document_uuid": "125cec34-46be-44e5-9dd3-96045bb4b3d6",
+                "chunk_index": 0,
+                "authority": "UPI_Fraud",
+                "document_title": "IJRTI2510035",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Fraudulent UPI transactions are characterized by anomalies in transaction features such as unusual timing, high-frequency transactions, irregular recipient patterns, and discrepancies in location or device usage. The system identifies these patterns by analyzing historical data for deviations from normal user behavior.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "4c164f6c-a1f1-4100-8aed-790b29f496a4",
+                "document_uuid": "125cec34-46be-44e5-9dd3-96045bb4b3d6",
+                "chunk_index": 1,
+                "authority": "UPI_Fraud",
+                "document_title": "IJRTI2510035",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "The paper presents a machine learning (ML)-based system to detect UPI fraud by analyzing transaction data (e.g., amount, time, recipient, location). The solution improves upon traditional methods by leveraging ML for faster, more accurate fraud detection and providing actionable insights through analytics.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "19835d6e-5fb2-4a9b-8e40-a5ed148e87ef",
+                "document_uuid": "125cec34-46be-44e5-9dd3-96045bb4b3d6",
+                "chunk_index": 2,
+                "authority": "UPI_Fraud",
+                "document_title": "IJRTI2510035",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "UPI fraud encompasses unauthorized transactions, phishing via fake UPI IDs, trick messages, and unauthorized access to accounts through compromised devices or credentials.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "5df40c10-8aaa-48f5-a52f-13d64ddfb39a",
+                "document_uuid": "125cec34-46be-44e5-9dd3-96045bb4b3d6",
+                "chunk_index": 3,
+                "authority": "UPI_Fraud",
+                "document_title": "IJRTI2510035",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "1. **Phishing**: Sending fraudulent links or messages to trick users into sharing sensitive information.\n2. **Fake UPI IDs**: Creating counterfeit UPI handles to mimic legitimate users.\n3. **Unauthorized Transactions**: Conducting high-value or frequent transactions without user consent.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "0b01b133-bca4-4af7-9043-1c7f2c7c5d4b",
+                "document_uuid": "125cec34-46be-44e5-9dd3-96045bb4b3d6",
+                "chunk_index": 4,
+                "authority": "UPI_Fraud",
+                "document_title": "IJRTI2510035",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Unusual transaction timing (e.g., late-night or high-frequency activity).\n- Use of unfamiliar devices or locations.\n- Sudden changes in transaction patterns (e.g., large amounts or new recipients).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "4a33e7bf-ab6c-4cb5-9efe-b98f2b23f712",
+                "document_uuid": "125cec34-46be-44e5-9dd3-96045bb4b3d6",
+                "chunk_index": 5,
+                "authority": "UPI_Fraud",
+                "document_title": "IJRTI2510035",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Key indicators include:\n- **Location**: Inconsistent or geographically improbable transaction locations.\n- **Timing**: Transactions outside typical user activity windows.\n- **Category**: Unusual spending categories (e.g., high-value purchases for a user with no prior history).\n- **Amount**: Sudden spikes in transaction value or volume.\n- **Recipient Patterns**: Repeated transactions to the same entity or irregular recipient behavior.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1a26ee7c-1c24-44ae-89f9-23623f8dfd36",
+                "document_uuid": "125cec34-46be-44e5-9dd3-96045bb4b3d6",
+                "chunk_index": 6,
+                "authority": "UPI_Fraud",
+                "document_title": "IJRTI2510035",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Location** and **device fingerprints** (from future scope).\n- **Transaction timing** and **category** (e.g., frequent small transactions flagged as potential fraud).\n- **Recipient patterns** (e.g., repeated transactions to the same entity).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "581d3c56-b7b5-4a50-91c4-51cc1bde6809",
+                "document_uuid": "125cec34-46be-44e5-9dd3-96045bb4b3d6",
+                "chunk_index": 7,
+                "authority": "UPI_Fraud",
+                "document_title": "IJRTI2510035",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Model Predictions**: Random Forest classifies transactions as fraudulent or legitimate.\n- **Analytics**: Visualizations of fraud distribution across categories, time, and location.\n- **Alerts**: Instant notifications for suspicious activity (as per future scope).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "919169d1-12d3-438e-9b04-98aeca723d39",
+                "document_uuid": "125cec34-46be-44e5-9dd3-96045bb4b3d6",
+                "chunk_index": 8,
+                "authority": "UPI_Fraud",
+                "document_title": "IJRTI2510035",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "The system minimizes false positives through precision-focused ML training and feature engineering. However, rare cases may occur due to incomplete data or evolving fraud tactics.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "0cb862ee-c2ef-4ddf-87dd-3bf12f3156ba",
+                "document_uuid": "125cec34-46be-44e5-9dd3-96045bb4b3d6",
+                "chunk_index": 9,
+                "authority": "UPI_Fraud",
+                "document_title": "IJRTI2510035",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Early detection via ML models to block fraudulent transactions before completion.\n- Integration with real-time monitoring (future scope) for instant alerts or transaction blocking.\n- Actionable insights for users to review transaction trends and vulnerabilities.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "49789095-1854-4c22-b0af-e35bb6dfe936",
+                "document_uuid": "125cec34-46be-44e5-9dd3-96045bb4b3d6",
+                "chunk_index": 10,
+                "authority": "UPI_Fraud",
+                "document_title": "IJRTI2510035",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "[1] A. Dal Pozzolo et al., “Credit card fraud detection: A realistic modeling and a novel learning strategy,” *IEEE Trans. Neural Netw. Learn. Syst.*, 2017.\n[2] Y. Sahin and E. Duman, “Detecting credit card fraud by ANN and logistic regression,” *Proc. IEEE ISCC*, 2011.\n[3] S. Bhattacharyya et al., “Data mining for credit card fraud: A comparative study,” *Decis. Support Syst.*, 2011.\n[4] H. Sharma et al., “An efficient approach for online fraud detection using machine learning algorithms,” *Int. J. Adv. Comput. Sci. Appl.*, 2021.\n[5] Y. Kumar and A. Bansal, “Real-time UPI fraud detection using ML techniques,” *Int. J. Comput. Appl.*, 2023.\n[6] A. Shukla et al., “A survey on online payment fraud detection using machine learning,” *J. Inf. Secur. Appl.*, 2022.\n[7] A. Verma and A. Kumari, “Machine learning-based online transaction fraud detection,” *Proc. 6th Int. Conf. Signal Process. Integr. Netw. (SPIN)*, 2021.\n[8] A. Mohan and D. Thomas, “Application of AI in digital payment fraud detection,” *Int. Res. J. Eng. Technol.*, 2022.\n[9] S. Chakraborty, “UPI and digital payment fraud cases in India,” *Econ. Polit. Wkly.*, 2023.\n[10] Reserve Bank of India, “Annual report 2023–24 – Trends in digital payments & fraud management,” 2024.",
+            "embedding": null,
+            "embedding_text": null
+        }
+    ]
+}

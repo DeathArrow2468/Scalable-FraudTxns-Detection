@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "document_uuid": "fc910522-68a7-470a-bd2f-8668cfd53955",
+        "document_id": "SYNTHETICDATAGENERATIONUSI",
+        "title": "SyntheticDataGenerationUsi",
+        "authority": "Synthetic_Data",
+        "category": "Other",
+        "source_file": "markdown\\Synthetic_Data\\SyntheticDataGenerationUsi.md",
+        "file_type": "md",
+        "version": "1.0",
+        "year": null,
+        "total_pages": 1
+    },
+    "pages": [
+        {
+            "page_number": 1,
+            "text": "Your revised references are well-structured and align closely with APA 7th edition standards. Below are a few additional **fine-tuning suggestions** to ensure maximum clarity, consistency, and compliance with academic publishing norms:\n\n---\n\n### **Final Polishing Recommendations**\n\n1. **DOI/URL Consistency**  \n   - Ensure **DOIs are prioritized over URLs** where available (e.g., entry 1 currently uses a URL; consider verifying if a DOI exists for this article).  \n   - For entries without DOIs (e.g., entry 13), use the **\"Retrieved from\"** format:  \n     *... (2023). Environmental management accounting and stakeholders perspective: A theoretical perspective. *International Journal for Multidisciplinary Research (IJFMR), 5*(6). Retrieved from [https://www.ijfmr.com](https://www.ijfmr.com)*.\n\n2. **Journal Name Italics**  \n   - Confirm that **all journal names are italicized** (e.g., *International Journal of Scientific Research in Science and Technology* in entry 16).  \n\n3. **ArXiv Preprint Formatting**  \n   - For arXiv entries, use the standard format:  \n     *... (2023). Impacts and risk of generative AI technology on cyber defense. *arXiv preprint arXiv:2306.13033*. https://arxiv.org/abs/2306.13033*  \n   - Ensure the **arXiv ID** is correctly formatted (e.g., \"arXiv:2306.13033\" not \"arXiv:2306.13033\").\n\n4. **Author Name Capitalization**  \n   - Verify that **all author names follow the \"Last name, First initial.\"** format (e.g., *Enyejo, L. A.* in entry 1 vs. *Enyejo, L. A.* in entry 12).  \n\n5. **Pagination for Online-Only Journals**  \n   - For journals without page numbers (e.g., entry 13), use **\"n.p.\"** (no page) or omit pagination if the journal does not use it.  \n\n6. **Year and Volume/Issue Formatting**  \n   - Ensure **volume numbers are italicized** (e.g., *10*(1) in entry 2).  \n   - Use **\"pp.\"** for multiple pages (e.g., *336–354* in entry 1 is correct).  \n\n---\n\n### **Example of a Fully Polished Entry**  \nHere’s a revised version of **entry 1** with the above suggestions applied:  \n\n**Ijiga, A. C., Igbede, M. A., Ukaegbu, C., Olatunde, T. I., Olajide, F. I., & Enyejo, L. A.** (2024). Precision healthcare analytics: Integrating ML for automated image interpretation, disease detection, and prognosis prediction. *World Journal of Biology Pharmacy and Health Sciences, 18*(01), 336–354. https://wjbphs.com/sites/default/files/WJBPHS-2024-0214.pdf  \n\n---\n\n### **Final Notes**  \n- **Citation Tools**: Use tools like **Zotero** or **EndNote** to automate formatting and ensure consistency across all entries.  \n- **Publisher Guidelines**: Cross-check with the target journal’s formatting requirements (e.g., *IJISRT* or *WJBPHS*) for specific style preferences (e.g., URLs vs. DOIs).  \n- **Plagiarism Check**: Run a plagiarism check to confirm that all references are properly cited and match the original sources.  \n\nLet me know if you’d like help generating a **citation style guide** tailored to your field or institution!",
+            "char_count": 2965
+        }
+    ]
+}

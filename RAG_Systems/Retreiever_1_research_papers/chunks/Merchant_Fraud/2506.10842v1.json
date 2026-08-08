@@ -1,0 +1,214 @@
+{
+    "document_uuid": "c72b857c-6d97-4149-b274-b75414d5656b",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "691674e1-9148-4e7d-a286-d2a05a76456f",
+                "document_uuid": "c72b857c-6d97-4149-b274-b75414d5656b",
+                "chunk_index": 0,
+                "authority": "Merchant_Fraud",
+                "document_title": "2506.10842v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "This document outlines a comprehensive fraud detection framework integrating advanced anomaly detection models, domain-specific signals, and adaptive risk scoring to identify and mitigate fraudulent activities. The system emphasizes contextual adaptability, real-time monitoring, and explainability to align with regulatory requirements.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "80aa98bd-5bff-4a77-9d6e-d948dece2e76",
+                "document_uuid": "c72b857c-6d97-4149-b274-b75414d5656b",
+                "chunk_index": 1,
+                "authority": "Merchant_Fraud",
+                "document_title": "2506.10842v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "The integration of anomaly detection models (Isolation Forest, One-Class SVM, Autoencoder), domain-specific signals (unusual spending, rapid transactions), and an adaptive risk-scoring framework (ARF) enables robust fraud detection. Key insights include the effectiveness of Autoencoder for subtle anomalies, the importance of temporal patterns (e.g., nighttime transactions), and the need for dynamic risk calibration. Real-world systems like Stripe Radar and Visa Advanced Authorization demonstrate scalable applications of these techniques.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "43cf15fc-f512-48c4-bb00-e947883d76d4",
+                "document_uuid": "c72b857c-6d97-4149-b274-b75414d5656b",
+                "chunk_index": 2,
+                "authority": "Merchant_Fraud",
+                "document_title": "2506.10842v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Fraud detection involves identifying unauthorized or deceptive transactions using a combination of statistical models, behavioral analysis, and contextual risk scoring. The framework leverages machine learning (e.g., Autoencoder for anomaly detection) and rule-based signals (e.g., transaction amount thresholds) to distinguish legitimate activities from fraudulent patterns.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "88e16e26-f778-4075-9215-6fe0a0d2d406",
+                "document_uuid": "c72b857c-6d97-4149-b274-b75414d5656b",
+                "chunk_index": 3,
+                "authority": "Merchant_Fraud",
+                "document_title": "2506.10842v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "1. **Initial Transaction**: Fraudsters initiate high-value or rapid transactions during off-peak hours (e.g., nighttime).\n2. **Pattern Exploitation**: Use of subtle spending distortions (detected via Autoencoder) or rapid successive transactions (detected via sequence flags).\n3. **Evasion**: Attempts to bypass detection by mimicking legitimate user behavior or using low-value transactions.\n4. **Escalation**: Escalation to high-risk merchant categories (e.g., food/retail) or extreme outlier amounts.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "7ff3b963-2233-4469-bff5-3bd83c606d61",
+                "document_uuid": "c72b857c-6d97-4149-b274-b75414d5656b",
+                "chunk_index": 4,
+                "authority": "Merchant_Fraud",
+                "document_title": "2506.10842v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Unusual Spending**: Deviations from historical spending patterns (±3σ thresholds).\n- **Rapid Successive Transactions**: Multiple transactions within short timeframes (<5 minutes).\n- **Spending Spree**: High-volume transactions in a single session.\n- **Temporal Risk**: Higher risk during nighttime (0–6) due to suspicious sequences (e.g., >200% transaction amount changes).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "edbe3395-ffff-4779-9bf4-188f2f07dbc9",
+                "document_uuid": "c72b857c-6d97-4149-b274-b75414d5656b",
+                "chunk_index": 5,
+                "authority": "Merchant_Fraud",
+                "document_title": "2506.10842v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Anomaly Detection**: Autoencoder (MSE threshold: 0.215), Isolation Forest (95.3% detection rate), OCSVM (slightly higher false positives for <$500).\n- **Sequence Flags**: Rapid transactions with >200% amount changes.\n- **Temporal Signals**: Nighttime transactions (highest risk score: 0.72), low-amount rapid sequences (<$500).\n- **Merchant Categories**: Food/retail (highest risk: 0.4–0.7).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "5ac1836d-ddec-4060-bc1a-786df94a2377",
+                "document_uuid": "c72b857c-6d97-4149-b274-b75414d5656b",
+                "chunk_index": 6,
+                "authority": "Merchant_Fraud",
+                "document_title": "2506.10842v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Correlation Analysis**: Unusual spending (weight: 0.84) and sequence flags (weight: 0.76) dominate risk scoring.\n- **Time-Based Patterns**: Nighttime (0–6) shows the highest average risk score (0.72) with extreme outliers (>1000% amount changes).\n- **Model Performance**: Autoencoder (AUC-ROC: 0.971) excels at detecting subtle distortions, while Isolation Forest minimizes false positives (4.8%).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c5d15301-8fd2-49da-951b-4023371107f4",
+                "document_uuid": "c72b857c-6d97-4149-b274-b75414d5656b",
+                "chunk_index": 7,
+                "authority": "Merchant_Fraud",
+                "document_title": "2506.10842v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Anomaly Models**:\n- **Isolation Forest**: High detection rate for high-value outliers.\n- **One-Class SVM**: Effective but higher false positives for low-value transactions.\n- **Autoencoder**: Detects subtle spending distortions (MSE threshold: 0.215).\n- **Domain-Specific Signals**:\n- Unusual spending (±3σ deviations).\n- Rapid successive transactions (sequence flags).\n- **Adaptive Risk Scoring (ARF)**:\n- Weighted factors (e.g., unusual spending: 0.84, sequence flags: 0.76) for dynamic risk prioritization.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e7e477b1-568a-4552-9625-46fbcaf4fcfe",
+                "document_uuid": "c72b857c-6d97-4149-b274-b75414d5656b",
+                "chunk_index": 8,
+                "authority": "Merchant_Fraud",
+                "document_title": "2506.10842v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Model Limitations**:\n- OCSVM generates higher false positives for low-value transactions (<$500).\n- Autoencoder’s complexity may require post-hoc analysis (e.g., SHAP values) for explainability.\n- **Data Quality**: Granularity of transaction data (timestamp precision, merchant categories) affects model accuracy.\n- **Dynamic Thresholds**: Static risk weights (e.g., 0.84) may require recalibration for evolving fraud patterns.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "b32aece6-27be-428d-bfc0-874be7c553cc",
+                "document_uuid": "c72b857c-6d97-4149-b274-b75414d5656b",
+                "chunk_index": 9,
+                "authority": "Merchant_Fraud",
+                "document_title": "2506.10842v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "1. **Multi-Layered Detection**: Combine Autoencoder (subtle anomalies), Isolation Forest (high-value outliers), and sequence flags (rapid transactions).\n2. **Dynamic Risk Scoring**: Use weighted factors (e.g., unusual spending: 0.84) to prioritize high-risk patterns.\n3. **Time-Based Mitigation**: Focus on nighttime (0–6) transactions and low-amount rapid sequences (<$500).\n4. **Industry Systems**: Adopt Stripe Radar (reduces fraud by >50%), Visa Advanced Authorization (40% fraud loss reduction), or Mastercard Decision Intelligence for real-time scoring.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d39af025-bafa-4d19-964c-5604065a51ea",
+                "document_uuid": "c72b857c-6d97-4149-b274-b75414d5656b",
+                "chunk_index": 10,
+                "authority": "Merchant_Fraud",
+                "document_title": "2506.10842v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- [1] Stripe Radar: Supervised/unsupervised models for fraud reduction.\n- [2] Visa Advanced Authorization: Gradient-boosted trees and neural networks for real-time scoring.\n- [3] Mastercard Decision Intelligence: Composite risk scores using historical and real-time data.\n- [4] Model Evaluation: Autoencoder (AUC-ROC: 0.971), Isolation Forest (95.3% detection rate).\n- [5] Risk Scoring: Weighted factors (unusual spending: 0.84, sequence flags: 0.76).\n- [6] Temporal Patterns: Nighttime (0–6) risk score: 0.72.\n- [7] Merchant Categories: Food/retail risk: 0.4–0.7.",
+            "embedding": null,
+            "embedding_text": null
+        }
+    ]
+}

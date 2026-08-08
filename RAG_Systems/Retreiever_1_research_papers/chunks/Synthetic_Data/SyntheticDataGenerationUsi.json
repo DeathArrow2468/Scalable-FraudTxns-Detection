@@ -1,0 +1,176 @@
+{
+    "document_uuid": "fc910522-68a7-470a-bd2f-8668cfd53955",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "69111905-3e74-4a06-bbc5-b979d1dfaf35",
+                "document_uuid": "fc910522-68a7-470a-bd2f-8668cfd53955",
+                "chunk_index": 0,
+                "authority": "Synthetic_Data",
+                "document_title": "SyntheticDataGenerationUsi",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "### **Final Polishing Recommendations**",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "453f0c06-10be-40c3-a538-037b05d86d8d",
+                "document_uuid": "fc910522-68a7-470a-bd2f-8668cfd53955",
+                "chunk_index": 1,
+                "authority": "Synthetic_Data",
+                "document_title": "SyntheticDataGenerationUsi",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Ensure **DOIs are prioritized over URLs** where available (e.g., entry 1 currently uses a URL; consider verifying if a DOI exists for this article).\n- For entries without DOIs (e.g., entry 13), use the **\"Retrieved from\"** format:\n*... (2023). Environmental management accounting and stakeholders perspective: A theoretical perspective. *International Journal for Multidisciplinary Research (IJFMR), 5*(6). Retrieved from [https://www.ijfmr.com](https://www.ijfmr.com)*.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "6761d306-4c4a-46fe-bb67-88960c074c3d",
+                "document_uuid": "fc910522-68a7-470a-bd2f-8668cfd53955",
+                "chunk_index": 2,
+                "authority": "Synthetic_Data",
+                "document_title": "SyntheticDataGenerationUsi",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Confirm that **all journal names are italicized** (e.g., *International Journal of Scientific Research in Science and Technology* in entry 16).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "ee7109d0-ca56-4b13-b004-42430202c137",
+                "document_uuid": "fc910522-68a7-470a-bd2f-8668cfd53955",
+                "chunk_index": 3,
+                "authority": "Synthetic_Data",
+                "document_title": "SyntheticDataGenerationUsi",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- For arXiv entries, use the standard format:\n*... (2023). Impacts and risk of generative AI technology on cyber defense. *arXiv preprint arXiv:2306.13033*. https://arxiv.org/abs/2306.13033*\n- Ensure the **arXiv ID** is correctly formatted (e.g., \"arXiv:2306.13033\" not \"arXiv:2306.13033\").",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "2dd97305-c6f5-4dae-a966-a580fa2f355a",
+                "document_uuid": "fc910522-68a7-470a-bd2f-8668cfd53955",
+                "chunk_index": 4,
+                "authority": "Synthetic_Data",
+                "document_title": "SyntheticDataGenerationUsi",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Verify that **all author names follow the \"Last name, First initial.\"** format (e.g., *Enyejo, L. A.* in entry 1 vs. *Enyejo, L. A.* in entry 12).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "5061511c-a625-4b58-9270-22102478172b",
+                "document_uuid": "fc910522-68a7-470a-bd2f-8668cfd53955",
+                "chunk_index": 5,
+                "authority": "Synthetic_Data",
+                "document_title": "SyntheticDataGenerationUsi",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- For journals without page numbers (e.g., entry 13), use **\"n.p.\"** (no page) or omit pagination if the journal does not use it.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "af336d6e-e0d9-45cd-9a61-65d62b878978",
+                "document_uuid": "fc910522-68a7-470a-bd2f-8668cfd53955",
+                "chunk_index": 6,
+                "authority": "Synthetic_Data",
+                "document_title": "SyntheticDataGenerationUsi",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Ensure **volume numbers are italicized** (e.g., *10*(1) in entry 2).\n- Use **\"pp.\"** for multiple pages (e.g., *336–354* in entry 1 is correct).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "62814715-5bfd-4ef0-86de-4faa97504ccb",
+                "document_uuid": "fc910522-68a7-470a-bd2f-8668cfd53955",
+                "chunk_index": 7,
+                "authority": "Synthetic_Data",
+                "document_title": "SyntheticDataGenerationUsi",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Here’s a revised version of **entry 1** with the above suggestions applied:\n**Ijiga, A. C., Igbede, M. A., Ukaegbu, C., Olatunde, T. I., Olajide, F. I., & Enyejo, L. A.** (2024). Precision healthcare analytics: Integrating ML for automated image interpretation, disease detection, and prognosis prediction. *World Journal of Biology Pharmacy and Health Sciences, 18*(01), 336–354. https://wjbphs.com/sites/default/files/WJBPHS-2024-0214.pdf",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "ecbb3823-480c-420d-a2ab-8370c98f8063",
+                "document_uuid": "fc910522-68a7-470a-bd2f-8668cfd53955",
+                "chunk_index": 8,
+                "authority": "Synthetic_Data",
+                "document_title": "SyntheticDataGenerationUsi",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Citation Tools**: Use tools like **Zotero** or **EndNote** to automate formatting and ensure consistency across all entries.\n- **Publisher Guidelines**: Cross-check with the target journal’s formatting requirements (e.g., *IJISRT* or *WJBPHS*) for specific style preferences (e.g., URLs vs. DOIs).\n- **Plagiarism Check**: Run a plagiarism check to confirm that all references are properly cited and match the original sources.\nLet me know if you’d like help generating a **citation style guide** tailored to your field or institution!",
+            "embedding": null,
+            "embedding_text": null
+        }
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "document_uuid": "42dd13a3-46fd-4043-8678-c43e4c0ae90d",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "37153184-4742-43bb-ba75-be4d994588fd",
+                "document_uuid": "42dd13a3-46fd-4043-8678-c43e4c0ae90d",
+                "chunk_index": 0,
+                "authority": "Account_Takeover",
+                "document_title": "2509.20339v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Account Takeover (ATO) fraud involves unauthorized access to user accounts, typically through compromised credentials or session hijacking. ATLAS, a spatio-temporal graph framework, addresses ATO detection by constructing a **time-respecting directed session graph** with edges representing user interactions (e.g., login attempts) and nodes representing sessions. Connectivity is regulated by a **time window (T)** (e.g., 1–120 days) and **recency cap (K)** (e.g., 1–10 recent sessions).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "7306358a-80de-4d52-82a4-fe6a9a58601a",
+                "document_uuid": "42dd13a3-46fd-4043-8678-c43e4c0ae90d",
+                "chunk_index": 1,
+                "authority": "Account_Takeover",
+                "document_title": "2509.20339v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "ATLAS introduces a scalable, real-time ATO detection framework leveraging **time-respecting directed session graphs** and **label propagation**. It outperforms XGBoost by **+5.8% in ROC AUC** (84.46%) through inductive GraphSAGE variants and serve-time-consistent label aggregation. Key innovations include temporal DAG constraints, neighbor sampling for scalability, and integration of enterprise-level latency requirements.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "86518da4-77d5-4f9d-ad74-460210130ff2",
+                "document_uuid": "42dd13a3-46fd-4043-8678-c43e4c0ae90d",
+                "chunk_index": 2,
+                "authority": "Account_Takeover",
+                "document_title": "2509.20339v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Account Takeover (ATO) fraud refers to the unauthorized acquisition of user credentials or session control, enabling attackers to impersonate legitimate users for malicious purposes (e.g., financial theft, data exfiltration).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "6278de94-b7ac-44d3-a393-cf09a091f3b6",
+                "document_uuid": "42dd13a3-46fd-4043-8678-c43e4c0ae90d",
+                "chunk_index": 3,
+                "authority": "Account_Takeover",
+                "document_title": "2509.20339v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "1. **Credential Compromise**: Attackers obtain user credentials via phishing, data breaches, or malware.\n2. **Session Hijacking**: Exploit weak session management or stolen tokens to take over active sessions.\n3. **Coordinated Attacks**: Use multiple compromised accounts or sessions to bypass detection thresholds (e.g., rate limiting).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3771faa5-b84d-40ab-92d4-65955a7fbea7",
+                "document_uuid": "42dd13a3-46fd-4043-8678-c43e4c0ae90d",
+                "chunk_index": 4,
+                "authority": "Account_Takeover",
+                "document_title": "2509.20339v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Anomalous Login Patterns**: Unusual geographic locations, device fingerprints, or IP addresses.\n- **High Session Frequency**: Rapid succession of login attempts or session switches within a short time window (T).\n- **Latency Discrepancies**: Delays in user responses or interactions inconsistent with typical behavior.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "973734dc-0fbe-4fa6-acee-5b960bb2818b",
+                "document_uuid": "42dd13a3-46fd-4043-8678-c43e4c0ae90d",
+                "chunk_index": 5,
+                "authority": "Account_Takeover",
+                "document_title": "2509.20339v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Graph Anomalies**: Unusual clustering or connectivity patterns in session graphs (e.g., high-degree nodes).\n- **Temporal Irregularities**: Logins outside normal user activity hours or inconsistent session durations.\n- **Credential Reuse**: Multiple accounts sharing the same password or authentication token.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "181aed3d-c38c-47cf-8f8d-ed46efb9b199",
+                "document_uuid": "42dd13a3-46fd-4043-8678-c43e4c0ae90d",
+                "chunk_index": 6,
+                "authority": "Account_Takeover",
+                "document_title": "2509.20339v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Time Window Violations**: Sessions exceeding the time window (T) or recency cap (K) thresholds.\n- **Device/IP Mismatch**: Inconsistencies between user devices/IP addresses and historical records.\n- **Behavioral Deviations**: Uncharacteristic actions (e.g., bulk transactions, account modifications) during sessions.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "2a4d2065-8ed4-47b8-842f-66287e960ca9",
+                "document_uuid": "42dd13a3-46fd-4043-8678-c43e4c0ae90d",
+                "chunk_index": 7,
+                "authority": "Account_Takeover",
+                "document_title": "2509.20339v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Graph-Based Alerts**: Abnormal session graph structures (e.g., high clustering coefficients, disconnected subgraphs).\n- **Temporal Threshold Breaches**: Login attempts within the time window (T) or recency cap (K) that trigger anomaly scores.\n- **Behavioral Flags**: Use of suspicious devices/IPs or deviations from user-defined activity patterns.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "ba07efb4-a609-4699-b57b-335848f40f86",
+                "document_uuid": "42dd13a3-46fd-4043-8678-c43e4c0ae90d",
+                "chunk_index": 8,
+                "authority": "Account_Takeover",
+                "document_title": "2509.20339v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Legitimate Multi-Device Usage**: Users accessing accounts from multiple trusted devices/IPs.\n- **Time Zone Shifts**: Legitimate travel or work schedules causing temporary deviations from normal activity patterns.\n- **System-Induced Delays**: Network latency or server-side delays misinterpreted as behavioral anomalies.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "ca764f87-15f2-4b99-824a-8c3cae12e937",
+                "document_uuid": "42dd13a3-46fd-4043-8678-c43e4c0ae90d",
+                "chunk_index": 9,
+                "authority": "Account_Takeover",
+                "document_title": "2509.20339v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Multi-Factor Authentication (MFA)**: Enforce MFA to mitigate credential compromise.\n- **Session Monitoring**: Real-time detection of suspicious session activity (e.g., rapid login switches).\n- **Graph-Based Throttling**: Use session graph anomalies to dynamically adjust account access thresholds.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "a0dcf0cb-95ba-41e7-af22-608b88bb6eb2",
+                "document_uuid": "42dd13a3-46fd-4043-8678-c43e4c0ae90d",
+                "chunk_index": 10,
+                "authority": "Account_Takeover",
+                "document_title": "2509.20339v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- ATLAS framework details and performance metrics (as described in the original markdowns).\n- Industry benchmarks for ATO detection (e.g., XGBoost, traditional rule-based systems).\n- Case studies on credential compromise and session hijacking techniques.",
+            "embedding": null,
+            "embedding_text": null
+        }
+    ]
+}

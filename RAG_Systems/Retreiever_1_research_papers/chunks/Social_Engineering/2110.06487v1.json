@@ -1,0 +1,214 @@
+{
+    "document_uuid": "fd891a4c-1632-4bd8-aa64-7f2485d1f619",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "0edf0395-ade5-4df9-a2c1-04c163a1191f",
+                "document_uuid": "fd891a4c-1632-4bd8-aa64-7f2485d1f619",
+                "chunk_index": 0,
+                "authority": "Social_Engineering",
+                "document_title": "2110.06487v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Mortgage closing scams involving fake documents or impersonation.\n- Recruitment scams targeting job seekers with fraudulent employment offers.\n- Gift card scams as an emerging Business Email Compromise (BEC) method.\n- Online dating romance scams leveraging emotional manipulation.\n- Fake law firm scams impersonating legal entities to defraud victims.\n- Call center scams operated from India, targeting victims via phone.\n- **Technical Support Scams**: Fraudulent actors posing as IT support to access victims’ systems.\n- **Unemployment Fraud Scams**: Exploiting pandemic-era vulnerabilities to siphon benefits.\n- **VoIP-Enabled Scams**: Use of virtual phone numbers to spoof caller IDs and evade detection.\n- **Phishing via Social Media**: Targeting users through fake profiles or compromised accounts.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d62e810f-856b-499d-8f77-531f659ecae2",
+                "document_uuid": "fd891a4c-1632-4bd8-aa64-7f2485d1f619",
+                "chunk_index": 1,
+                "authority": "Social_Engineering",
+                "document_title": "2110.06487v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Operational fraud intelligence reveals a diverse range of scams exploiting digital and social engineering tactics. Key patterns include mortgage fraud, recruitment fraud, BEC via gift cards, romance scams, and fake legal services. Attackers use urgency, deception, and impersonation to exploit victims, often through unverified communication channels. **Network vulnerabilities**, such as unsecured VoIP systems and weak caller ID authentication, exacerbate risks, while **pandemic-related fraud** (e.g., unemployment scams) highlights evolving threats.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "540d2683-a949-4cf7-920e-435b38526a8c",
+                "document_uuid": "fd891a4c-1632-4bd8-aa64-7f2485d1f619",
+                "chunk_index": 2,
+                "authority": "Social_Engineering",
+                "document_title": "2110.06487v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Mortgage Closing Scam**: Fraudulent activities during mortgage processes, including fake documents or impersonating real estate professionals.\n- **Recruitment Scam**: Deceptive job offers designed to extract personal or financial information.\n- **Gift Card Scam**: Use of gift cards as a payment method in BEC attacks.\n- **Romance Scam**: Exploitation of emotional connections to extort funds.\n- **Fake Law Firm Scam**: Impersonation of legal entities to defraud victims.\n- **Technical Support Scam**: Fraudulent actors posing as IT support to access victims’ systems.\n- **Unemployment Fraud Scam**: Exploiting pandemic-era vulnerabilities to siphon benefits.\n- **VoIP-Enabled Scam**: Use of virtual phone numbers to spoof caller IDs and evade detection.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "f7a117f1-d286-4567-a07b-88110e2076e5",
+                "document_uuid": "fd891a4c-1632-4bd8-aa64-7f2485d1f619",
+                "chunk_index": 3,
+                "authority": "Social_Engineering",
+                "document_title": "2110.06487v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "1. **Initial Contact**: Unsolicited communication via phone, email, or social media.\n2. **Deception**: Fabrication of legitimacy (e.g., fake job offers, legal documents, or romantic profiles).\n3. **Urgency Creation**: Pressuring victims to act quickly (e.g., \"limited-time offer,\" \"urgent legal matter\").\n4. **Information Extraction**: Requesting personal, financial, or sensitive data.\n5. **Exploitation**: Transfer of funds, gift cards, or other assets under false pretenses.\n6. **Network Exploitation**: Leveraging unsecured VoIP systems or spoofed caller IDs to evade detection (e.g., **technical support scams** or **unemployment fraud**).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "30b700da-8b99-4e17-b94c-c1845dad0130",
+                "document_uuid": "fd891a4c-1632-4bd8-aa64-7f2485d1f619",
+                "chunk_index": 4,
+                "authority": "Social_Engineering",
+                "document_title": "2110.06487v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Overly urgent or coercive communication.\n- Requests for gift cards, wire transfers, or personal information.\n- Use of fake websites, emails, or phone numbers.\n- Impersonation of trusted entities (e.g., law firms, employers, IT support).\n- Emotional manipulation in romance scams.\n- **Technical Sophistication**: Use of VoIP to spoof caller IDs or mimic legitimate IT support.\n- **Pandemic-Related Tactics**: Exploiting unemployment benefits systems or remote work vulnerabilities.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "91439bc9-5138-453a-a08b-48d45125e4f1",
+                "document_uuid": "fd891a4c-1632-4bd8-aa64-7f2485d1f619",
+                "chunk_index": 5,
+                "authority": "Social_Engineering",
+                "document_title": "2110.06487v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Unverified contact from unknown sources.\n- Requests for immediate payment or sensitive data.\n- Discrepancies in documents or communication (e.g., typos, mismatched details).\n- Pressure to bypass standard verification processes.\n- Use of spoofed caller IDs or email addresses.\n- **VoIP-Related Red Flags**: Calls from virtual numbers with no geographic traceability.\n- **BEC-Linked Indicators**: Requests for gift card purchases or wire transfers via email.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "28570eb1-e60c-436b-8648-523d31bc7a42",
+                "document_uuid": "fd891a4c-1632-4bd8-aa64-7f2485d1f619",
+                "chunk_index": 6,
+                "authority": "Social_Engineering",
+                "document_title": "2110.06487v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Phishing**: Use of fake emails or websites to extract information.\n- **Social Engineering**: Exploiting human psychology to manipulate victims.\n- **Impersonation**: Mimicking legitimate entities to gain trust.\n- **Urgency Tactics**: Creating false urgency to prevent victim verification.\n- **Monetary Exploitation**: Direct requests for funds or gift cards.\n- **Network Exploitation**: Leveraging unsecured VoIP systems or spoofed caller IDs.\n- **Pandemic-Related Fraud**: Targeting unemployment benefits systems or remote work vulnerabilities.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "af0d79a3-a800-4cf0-bc2a-cd1d1326e4ee",
+                "document_uuid": "fd891a4c-1632-4bd8-aa64-7f2485d1f619",
+                "chunk_index": 7,
+                "authority": "Social_Engineering",
+                "document_title": "2110.06487v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Unusual transaction patterns (e.g., gift card purchases, wire transfers).\n- Inconsistent contact details (e.g., mismatched phone numbers, email domains).\n- Behavioral anomalies (e.g., sudden urgency, reluctance to verify identity).\n- Suspicious URLs or domains in communications.\n- Frequent calls from unknown numbers with spoofed caller IDs.\n- **VoIP-Related Signals**: Calls from virtual numbers or lack of geographic traceability.\n- **BEC-Linked Signals**: Email requests for gift card purchases or wire transfers.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "664a2796-1b31-46f1-b254-28e364fb1241",
+                "document_uuid": "fd891a4c-1632-4bd8-aa64-7f2485d1f619",
+                "chunk_index": 8,
+                "authority": "Social_Engineering",
+                "document_title": "2110.06487v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Legitimate businesses using urgent language for time-sensitive offers.\n- Genuine legal or employment communications with delayed verification.\n- Legitimate gift card purchases for verified purposes.\n- Legitimate dating interactions mistaken for scams due to initial red flags.\n- **VoIP-Related False Positives**: Legitimate businesses using virtual numbers for remote operations.\n- **Technical Support False Positives**: Legitimate IT support contacting users via unverified channels.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "17494985-f440-4739-b143-81cde92bfd07",
+                "document_uuid": "fd891a4c-1632-4bd8-aa64-7f2485d1f619",
+                "chunk_index": 9,
+                "authority": "Social_Engineering",
+                "document_title": "2110.06487v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Verify the legitimacy of unexpected communications (e.g., contact official sources).\n- Avoid sharing personal or financial information unless verified.\n- Use caller ID authentication and email security tools (e.g., STIR/SHAKEN).\n- Educate users on scam indicators (e.g., urgency, impersonation).\n- Report suspicious activity to authorities or financial institutions.\n- **Network-Level Prevention**: Secure VoIP systems and implement caller ID authentication.\n- **BEC Mitigation**: Block gift card purchase requests and verify wire transfer instructions.\n- **Pandemic-Related Safeguards**: Monitor unemployment benefit systems for fraud.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "277654e9-e9c0-4575-b479-434bf60fd5cc",
+                "document_uuid": "fd891a4c-1632-4bd8-aa64-7f2485d1f619",
+                "chunk_index": 10,
+                "authority": "Social_Engineering",
+                "document_title": "2110.06487v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "[47] Pleasant Green. Behind the Mortgage Closing Scam.\n[48] Delta Community Credit Union. Mortgage Scams Are on the Rise.\n[49] Pleasant Green. Illuminati Recruitment Scammer Strikes Back!\n[50] How to Spot an Online Recruitment Scam — Oil-ﬁeld Job Shop.\n[52] Sheila Blackford. The Fake Law Firm Scam.\n[53] Brian Roche. Munchkin Cat Scam.\n[55] Ronnie Tokazowski. Gift Card Scams as an Emerging BEC Method.\n[56] Monica T. Whitty. Anatomy of the Online Dating Romance Scam.\n[57] Gary Warner. India’s Cyber Crime Detectives Fighting Call Center Scams.\n[59] Federal Communications Commission. Combating Spoofed Robocalls with Caller ID Authentication.\n[Additional References from First Document]:\n- **Technical Support Scams**: Federal Communications Commission (FCC) on combating spoofed robocalls.\n- **Unemployment Fraud**: Navid Ali Khan et al. (2020) on pandemic-related cyber threats.\n- **VoIP Vulnerabilities**: Hu Tu et al. (2016) on telephone spam and call authentication.\n- **BEC and Gift Card Scams**: Ronnie Tokazowski (2020) on emerging BEC methods.\n- **Social Engineering**: Sue Yeon Syn & Sanghee Oh (2015) on user information sharing behavior.",
+            "embedding": null,
+            "embedding_text": null
+        }
+    ]
+}

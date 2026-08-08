@@ -1,0 +1,214 @@
+{
+    "document_uuid": "a94eff05-9003-43bd-9eb1-a76e8202e461",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "98dae846-2155-49bc-b724-c0840473d57b",
+                "document_uuid": "a94eff05-9003-43bd-9eb1-a76e8202e461",
+                "chunk_index": 0,
+                "authority": "UPI_Fraud",
+                "document_title": "IJCRT2412897",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "UPI fraud detection leverages machine learning (ML) models to identify fraudulent transactions in real-time, focusing on features such as transaction amount, geolocation, frequency, and user behavior. The optimal approach employs ensemble methods like Random Forest for robustness and versatility, while addressing challenges like imbalanced datasets and real-time processing constraints.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "ad4bbb8a-10e4-4f96-b113-9ab288ebdd57",
+                "document_uuid": "a94eff05-9003-43bd-9eb1-a76e8202e461",
+                "chunk_index": 1,
+                "authority": "UPI_Fraud",
+                "document_title": "IJCRT2412897",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "This paper presents a structured methodology for real-time UPI fraud detection using ML models, evaluating Logistic Regression, Random Forest, Decision Trees, and SVM. Random Forest outperforms others in accuracy and precision, while Logistic Regression offers interpretability. Challenges include imbalanced datasets, computational demands for real-time processing, and evolving fraud tactics. Future research directions emphasize adversarial learning, generative AI for synthetic data, edge computing, and behavioral biometrics integration.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1cbb3b49-b74b-42ce-8a19-1ea1cd9218d0",
+                "document_uuid": "a94eff05-9003-43bd-9eb1-a76e8202e461",
+                "chunk_index": 2,
+                "authority": "UPI_Fraud",
+                "document_title": "IJCRT2412897",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "UPI fraud detection refers to the use of machine learning models to identify and mitigate fraudulent transactions within the Unified Payments Interface (UPI). Key features include transaction amount, geolocation, user behavior, and frequency, with a focus on balancing detection accuracy and minimizing false positives.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "fc14c732-75c2-4557-ae8a-15ca17d42136",
+                "document_uuid": "a94eff05-9003-43bd-9eb1-a76e8202e461",
+                "chunk_index": 3,
+                "authority": "UPI_Fraud",
+                "document_title": "IJCRT2412897",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Fraudsters employ evolving tactics such as:\n1. **Synthetic identity creation** to bypass user verification.\n2. **AI-generated transaction patterns** mimicking legitimate behavior.\n3. **Exploiting imbalanced datasets** to evade detection by ML models.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "33fa6955-497f-4c4c-9116-878386545218",
+                "document_uuid": "a94eff05-9003-43bd-9eb1-a76e8202e461",
+                "chunk_index": 4,
+                "authority": "UPI_Fraud",
+                "document_title": "IJCRT2412897",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Transaction frequency anomalies**: Unusual spikes in transaction volume.\n- **Geolocation inconsistencies**: Transactions originating from geographically improbable locations.\n- **User behavior deviations**: Atypical typing patterns, device usage, or login times.\n- **Contextual mismatches**: Transactions occurring during non-business hours or with high-risk merchants.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "f72a166c-da68-4d58-adbf-28abeee0a44b",
+                "document_uuid": "a94eff05-9003-43bd-9eb1-a76e8202e461",
+                "chunk_index": 5,
+                "authority": "UPI_Fraud",
+                "document_title": "IJCRT2412897",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **High-value transactions** with low-frequency patterns.\n- **Multiple failed login attempts** preceding a transaction.\n- **Unusual geolocation data** (e.g., international transactions from a domestic user).\n- **Device fingerprint mismatches** (e.g., new devices or IP addresses).\n- **Abnormal transaction timing** (e.g., midnight transactions for a retail merchant).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "2e5274f1-f11f-47cd-b8a9-d8be881d708a",
+                "document_uuid": "a94eff05-9003-43bd-9eb1-a76e8202e461",
+                "chunk_index": 6,
+                "authority": "UPI_Fraud",
+                "document_title": "IJCRT2412897",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Transaction amount**: Large or round-numbered transactions (e.g., ₹10,000).\n- **Geolocation**: Inconsistent or high-risk locations (e.g., multiple transactions from a single IP).\n- **Frequency**: Sudden increases in transaction volume or rate.\n- **User behavior**: Deviations in typing speed, mouse movement, or device usage.\n- **Contextual data**: Non-business-hour transactions or interactions with high-risk merchants.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "18dcee97-8617-4c8a-95ce-19b0c84d3a25",
+                "document_uuid": "a94eff05-9003-43bd-9eb1-a76e8202e461",
+                "chunk_index": 7,
+                "authority": "UPI_Fraud",
+                "document_title": "IJCRT2412897",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Model-based signals**: High scores from Random Forest or Logistic Regression indicating fraud risk.\n- **Real-time processing**: Latency thresholds for edge computing or streaming ML (e.g., Apache Flink).\n- **Anomaly detection**: Deviations in transaction frequency, geolocation, or user behavior.\n- **Synthetic data alerts**: Generated samples from generative AI models flagging imbalanced datasets.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "2f93d746-126d-47b7-88bc-28aaf44fc020",
+                "document_uuid": "a94eff05-9003-43bd-9eb1-a76e8202e461",
+                "chunk_index": 8,
+                "authority": "UPI_Fraud",
+                "document_title": "IJCRT2412897",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Imbalanced datasets**: Biased models over-predict fraud for legitimate transactions.\n- **Threshold misalignment**: Rigorous Logistic Regression thresholds may flag low-risk transactions.\n- **Contextual misinterpretation**: Legitimate high-value transactions (e.g., salary transfers) misclassified as fraud.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "84a88a3c-29ad-4e71-9508-829b0262acda",
+                "document_uuid": "a94eff05-9003-43bd-9eb1-a76e8202e461",
+                "chunk_index": 9,
+                "authority": "UPI_Fraud",
+                "document_title": "IJCRT2412897",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Model optimization**: Use of Random Forest for scalability and cost-sensitive learning for imbalanced data.\n- **Feature enrichment**: Integration of behavioral biometrics, device fingerprints, and contextual data (e.g., merchant reputation).\n- **Real-time infrastructure**: Edge computing, streaming ML (Apache Flink), and lightweight models for low-latency detection.\n- **Generative AI**: Synthetic data generation to balance training datasets.\n- **NLP for transaction analysis**: Detecting anomalies in transaction descriptions or user inputs.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "36158ec8-b2c7-4200-aa5d-0ed5ed5f5001",
+                "document_uuid": "a94eff05-9003-43bd-9eb1-a76e8202e461",
+                "chunk_index": 10,
+                "authority": "UPI_Fraud",
+                "document_title": "IJCRT2412897",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Future research on adversarial learning, generative AI, and edge computing.\n- Evaluation of Logistic Regression, Random Forest, and SVM for UPI fraud detection.\n- Challenges in imbalanced datasets and real-time processing.",
+            "embedding": null,
+            "embedding_text": null
+        }
+    ]
+}

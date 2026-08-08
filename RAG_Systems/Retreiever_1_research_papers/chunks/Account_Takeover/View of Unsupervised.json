@@ -1,0 +1,214 @@
+{
+    "document_uuid": "aa8c664b-a7ef-4fdb-a453-228afc40e407",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "336b49d1-e25b-4bf7-b642-ff210aa4160d",
+                "document_uuid": "aa8c664b-a7ef-4fdb-a453-228afc40e407",
+                "chunk_index": 0,
+                "authority": "Account_Takeover",
+                "document_title": "View of Unsupervised",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Operational fraud typically involves manipulation of internal processes to divert resources, inflate financial statements, or conceal illicit activities. Common patterns include collusion between employees and external parties, misuse of access privileges, and exploitation of system vulnerabilities during transaction processing.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "cd6efb1c-c3d2-4d94-b4c2-eb94987f0059",
+                "document_uuid": "aa8c664b-a7ef-4fdb-a453-228afc40e407",
+                "chunk_index": 1,
+                "authority": "Account_Takeover",
+                "document_title": "View of Unsupervised",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "This paper identifies operational fraud as a systemic risk driven by human error, inadequate controls, and intentional misconduct. Key insights include the role of digital footprints in tracing fraudulent activities, the importance of behavioral anomalies, and the need for real-time monitoring to mitigate risks.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "dd5bdc8c-f48f-4fe8-98a0-f4d14294504e",
+                "document_uuid": "aa8c664b-a7ef-4fdb-a453-228afc40e407",
+                "chunk_index": 2,
+                "authority": "Account_Takeover",
+                "document_title": "View of Unsupervised",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Operational fraud refers to deliberate acts by individuals or groups within an organization to misappropriate assets, distort financial records, or gain unauthorized benefits through manipulation of operational processes.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "3a3f1e6d-5373-48b0-8d5b-1420d0151a00",
+                "document_uuid": "aa8c664b-a7ef-4fdb-a453-228afc40e407",
+                "chunk_index": 3,
+                "authority": "Account_Takeover",
+                "document_title": "View of Unsupervised",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "1. **Reconnaissance**: Identifying vulnerabilities in systems or processes.\n2. **Exploitation**: Gaining access to sensitive data or systems.\n3. **Execution**: Manipulating transactions or records to divert funds or assets.\n4. **Cover-up**: Erasing digital trails or altering logs to avoid detection.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "67dbb220-e3a1-4e5c-b108-e6c8e1a70157",
+                "document_uuid": "aa8c664b-a7ef-4fdb-a453-228afc40e407",
+                "chunk_index": 4,
+                "authority": "Account_Takeover",
+                "document_title": "View of Unsupervised",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Unusual working hours or access patterns.\n- Frequent requests for exceptions or overrides.\n- Discrepancies between reported roles and actual activities.\n- Avoidance of audit trails or monitoring tools.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "7e1d2159-d3b6-4fa5-b772-9e98666a0734",
+                "document_uuid": "aa8c664b-a7ef-4fdb-a453-228afc40e407",
+                "chunk_index": 5,
+                "authority": "Account_Takeover",
+                "document_title": "View of Unsupervised",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Inconsistent transaction logs or timestamps.\n- Sudden spikes in high-risk transactions.\n- Unexplained discrepancies in financial reports.\n- Unusual communication patterns (e.g., encrypted emails with external parties).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "df18aa6a-9673-4f62-9c01-150914fb5be4",
+                "document_uuid": "aa8c664b-a7ef-4fdb-a453-228afc40e407",
+                "chunk_index": 6,
+                "authority": "Account_Takeover",
+                "document_title": "View of Unsupervised",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Data Manipulation**: Altered records in ERP systems.\n- **Access Anomalies**: Unauthorized access to sensitive modules.\n- **Collusion Signals**: Coordinated activities across multiple departments.\n- **Transaction Timing**: Fraudulent transactions clustered near audit periods.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "e4fa3b8a-6a9d-4282-895c-1f80c1f4806c",
+                "document_uuid": "aa8c664b-a7ef-4fdb-a453-228afc40e407",
+                "chunk_index": 7,
+                "authority": "Account_Takeover",
+                "document_title": "View of Unsupervised",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Automated alerts for deviations from baseline behavior.\n- Unusual geographic or device-based access patterns.\n- Inconsistencies in document metadata (e.g., timestamps, authorship).\n- High-frequency use of privileged accounts during off-hours.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "bf45761c-6e89-4c10-a594-495b4d1438b0",
+                "document_uuid": "aa8c664b-a7ef-4fdb-a453-228afc40e407",
+                "chunk_index": 8,
+                "authority": "Account_Takeover",
+                "document_title": "View of Unsupervised",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Legitimate business exceptions (e.g., urgent fund transfers).\n- System errors or false alerts from detection tools.\n- Temporary access granted for troubleshooting or training.\n- Misinterpretation of legitimate user behavior as suspicious.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "a5ac2db1-eeb2-4dec-bc89-ce5b19ae69c8",
+                "document_uuid": "aa8c664b-a7ef-4fdb-a453-228afc40e407",
+                "chunk_index": 9,
+                "authority": "Account_Takeover",
+                "document_title": "View of Unsupervised",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Implement role-based access controls and least privilege principles.\n- Conduct regular audits and penetration testing.\n- Train employees on fraud awareness and reporting mechanisms.\n- Deploy real-time monitoring with anomaly detection capabilities.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "600f3d06-9afc-4e9a-8033-90ba259b5a2b",
+                "document_uuid": "aa8c664b-a7ef-4fdb-a453-228afc40e407",
+                "chunk_index": 10,
+                "authority": "Account_Takeover",
+                "document_title": "View of Unsupervised",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Internal audit reports (confidential).\n- Industry whitepapers on operational risk management.\n- Case studies from financial institutions (anonymized).\n- Regulatory guidelines on fraud prevention.",
+            "embedding": null,
+            "embedding_text": null
+        }
+    ]
+}

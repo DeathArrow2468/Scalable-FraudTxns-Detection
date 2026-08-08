@@ -1,0 +1,233 @@
+{
+    "document_uuid": "45e867b6-fd3e-43c8-99d1-bb80b5efa0da",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "583c1fa3-527a-47d7-92f3-d7232f1f4223",
+                "document_uuid": "45e867b6-fd3e-43c8-99d1-bb80b5efa0da",
+                "chunk_index": 0,
+                "authority": "Social_Engineering",
+                "document_title": "2601.13581v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Scammers employ **impersonation** (e.g., posing as police, financial institutions) and **urgency-driven tactics** to extract sensitive information. They use **persuasive cues** (e.g., fabricated legitimacy, pressure) to lower victim suspicion during mid-stages of the scam. Key vulnerabilities include susceptibility to **persuasive cues** in Stage 3 and the lack of adaptive warnings to counter **escalating pressure** in later stages.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "6f5ba1ba-89c3-4060-a301-2c1134bcacbf",
+                "document_uuid": "45e867b6-fd3e-43c8-99d1-bb80b5efa0da",
+                "chunk_index": 1,
+                "authority": "Social_Engineering",
+                "document_title": "2601.13581v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "This document outlines the **SCRIPT-MIND** system, a **cognitively adaptive large language model (LLM)** designed to detect and counteract scams through real-time, context-aware interventions. It addresses the **limitations of traditional AI alerts**, which fail to sustain psychological resistance during complex scams. SCRIPT-MIND improves **scam detection accuracy**, reduces **false positives**, and enhances **contextual understanding** through finetuning. Regulatory frameworks ensure ethical use of AI systems, balancing innovation with privacy safeguards.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "9ba64b01-571b-46d5-9157-866afe1fabb8",
+                "document_uuid": "45e867b6-fd3e-43c8-99d1-bb80b5efa0da",
+                "chunk_index": 2,
+                "authority": "Social_Engineering",
+                "document_title": "2601.13581v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "**SCRIPT-MIND** is a **cognitively adaptive LLM** trained to detect and mitigate scams by analyzing conversational patterns, psychological tactics, and contextual cues. It leverages **finetuned models** (e.g., EEVE-Korean-Instruct-10.8B, Llama-3.1-8B-Instruct) to improve detection accuracy and reduce misclassification of legitimate communications as scams.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1982c7d9-c363-4c39-8359-9b6f41828c56",
+                "document_uuid": "45e867b6-fd3e-43c8-99d1-bb80b5efa0da",
+                "chunk_index": 3,
+                "authority": "Social_Engineering",
+                "document_title": "2601.13581v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "1. **Impersonation of authority figures** (e.g., \"This is the police; your account is under investigation\").\n2. **Fabricated urgency** (e.g., \"Your bank account will be frozen unless you transfer funds immediately\").\n3. **Identity theft** through social engineering, exploiting personal details to gain trust.\n4. **Escalation tactics** in later stages, including deadlines, financial penalties, or threats to force compliance.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "586780af-05e4-409b-9c20-e0bcdbca5865",
+                "document_uuid": "45e867b6-fd3e-43c8-99d1-bb80b5efa0da",
+                "chunk_index": 4,
+                "authority": "Social_Engineering",
+                "document_title": "2601.13581v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Initial suspicion** (Stages 1–2) declines sharply in **Stage 3** due to persuasive scammer cues.\n- **Recovery in suspicion** occurs in **Stage 4** as pressure and financial demands escalate.\n- **Stable relevance and anxiety** suggest victims may not fully recognize the scam until late stages.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "0da4c4dd-62ff-4d39-b625-a74364741a7c",
+                "document_uuid": "45e867b6-fd3e-43c8-99d1-bb80b5efa0da",
+                "chunk_index": 5,
+                "authority": "Social_Engineering",
+                "document_title": "2601.13581v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Persuasive cues** in Stage 3 (e.g., fabricated evidence, threats) to reduce suspicion.\n- **Escalating pressure** in later stages (e.g., deadlines, financial penalties).\n- **Linguistic patterns** in high-risk phrases (e.g., \"urgent legal action,\" \"casual questions like 'Do you know Mr. XX?'\" in impersonation scams).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d0a29d63-fec0-466e-a9b7-5abeb664c5a1",
+                "document_uuid": "45e867b6-fd3e-43c8-99d1-bb80b5efa0da",
+                "chunk_index": 6,
+                "authority": "Social_Engineering",
+                "document_title": "2601.13581v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Role-playing authority** to mimic legitimacy.\n- **Tailoring messages** to exploit psychological vulnerabilities (e.g., fear of legal consequences).\n- **Use of urgency** to bypass rational decision-making.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "f7b4e174-8ad3-4fe3-b368-afd6ce2b134c",
+                "document_uuid": "45e867b6-fd3e-43c8-99d1-bb80b5efa0da",
+                "chunk_index": 7,
+                "authority": "Social_Engineering",
+                "document_title": "2601.13581v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Transition matrix** (Table 9): Analyzes conversational patterns to identify mid-stage persuasive cues.\n- **Model selection** (Table 10): Evaluates performance of finetuned models (e.g., EEVE-Korean-Instruct-10.8B) for improved detection accuracy and rationale generation.\n- **Context-aware interventions**: SCRIPT-MIND-generated warnings that adapt to dynamic threat scenarios, enhancing suspicion in **Stages 4–5**.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "9cf99a44-f820-4edb-b720-2b7505dc42b1",
+                "document_uuid": "45e867b6-fd3e-43c8-99d1-bb80b5efa0da",
+                "chunk_index": 8,
+                "authority": "Social_Engineering",
+                "document_title": "2601.13581v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Pre-finetuning**: False positive rates were higher, misclassifying legitimate communications (e.g., police requests) as scams.\n- **Post-finetuning**: False positive rates reduced by **~0.28**, achieved through balanced training with both scam and benign data.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "99a0d215-47cd-4a77-9d13-d19dfd7b2a5c",
+                "document_uuid": "45e867b6-fd3e-43c8-99d1-bb80b5efa0da",
+                "chunk_index": 9,
+                "authority": "Social_Engineering",
+                "document_title": "2601.13581v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **SCRIPT-MIND (LLM-based warnings)**: Significantly enhance suspicion in **Stages 4–5**, demonstrating superior adaptability to context and dynamic threat scenarios.\n- **Context-aware interventions**: Real-time, personalized alerts that counter **escalating pressure** and **persuasive cues** in mid-late stages.\n- **Regulatory alignment**: Legal frameworks (e.g., South Korea’s Artificial Intelligence Basic Act, EU regulations) ensure AI systems are ethically governed, preventing misuse in surveillance.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "6192d6fb-b787-4006-8d56-4c6559650d24",
+                "document_uuid": "45e867b6-fd3e-43c8-99d1-bb80b5efa0da",
+                "chunk_index": 10,
+                "authority": "Social_Engineering",
+                "document_title": "2601.13581v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Legal and Regulatory Safeguards**:\n- South Korea: *Artificial Intelligence Basic Act* (classifies police-developed AI as \"high-impact AI,\" requiring committee review and risk mitigation).\n- UK and EU: Regulations ensuring AI systems prioritize user protection and data oversight.\n- **Model Finetuning**:\n- **EEVE-Korean-Instruct-10.8B**, **Llama-3.1-8B-Instruct** (improved scam detection accuracy, reduced false positives).\n- **Performance Metrics** (Table 16): Post-finetuning results (e.g., accuracy, F1 scores, rationale quality).\n- **Psychological Tactics**:\n- **Persuasive cues** in Stage 3, **escalating pressure** in later stages.\n- **Effectiveness of Interventions**: Context-aware warnings outperform traditional AI alerts in maintaining cognitive resilience.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "4f16e38d-8db6-43ee-aafa-05f449351353",
+                "document_uuid": "45e867b6-fd3e-43c8-99d1-bb80b5efa0da",
+                "chunk_index": 11,
+                "authority": "Social_Engineering",
+                "document_title": "2601.13581v1",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "This document synthesizes technical, psychological, and regulatory insights to provide a comprehensive framework for detecting and preventing scams using AI-driven solutions like SCRIPT-MIND.",
+            "embedding": null,
+            "embedding_text": null
+        }
+    ]
+}

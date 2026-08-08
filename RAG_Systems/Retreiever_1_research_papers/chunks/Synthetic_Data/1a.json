@@ -1,0 +1,214 @@
+{
+    "document_uuid": "6279d15c-67df-4505-965f-c4237dbb5dfc",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "c9b50793-a282-4402-9507-1db966c53a65",
+                "document_uuid": "6279d15c-67df-4505-965f-c4237dbb5dfc",
+                "chunk_index": 0,
+                "authority": "Synthetic_Data",
+                "document_title": "1a",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Adaptive financial crime and high-velocity fraud represent key challenges in digital banking. Fraud patterns evolve over time, necessitating continuous learning in detection models to counter adversarial adaptation (e.g., fraudsters modifying tactics to bypass detection). However, the paper does not specify detailed fraud operation tactics (e.g., phishing, identity theft, synthetic account creation) or provide indicator-of-compromise (IoC) data.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "2353e5c6-f68f-417b-87b4-73c59fee8fba",
+                "document_uuid": "6279d15c-67df-4505-965f-c4237dbb5dfc",
+                "chunk_index": 1,
+                "authority": "Synthetic_Data",
+                "document_title": "1a",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "The paper emphasizes the technical infrastructure for fraud detection (e.g., ML pipelines, real-time scoring) rather than operational intelligence on fraud itself. It highlights challenges such as adversarial adaptation, model drift, and the need for systems to detect evolving fraud patterns. However, it lacks actionable insights into fraudster tactics, IoCs, or threat actor behaviors, requiring external sources (e.g., threat intelligence platforms, AML reports) for operational fraud intelligence.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "95f67a6b-81b2-469a-86f3-a94d8ffdadb3",
+                "document_uuid": "6279d15c-67df-4505-965f-c4237dbb5dfc",
+                "chunk_index": 2,
+                "authority": "Synthetic_Data",
+                "document_title": "1a",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Adaptive financial crime refers to fraud that evolves in response to detection systems, while high-velocity fraud involves rapid, large-scale attacks. The paper focuses on technical solutions for detecting these phenomena but does not define specific fraud operation tactics or threat actor profiles.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "8b4aaf77-a4a0-4b59-aae0-d620cf1fa636",
+                "document_uuid": "6279d15c-67df-4505-965f-c4237dbb5dfc",
+                "chunk_index": 3,
+                "authority": "Synthetic_Data",
+                "document_title": "1a",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Not explicitly detailed in the paper. The focus is on detection system responses (e.g., real-time scoring, feedback loops) rather than fraud workflows.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c413f7ca-3a17-4eab-bd12-400f41ceaa97",
+                "document_uuid": "6279d15c-67df-4505-965f-c4237dbb5dfc",
+                "chunk_index": 4,
+                "authority": "Synthetic_Data",
+                "document_title": "1a",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Adversarial adaptation (fraudsters modifying tactics to evade detection) is noted as a key challenge. However, no specific behavioural characteristics of threat actors (e.g., organized crime groups, cybercriminals) are described.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "0a949560-152b-4c0e-a807-67322dd98cac",
+                "document_uuid": "6279d15c-67df-4505-965f-c4237dbb5dfc",
+                "chunk_index": 5,
+                "authority": "Synthetic_Data",
+                "document_title": "1a",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "No specific fraud indicators (e.g., suspicious transaction patterns, geolocation anomalies) or IoCs are provided in the paper.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "43aa220b-af3a-4374-8c1a-cf913bddb071",
+                "document_uuid": "6279d15c-67df-4505-965f-c4237dbb5dfc",
+                "chunk_index": 6,
+                "authority": "Synthetic_Data",
+                "document_title": "1a",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Not specified in the paper.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "f29b2f7e-95fe-424b-972b-a85b0e760c4f",
+                "document_uuid": "6279d15c-67df-4505-965f-c4237dbb5dfc",
+                "chunk_index": 7,
+                "authority": "Synthetic_Data",
+                "document_title": "1a",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Business impact metrics**: Fraud detection is evaluated using precision, recall, false-positive rates, and financial loss prevention.\n- **Real-time scoring**: Immediate intervention to block fraudulent transactions.\n- **Risk-based decisioning**: Allowing low-risk transactions while flagging high-risk cases.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "9c861658-9e7d-40d8-91fc-8434a20bab28",
+                "document_uuid": "6279d15c-67df-4505-965f-c4237dbb5dfc",
+                "chunk_index": 8,
+                "authority": "Synthetic_Data",
+                "document_title": "1a",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "False-positive rates are a critical metric for evaluation. Human oversight is required to review edge cases and validate model outputs, reducing false positives/negatives.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "48070fa1-0cd8-4793-9734-85be4735543d",
+                "document_uuid": "6279d15c-67df-4505-965f-c4237dbb5dfc",
+                "chunk_index": 9,
+                "authority": "Synthetic_Data",
+                "document_title": "1a",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Real-time scoring**: Blocking fraudulent transactions pre-loss.\n- **Risk-based decisioning**: Balancing customer experience with security.\n- **Feedback loops**: Retraining models using confirmed fraud cases, disputes, and analyst reviews.\n- **Regulatory compliance**: Ensuring model explainability, data privacy, and human oversight.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "0dd99566-bf3e-44be-84cd-6cee75ce1cd6",
+                "document_uuid": "6279d15c-67df-4505-965f-c4237dbb5dfc",
+                "chunk_index": 10,
+                "authority": "Synthetic_Data",
+                "document_title": "1a",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- External sources (e.g., threat intelligence platforms, AML reports) are required for operational fraud intelligence on tactics, IoCs, or threat actor behaviors.",
+            "embedding": null,
+            "embedding_text": null
+        }
+    ]
+}

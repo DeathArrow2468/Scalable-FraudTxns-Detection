@@ -1,0 +1,195 @@
+{
+    "document_uuid": "5e21197e-daa2-4c59-b823-9a54c442e94b",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "e61d2f0b-0702-4b24-9354-d43d9e50e43d",
+                "document_uuid": "5e21197e-daa2-4c59-b823-9a54c442e94b",
+                "chunk_index": 0,
+                "authority": "Account_Takeover",
+                "document_title": "1134",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Evolving fraud techniques, including AI/ML evasion, phishing, social engineering, and exploitation of weaknesses in data quality, integration flaws, and insufficient user authentication (e.g., weak passwords, lack of MFA).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "9fbfaddd-4378-4f46-934a-4ced0c57e23c",
+                "document_uuid": "5e21197e-daa2-4c59-b823-9a54c442e94b",
+                "chunk_index": 1,
+                "authority": "Account_Takeover",
+                "document_title": "1134",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "The paper highlights the interplay between advanced fraud tactics (e.g., AI evasion, social engineering), AI/ML-driven detection systems (behavioral biometrics, multi-layered authentication), and mitigation strategies (data quality improvements, MFA, user education). Challenges include balancing detection accuracy with false positives/negatives, integrating AI/ML with legacy systems, and addressing ethical/privacy concerns. Future directions emphasize blockchain, biometrics, and ethical AI frameworks.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "91692c92-7e29-4f71-bdd6-472d3a235a99",
+                "document_uuid": "5e21197e-daa2-4c59-b823-9a54c442e94b",
+                "chunk_index": 2,
+                "authority": "Account_Takeover",
+                "document_title": "1134",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "No specific definition of fraud or related terms is provided in the content.\n# Typical Attack Workflow\n1. **Fraud Tactics**:\n- Exploitation of weak authentication (e.g., lack of MFA, weak passwords).\n- AI/ML evasion techniques to bypass detection systems.\n- Phishing and social engineering to compromise user credentials.\n2. **Exploitation of System Weaknesses**:\n- Leveraging gaps in data quality, integration flaws, and insufficient user authentication.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "224c8132-5677-4b5d-99af-118b51a7700d",
+                "document_uuid": "5e21197e-daa2-4c59-b823-9a54c442e94b",
+                "chunk_index": 3,
+                "authority": "Account_Takeover",
+                "document_title": "1134",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Behavioral Biometrics**: Keystroke dynamics, mouse movement patterns, and other user behavior metrics analyzed for anomalies.\n- **Dynamic Friction**: Risk-based authentication adjustments (e.g., increased verification steps for high-risk actions).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d6e1e4f7-cb53-4b79-874a-82e0ba7f903b",
+                "document_uuid": "5e21197e-daa2-4c59-b823-9a54c442e94b",
+                "chunk_index": 4,
+                "authority": "Account_Takeover",
+                "document_title": "1134",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Real-time anomalies in user behavior (e.g., irregular keystroke patterns, mouse movements).\n- Unusual transaction patterns or network activities.\n- Incomplete or low-quality data (e.g., missing IP geolocation, ambiguous device IDs).\n- Lack of multi-factor authentication (MFA) or reliance on weak passwords.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "f79da719-1e40-46ca-9e77-03ff4d605993",
+                "document_uuid": "5e21197e-daa2-4c59-b823-9a54c442e94b",
+                "chunk_index": 5,
+                "authority": "Account_Takeover",
+                "document_title": "1134",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Integration of AI/ML with rule-based systems and human oversight.\n- Use of 2FA and dynamic friction to balance security and user experience.\n- Collaboration via threat intelligence platforms for real-time fraud data sharing.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "fcf8fcc7-066c-4964-a656-ca3ea4b4f29c",
+                "document_uuid": "5e21197e-daa2-4c59-b823-9a54c442e94b",
+                "chunk_index": 6,
+                "authority": "Account_Takeover",
+                "document_title": "1134",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- AI-based fraud detection in e-commerce ([2]).\n- Hardware token integration for secure authentication ([3]).\n- Real-time analysis of user behavior, transaction patterns, and network activities using AI/ML ([1]).\n- Behavioral biometrics (keystroke dynamics, mouse movement) for irregularity detection ([1]).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c67dda8f-c77c-456a-aae3-ad1d4b1aa0a5",
+                "document_uuid": "5e21197e-daa2-4c59-b823-9a54c442e94b",
+                "chunk_index": 7,
+                "authority": "Account_Takeover",
+                "document_title": "1134",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- High detection accuracy must balance minimizing false positives (legitimate actions flagged as fraud) and false negatives (undetected fraud) ([1]).\n- AI Fairness 360 toolkit ([4]) addresses algorithmic bias, reducing false positives in fraud detection systems.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "bcd62546-4f03-475a-b48a-b276073d02f0",
+                "document_uuid": "5e21197e-daa2-4c59-b823-9a54c442e94b",
+                "chunk_index": 8,
+                "authority": "Account_Takeover",
+                "document_title": "1134",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Data Quality Improvements**: Data cleaning, enrichment, and integration (e.g., precise IP geolocation, unique device ID identification) ([1]).\n- **MFA & Dynamic Friction**: Implementation of MFA (e.g., mobile code verification) and risk-based authentication adjustments ([1]).\n- **Secure Software Practices**: Regular code reviews, vulnerability assessments, and security audits ([1]).\n- **Decentralized Identity Management**: User-controlled data to reduce reliance on centralized databases ([1]).\n- **User Education**: Campaigns on phishing, password hygiene, and social engineering risks ([1]).\n- **Ethical Compliance**: Transparent data handling and adherence to regulations (e.g., GDPR) ([1]).\n- **AI & Hardware Token Integration**: Secure corporate networks via AI and hardware tokens ([3]).\n- **Robust AI-Driven Frameworks**: Advanced fraud detection systems ([2]).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "be84adbb-4809-40af-93f2-c362a36eadba",
+                "document_uuid": "5e21197e-daa2-4c59-b823-9a54c442e94b",
+                "chunk_index": 9,
+                "authority": "Account_Takeover",
+                "document_title": "1134",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "[1] K. Reese et al., \"A Usability Study of Five Two-Factor Authentication Methods,\" SOUPS 2019.\n[2] A. Narayanan et al., \"Robust Fraud Detection in E-Commerce Using AI,\" arXiv:1903.02503.\n[3] E. De Cristofaro et al., \"AI and Hardware Token Integration for Secure Corporate Networks,\" arXiv:1309.5344.\n[4] R. K. E. Bellamy et al., \"AI Fairness 360: An Extensible Toolkit for Detecting, Understanding, and Mitigating Unwanted Algorithmic Bias,\" arXiv:1810.01943.",
+            "embedding": null,
+            "embedding_text": null
+        }
+    ]
+}

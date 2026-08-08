@@ -1,0 +1,214 @@
+{
+    "document_uuid": "1f00baaa-57b4-43e6-955b-3228c9980755",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "80e78e74-ddb6-4945-ae7d-1c7e232c1d0f",
+                "document_uuid": "1f00baaa-57b4-43e6-955b-3228c9980755",
+                "chunk_index": 0,
+                "authority": "Account_Takeover",
+                "document_title": "1-s2.0-S136-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Account takeover fraud involving learning behavior anomalies, as well as supply chain breaches like the SolarWinds incident.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "8a40d121-e8d3-49ed-8667-ffa8c0c51488",
+                "document_uuid": "1f00baaa-57b4-43e6-955b-3228c9980755",
+                "chunk_index": 1,
+                "authority": "Account_Takeover",
+                "document_title": "1-s2.0-S136-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "This document outlines fraud detection strategies focused on identifying anomalies in user learning behaviors during web application interactions, and includes a reference to the SolarWinds breach as a case study. Key methods involve analyzing navigation patterns, form interactions, and usability metrics to detect fraud, while also highlighting the importance of supply chain security.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "f43305cc-4db9-432b-bd71-e28f32c115f8",
+                "document_uuid": "1f00baaa-57b4-43e6-955b-3228c9980755",
+                "chunk_index": 2,
+                "authority": "Account_Takeover",
+                "document_title": "1-s2.0-S136-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "**Learning Behavior Anomalies**: Deviations in user interaction patterns (e.g., \"rage clicks,\" abandoned forms) that indicate unfamiliarity with a system, often linked to account takeover attempts.\n**SolarWinds Breach**: A 2020 supply chain attack where malicious code was embedded in software updates, compromising thousands of organizations.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "1c801d10-1c6d-4c3e-bd92-26675c8336e4",
+                "document_uuid": "1f00baaa-57b4-43e6-955b-3228c9980755",
+                "chunk_index": 3,
+                "authority": "Account_Takeover",
+                "document_title": "1-s2.0-S136-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "1. **Learning Behavior Fraud**:\n- Fraudulent actors exhibit unfamiliarity with application workflows (e.g., frequent back-and-forth navigation, errors in form submissions).\n- Attackers may mimic legitimate users but lack the \"learned\" behavior of regular users.\n2. **SolarWinds Breach**:\n- Malicious code inserted into legitimate software updates.\n- Exploitation through compromised access credentials and lateral movement within networks.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "0a6d4b6b-4a5b-43fe-8b2b-6683820e2179",
+                "document_uuid": "1f00baaa-57b4-43e6-955b-3228c9980755",
+                "chunk_index": 4,
+                "authority": "Account_Takeover",
+                "document_title": "1-s2.0-S136-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Infrequent Users**: Higher odds ratios (e.g., 10 fraud cases vs. 50,716 no-fraud cases) in learning behavior anomalies.\n- **Frustration Indicators**: Rage clicks, abandoned forms, and inconsistent navigation.\n- **Supply Chain Compromise**: Unauthorized access via compromised software updates (SolarWinds case).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c5ff0f14-4ff9-4744-abb9-0b9a9df06e7a",
+                "document_uuid": "1f00baaa-57b4-43e6-955b-3228c9980755",
+                "chunk_index": 5,
+                "authority": "Account_Takeover",
+                "document_title": "1-s2.0-S136-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Abnormal navigation paths (e.g., repeated page refreshes, non-linear flow).\n- High error rates in form submissions.\n- Unusual login patterns (e.g., multiple failed attempts followed by sudden success).\n- Presence of malicious code in software updates (SolarWinds case).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "8c6cbe40-331e-48bd-ad49-9486cd0bec53",
+                "document_uuid": "1f00baaa-57b4-43e6-955b-3228c9980755",
+                "chunk_index": 6,
+                "authority": "Account_Takeover",
+                "document_title": "1-s2.0-S136-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **User Learning Metrics**: Measured via server logs and analytics tools (e.g., time spent on pages, click heatmaps).\n- **Supply Chain Vulnerabilities**: Weaknesses in software update processes and third-party dependencies.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "6b47aff0-270b-4d45-8dce-875e5e8c4496",
+                "document_uuid": "1f00baaa-57b4-43e6-955b-3228c9980755",
+                "chunk_index": 7,
+                "authority": "Account_Takeover",
+                "document_title": "1-s2.0-S136-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Anomalies in user interaction timelines (e.g., sudden drop in task completion rates).\n- Detection of known malicious code signatures in software updates.\n- Usability tools flagging frustrated user behavior (e.g., rage clicks).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d9230b70-ef67-4b1f-9cfb-4b7bb54b86a3",
+                "document_uuid": "1f00baaa-57b4-43e6-955b-3228c9980755",
+                "chunk_index": 8,
+                "authority": "Account_Takeover",
+                "document_title": "1-s2.0-S136-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Legitimate new users unfamiliar with the application.\n- Temporary technical issues (e.g., slow load times causing navigation errors).\n- Legitimate users with atypical workflows (e.g., first-time buyers).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "9d34d3cf-a63b-4013-8d7f-9c3437aca9dc",
+                "document_uuid": "1f00baaa-57b4-43e6-955b-3228c9980755",
+                "chunk_index": 9,
+                "authority": "Account_Takeover",
+                "document_title": "1-s2.0-S136-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Behavioral Monitoring**: Implement real-time analytics to flag learning behavior anomalies.\n- **Supply Chain Security**: Regularly audit third-party dependencies and enforce strict update verification processes.\n- **Collaboration**: Work with product designers to optimize usability and reduce false positives.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "7b4e43d5-a3a0-4997-86de-55b486adc733",
+                "document_uuid": "1f00baaa-57b4-43e6-955b-3228c9980755",
+                "chunk_index": 10,
+                "authority": "Account_Takeover",
+                "document_title": "1-s2.0-S136-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- [Lavi Lazarovitz, CyberArk Labs](https://www.cyberark.com/blog/solarwinds-breach-lessons-learned/): Analysis of the SolarWinds breach.\n- Tables 2 and 3 from the research paper: Odds ratios for infrequent vs. frequent user fraud detection.",
+            "embedding": null,
+            "embedding_text": null
+        }
+    ]
+}

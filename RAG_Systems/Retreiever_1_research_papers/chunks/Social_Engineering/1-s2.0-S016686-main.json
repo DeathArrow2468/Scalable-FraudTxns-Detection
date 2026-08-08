@@ -1,0 +1,214 @@
+{
+    "document_uuid": "36786291-4537-42ed-827d-dce953479de4",
+    "chunks": [
+        {
+            "metadata": {
+                "chunk_uuid": "b38cb20f-3219-41df-8186-dd47d135784a",
+                "document_uuid": "36786291-4537-42ed-827d-dce953479de4",
+                "chunk_index": 0,
+                "authority": "Social_Engineering",
+                "document_title": "1-s2.0-S016686-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Phishing susceptibility is influenced by a combination of cognitive, behavioral, and contextual factors, including perceived cyber-risk, self-efficacy in detecting phishing emails, routine internet activities, and device usage. Contradictions with prior research—such as the lack of a significant link between prior victimization and susceptibility—highlight the need for nuanced understanding of fraud indicators and behavioral patterns.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "c6f30a39-9b92-4912-a6e5-f976b1b63b36",
+                "document_uuid": "36786291-4537-42ed-827d-dce953479de4",
+                "chunk_index": 1,
+                "authority": "Social_Engineering",
+                "document_title": "1-s2.0-S016686-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "This document synthesizes findings from a research paper on phishing susceptibility, emphasizing predictors of vulnerability (e.g., self-efficacy, email volume), contradictions with prior studies, and implications for prevention. Key insights include:\n- **Behavioral factors** (e.g., work-related email use increasing susceptibility) and **cognitive factors** (e.g., overconfidence in detection skills) as critical indicators.\n- **Training programs** targeting systematic processing of email cues and self-efficacy are recommended.\n- **Limitations** in sample diversity and methodological gaps (e.g., unexplored variables like self-control) underscore the need for future research.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "0a6ba82c-1476-46dd-8a2f-55a7fc7c9b5a",
+                "document_uuid": "36786291-4537-42ed-827d-dce953479de4",
+                "chunk_index": 2,
+                "authority": "Social_Engineering",
+                "document_title": "1-s2.0-S016686-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "Phishing susceptibility refers to an individual’s likelihood of falling victim to phishing attacks, influenced by factors such as perceived cyber-risk, routine internet behavior, and cognitive biases (e.g., overconfidence).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "12194782-ced1-4e88-a81e-152c124c21d2",
+                "document_uuid": "36786291-4537-42ed-827d-dce953479de4",
+                "chunk_index": 3,
+                "authority": "Social_Engineering",
+                "document_title": "1-s2.0-S016686-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "1. **Phishing Email Delivery**: Attackers craft emails with deceptive content (e.g., urgent requests, fake sender addresses).\n2. **Recipient Processing**: Victims use heuristic or systematic processing (e.g., analyzing email cues) to evaluate the email.\n3. **Action Taken**: Susceptible individuals may click on malicious links or divulge sensitive information due to factors like email overload or overconfidence in detection skills.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "89c814cb-815f-4a6d-890e-f84d3a20b932",
+                "document_uuid": "36786291-4537-42ed-827d-dce953479de4",
+                "chunk_index": 4,
+                "authority": "Social_Engineering",
+                "document_title": "1-s2.0-S016686-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Work-related email use** and **high email volume** correlate with **increased susceptibility**, likely due to heuristic processing and cognitive overload.\n- **Leisure internet use** (e.g., social media) **reduces susceptibility**, contradicting Routine Activity Theory.\n- **Overconfidence in self-efficacy** (belief in one’s ability to detect phishing) may paradoxically **increase vulnerability**.\n- **Cyber-risk beliefs** and **systematic processing** (e.g., analyzing email cues) are associated with **lower susceptibility**.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "addfb399-4bfb-4a90-9026-f0179780b2a5",
+                "document_uuid": "36786291-4537-42ed-827d-dce953479de4",
+                "chunk_index": 5,
+                "authority": "Social_Engineering",
+                "document_title": "1-s2.0-S016686-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **High email volume** and **work-related email use** (e.g., frequent professional communication).\n- **Low self-efficacy** in phishing detection or **overconfidence** in detection skills.\n- **Limited leisure internet use** (e.g., minimal social media engagement).\n- **Prior lack of victimization** (no significant link found in this study).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "43ce6b2d-ec75-4090-b0c9-e55ac9e79239",
+                "document_uuid": "36786291-4537-42ed-827d-dce953479de4",
+                "chunk_index": 6,
+                "authority": "Social_Engineering",
+                "document_title": "1-s2.0-S016686-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Contradictions with prior research**:\n- No significant link between prior victimization and current susceptibility (contrary to Hong et al., 2013).\n- Leisure internet use reduces susceptibility, challenging Routine Activity Theory (RAT).\n- **Cognitive biases**: Overconfidence in self-efficacy may lead to poor detection (Wang et al., 2016).\n- **Email diversity**: Future research should explore emails varying in urgency, authority, or distraction (Ferreira & Lenzini, 2015).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "d21ab941-c542-425d-a980-7478d0df7e98",
+                "document_uuid": "36786291-4537-42ed-827d-dce953479de4",
+                "chunk_index": 7,
+                "authority": "Social_Engineering",
+                "document_title": "1-s2.0-S016686-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Eye-tracking tools** to analyze visual attention during email analysis (Pfeffel et al., 2019).\n- **Training programs** emphasizing systematic processing (e.g., identifying sender names, URLs).\n- **Statistical tools**: Mann-Whitney U Test for non-parametric comparisons (e.g., between susceptible and non-susceptible groups).",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "4cde4cd2-111c-4a63-a22a-8642719f0175",
+                "document_uuid": "36786291-4537-42ed-827d-dce953479de4",
+                "chunk_index": 8,
+                "authority": "Social_Engineering",
+                "document_title": "1-s2.0-S016686-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **No significant link** between prior victimization and susceptibility may lead to **false negatives** in risk assessments.\n- **Overconfidence in self-efficacy** may result in **false positives** in detection tools, as individuals may overlook subtle phishing cues.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "416e7e59-1246-4711-a102-356b00ac76dc",
+                "document_uuid": "36786291-4537-42ed-827d-dce953479de4",
+                "chunk_index": 9,
+                "authority": "Social_Engineering",
+                "document_title": "1-s2.0-S016686-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- **Training programs** should focus on **systematic processing** of email cues and improving **self-efficacy** in detection.\n- **Future research** should address **sample diversity** (e.g., including non-English-speaking populations) and **unexplored variables** (e.g., self-control, cultural factors).\n- **Tools integration**: Use of **eye-tracking and behavioral analytics** to refine detection methods.",
+            "embedding": null,
+            "embedding_text": null
+        },
+        {
+            "metadata": {
+                "chunk_uuid": "ba5c5f0d-529b-4696-9c0d-797a2b8ddea1",
+                "document_uuid": "36786291-4537-42ed-827d-dce953479de4",
+                "chunk_index": 10,
+                "authority": "Social_Engineering",
+                "document_title": "1-s2.0-S016686-main",
+                "chapter": "",
+                "chapter_title": "",
+                "section": "",
+                "subsection": "",
+                "heading": "",
+                "page_start": 1,
+                "page_end": 1
+            },
+            "text": "- Hong, J., et al. (2013). \"Prior victimization and phishing susceptibility.\" *Journal of Cybersecurity*.\n- Wang, X., et al. (2016). \"Overconfidence in phishing detection.\" *Human Factors in Cybersecurity*.\n- Ferreira, M., & Lenzini, L. (2015). \"Email diversity and phishing effectiveness.\" *ACM Conference on Human Factors in Computing Systems*.\n- Pfeffel, U., et al. (2019). \"Eye-tracking in phishing detection.\" *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems*.\n- Statistical notes: Mann-Whitney U Test, significance levels (*p* < 0.05), and sample comparisons.",
+            "embedding": null,
+            "embedding_text": null
+        }
+    ]
+}
