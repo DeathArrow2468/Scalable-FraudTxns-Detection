@@ -62,11 +62,11 @@ Paper:
 """
 
     @staticmethod
-def build_merge(markdowns):
+    def build_merge(markdowns):
 
-    combined = "\n\n".join(markdowns)
+        combined = "\n\n".join(markdowns)
 
-    return f"""
+        return f"""
 You are a senior fraud intelligence analyst.
 
 The following markdown documents were independently generated from different sections of the SAME research paper.
