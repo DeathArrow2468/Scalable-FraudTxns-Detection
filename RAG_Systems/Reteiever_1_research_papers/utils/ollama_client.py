@@ -7,7 +7,7 @@ class OllamaClient:
 
         self.url = "http://localhost:11434/api/generate"
 
-        self.model = "qwen3:32b"
+        self.model = "qwen3:14b"
 
     def generate(self, prompt):
 
