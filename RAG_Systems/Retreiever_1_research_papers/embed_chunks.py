@@ -32,7 +32,7 @@ def load_chunk_collection(file_path):
             )
         )
 
-        return ChunkCollection(document_uuid=data["document_uuid"], chunks=chunks)
+    return ChunkCollection(document_uuid=data["document_uuid"], chunks=chunks)
 
 def build_embedding_text(chunk: Chunk):
 
@@ -67,11 +67,11 @@ def process_document(file_path):
         chunk.embedding_text = build_embedding_text(chunk)
         chunk.embedding = embedder.embed(chunk.embedding_text)
 
-        relative_parent = file_path.relative_to(INPUT_FOLDER).parent
-        output_file = OUTPUT_FOLDER / relative_parent / file_path.name
-        EmbeddingWriter.save(collection, output_file)
+    relative_parent = file_path.relative_to(INPUT_FOLDER).parent
+    output_file = OUTPUT_FOLDER / relative_parent / file_path.name
+    EmbeddingWriter.save(collection, output_file)
 
-        logger.info(f"Saved embeddings -> {output_file}")
+    logger.info(f"Saved embeddings -> {output_file}")
 
 
 def main():

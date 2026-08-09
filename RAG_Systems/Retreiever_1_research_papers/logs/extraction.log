@@ -308,3 +308,302 @@
 2026-08-08 20:39:52,847 | INFO | ========== Embedding Finished ==========
 2026-08-08 20:39:52,848 | INFO | Processed : 23
 2026-08-08 20:39:52,848 | INFO | Failed : 0
+2026-08-09 20:23:42,779 | INFO | ========== Embedding Started ==========
+2026-08-09 20:23:42,785 | INFO | Embedding 1-s2.0-S136-main.json
+2026-08-09 20:23:42,813 | INFO | Embedding Chunk 1/11
+2026-08-09 20:23:43,781 | INFO | Embedding Chunk 2/11
+2026-08-09 20:23:43,904 | INFO | Embedding Chunk 3/11
+2026-08-09 20:23:44,051 | INFO | Embedding Chunk 4/11
+2026-08-09 20:23:44,183 | INFO | Embedding Chunk 5/11
+2026-08-09 20:23:44,319 | INFO | Embedding Chunk 6/11
+2026-08-09 20:23:44,452 | INFO | Embedding Chunk 7/11
+2026-08-09 20:23:44,630 | INFO | Embedding Chunk 8/11
+2026-08-09 20:23:44,774 | INFO | Embedding Chunk 9/11
+2026-08-09 20:23:44,924 | INFO | Embedding Chunk 10/11
+2026-08-09 20:23:45,101 | INFO | Embedding Chunk 11/11
+2026-08-09 20:23:45,302 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Account_Takeover\1-s2.0-S136-main.json
+2026-08-09 20:23:45,303 | INFO | Embedding 1134.json
+2026-08-09 20:23:45,326 | INFO | Embedding Chunk 1/10
+2026-08-09 20:23:45,462 | INFO | Embedding Chunk 2/10
+2026-08-09 20:23:45,588 | INFO | Embedding Chunk 3/10
+2026-08-09 20:23:45,743 | INFO | Embedding Chunk 4/10
+2026-08-09 20:23:45,870 | INFO | Embedding Chunk 5/10
+2026-08-09 20:23:45,987 | INFO | Embedding Chunk 6/10
+2026-08-09 20:23:46,116 | INFO | Embedding Chunk 7/10
+2026-08-09 20:23:46,251 | INFO | Embedding Chunk 8/10
+2026-08-09 20:23:46,398 | INFO | Embedding Chunk 9/10
+2026-08-09 20:23:46,549 | INFO | Embedding Chunk 10/10
+2026-08-09 20:23:46,728 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Account_Takeover\1134.json
+2026-08-09 20:23:46,728 | INFO | Embedding 2506.10842v1.json
+2026-08-09 20:23:46,749 | INFO | Embedding Chunk 1/11
+2026-08-09 20:23:46,877 | INFO | Embedding Chunk 2/11
+2026-08-09 20:23:47,028 | INFO | Embedding Chunk 3/11
+2026-08-09 20:23:47,156 | INFO | Embedding Chunk 4/11
+2026-08-09 20:23:47,283 | INFO | Embedding Chunk 5/11
+2026-08-09 20:23:47,413 | INFO | Embedding Chunk 6/11
+2026-08-09 20:23:47,534 | INFO | Embedding Chunk 7/11
+2026-08-09 20:23:47,662 | INFO | Embedding Chunk 8/11
+2026-08-09 20:23:47,802 | INFO | Embedding Chunk 9/11
+2026-08-09 20:23:47,925 | INFO | Embedding Chunk 10/11
+2026-08-09 20:23:48,061 | INFO | Embedding Chunk 11/11
+2026-08-09 20:23:48,257 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Account_Takeover\2506.10842v1.json
+2026-08-09 20:23:48,258 | INFO | Embedding 2509.20339v1.json
+2026-08-09 20:23:48,277 | INFO | Embedding Chunk 1/11
+2026-08-09 20:23:48,404 | INFO | Embedding Chunk 2/11
+2026-08-09 20:23:48,537 | INFO | Embedding Chunk 3/11
+2026-08-09 20:23:48,695 | INFO | Embedding Chunk 4/11
+2026-08-09 20:23:48,820 | INFO | Embedding Chunk 5/11
+2026-08-09 20:23:48,949 | INFO | Embedding Chunk 6/11
+2026-08-09 20:23:49,097 | INFO | Embedding Chunk 7/11
+2026-08-09 20:23:49,234 | INFO | Embedding Chunk 8/11
+2026-08-09 20:23:49,364 | INFO | Embedding Chunk 9/11
+2026-08-09 20:23:49,501 | INFO | Embedding Chunk 10/11
+2026-08-09 20:23:49,651 | INFO | Embedding Chunk 11/11
+2026-08-09 20:23:49,817 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Account_Takeover\2509.20339v1.json
+2026-08-09 20:23:49,817 | INFO | Embedding View of Unsupervised.json
+2026-08-09 20:23:49,838 | INFO | Embedding Chunk 1/11
+2026-08-09 20:23:49,965 | INFO | Embedding Chunk 2/11
+2026-08-09 20:23:50,088 | INFO | Embedding Chunk 3/11
+2026-08-09 20:23:50,259 | INFO | Embedding Chunk 4/11
+2026-08-09 20:23:50,386 | INFO | Embedding Chunk 5/11
+2026-08-09 20:23:50,563 | INFO | Embedding Chunk 6/11
+2026-08-09 20:23:50,699 | INFO | Embedding Chunk 7/11
+2026-08-09 20:23:50,832 | INFO | Embedding Chunk 8/11
+2026-08-09 20:23:50,980 | INFO | Embedding Chunk 9/11
+2026-08-09 20:23:51,108 | INFO | Embedding Chunk 10/11
+2026-08-09 20:23:51,233 | INFO | Embedding Chunk 11/11
+2026-08-09 20:23:51,616 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Account_Takeover\View of Unsupervised.json
+2026-08-09 20:23:51,618 | INFO | Embedding 2506.10842v1.json
+2026-08-09 20:23:51,641 | INFO | Embedding Chunk 1/11
+2026-08-09 20:23:51,814 | INFO | Embedding Chunk 2/11
+2026-08-09 20:23:51,961 | INFO | Embedding Chunk 3/11
+2026-08-09 20:23:52,094 | INFO | Embedding Chunk 4/11
+2026-08-09 20:23:52,245 | INFO | Embedding Chunk 5/11
+2026-08-09 20:23:52,373 | INFO | Embedding Chunk 6/11
+2026-08-09 20:23:52,506 | INFO | Embedding Chunk 7/11
+2026-08-09 20:23:52,635 | INFO | Embedding Chunk 8/11
+2026-08-09 20:23:52,758 | INFO | Embedding Chunk 9/11
+2026-08-09 20:23:52,915 | INFO | Embedding Chunk 10/11
+2026-08-09 20:23:53,041 | INFO | Embedding Chunk 11/11
+2026-08-09 20:23:53,222 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Merchant_Fraud\2506.10842v1.json
+2026-08-09 20:23:53,222 | INFO | Embedding 2509.09928v1.json
+2026-08-09 20:23:53,252 | INFO | Embedding Chunk 1/12
+2026-08-09 20:23:53,379 | INFO | Embedding Chunk 2/12
+2026-08-09 20:23:53,502 | INFO | Embedding Chunk 3/12
+2026-08-09 20:23:53,632 | INFO | Embedding Chunk 4/12
+2026-08-09 20:23:53,765 | INFO | Embedding Chunk 5/12
+2026-08-09 20:23:53,906 | INFO | Embedding Chunk 6/12
+2026-08-09 20:23:54,043 | INFO | Embedding Chunk 7/12
+2026-08-09 20:23:54,167 | INFO | Embedding Chunk 8/12
+2026-08-09 20:23:54,294 | INFO | Embedding Chunk 9/12
+2026-08-09 20:23:54,454 | INFO | Embedding Chunk 10/12
+2026-08-09 20:23:54,599 | INFO | Embedding Chunk 11/12
+2026-08-09 20:23:54,733 | INFO | Embedding Chunk 12/12
+2026-08-09 20:23:54,926 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Merchant_Fraud\2509.09928v1.json
+2026-08-09 20:23:54,926 | INFO | Embedding 2509.18719v1.json
+2026-08-09 20:23:54,955 | INFO | Embedding Chunk 1/10
+2026-08-09 20:23:55,091 | INFO | Embedding Chunk 2/10
+2026-08-09 20:23:55,262 | INFO | Embedding Chunk 3/10
+2026-08-09 20:23:55,419 | INFO | Embedding Chunk 4/10
+2026-08-09 20:23:55,575 | INFO | Embedding Chunk 5/10
+2026-08-09 20:23:55,726 | INFO | Embedding Chunk 6/10
+2026-08-09 20:23:55,870 | INFO | Embedding Chunk 7/10
+2026-08-09 20:23:56,016 | INFO | Embedding Chunk 8/10
+2026-08-09 20:23:56,110 | INFO | Embedding Chunk 9/10
+2026-08-09 20:23:56,208 | INFO | Embedding Chunk 10/10
+2026-08-09 20:23:56,383 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Merchant_Fraud\2509.18719v1.json
+2026-08-09 20:23:56,383 | INFO | Embedding jrfm-18-00130.json
+2026-08-09 20:23:56,406 | INFO | Embedding Chunk 1/12
+2026-08-09 20:23:56,563 | INFO | Embedding Chunk 2/12
+2026-08-09 20:23:56,665 | INFO | Embedding Chunk 3/12
+2026-08-09 20:23:56,832 | INFO | Embedding Chunk 4/12
+2026-08-09 20:23:56,969 | INFO | Embedding Chunk 5/12
+2026-08-09 20:23:57,069 | INFO | Embedding Chunk 6/12
+2026-08-09 20:23:57,195 | INFO | Embedding Chunk 7/12
+2026-08-09 20:23:57,332 | INFO | Embedding Chunk 8/12
+2026-08-09 20:23:57,469 | INFO | Embedding Chunk 9/12
+2026-08-09 20:23:57,610 | INFO | Embedding Chunk 10/12
+2026-08-09 20:23:57,703 | INFO | Embedding Chunk 11/12
+2026-08-09 20:23:57,850 | INFO | Embedding Chunk 12/12
+2026-08-09 20:23:58,029 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Merchant_Fraud\jrfm-18-00130.json
+2026-08-09 20:23:58,030 | INFO | Embedding s41598-023-38304-5.json
+2026-08-09 20:23:58,051 | INFO | Embedding Chunk 1/10
+2026-08-09 20:23:58,180 | INFO | Embedding Chunk 2/10
+2026-08-09 20:23:58,280 | INFO | Embedding Chunk 3/10
+2026-08-09 20:23:58,436 | INFO | Embedding Chunk 4/10
+2026-08-09 20:23:58,559 | INFO | Embedding Chunk 5/10
+2026-08-09 20:23:58,661 | INFO | Embedding Chunk 6/10
+2026-08-09 20:23:58,796 | INFO | Embedding Chunk 7/10
+2026-08-09 20:23:58,925 | INFO | Embedding Chunk 8/10
+2026-08-09 20:23:59,102 | INFO | Embedding Chunk 9/10
+2026-08-09 20:23:59,207 | INFO | Embedding Chunk 10/10
+2026-08-09 20:23:59,375 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Merchant_Fraud\s41598-023-38304-5.json
+2026-08-09 20:23:59,375 | INFO | Embedding 1-s2.0-S016686-main.json
+2026-08-09 20:23:59,398 | INFO | Embedding Chunk 1/11
+2026-08-09 20:23:59,528 | INFO | Embedding Chunk 2/11
+2026-08-09 20:23:59,631 | INFO | Embedding Chunk 3/11
+2026-08-09 20:23:59,767 | INFO | Embedding Chunk 4/11
+2026-08-09 20:23:59,896 | INFO | Embedding Chunk 5/11
+2026-08-09 20:24:00,002 | INFO | Embedding Chunk 6/11
+2026-08-09 20:24:00,129 | INFO | Embedding Chunk 7/11
+2026-08-09 20:24:00,247 | INFO | Embedding Chunk 8/11
+2026-08-09 20:24:00,352 | INFO | Embedding Chunk 9/11
+2026-08-09 20:24:00,496 | INFO | Embedding Chunk 10/11
+2026-08-09 20:24:00,634 | INFO | Embedding Chunk 11/11
+2026-08-09 20:24:00,780 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Social_Engineering\1-s2.0-S016686-main.json
+2026-08-09 20:24:00,780 | INFO | Embedding 2110.06487v1.json
+2026-08-09 20:24:00,806 | INFO | Embedding Chunk 1/11
+2026-08-09 20:24:00,935 | INFO | Embedding Chunk 2/11
+2026-08-09 20:24:01,092 | INFO | Embedding Chunk 3/11
+2026-08-09 20:24:01,247 | INFO | Embedding Chunk 4/11
+2026-08-09 20:24:01,349 | INFO | Embedding Chunk 5/11
+2026-08-09 20:24:01,490 | INFO | Embedding Chunk 6/11
+2026-08-09 20:24:01,645 | INFO | Embedding Chunk 7/11
+2026-08-09 20:24:01,775 | INFO | Embedding Chunk 8/11
+2026-08-09 20:24:01,880 | INFO | Embedding Chunk 9/11
+2026-08-09 20:24:02,021 | INFO | Embedding Chunk 10/11
+2026-08-09 20:24:02,165 | INFO | Embedding Chunk 11/11
+2026-08-09 20:24:02,350 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Social_Engineering\2110.06487v1.json
+2026-08-09 20:24:02,351 | INFO | Embedding 2601.13581v1.json
+2026-08-09 20:24:02,382 | INFO | Embedding Chunk 1/12
+2026-08-09 20:24:02,542 | INFO | Embedding Chunk 2/12
+2026-08-09 20:24:02,646 | INFO | Embedding Chunk 3/12
+2026-08-09 20:24:02,771 | INFO | Embedding Chunk 4/12
+2026-08-09 20:24:02,922 | INFO | Embedding Chunk 5/12
+2026-08-09 20:24:03,135 | INFO | Embedding Chunk 6/12
+2026-08-09 20:24:03,319 | INFO | Embedding Chunk 7/12
+2026-08-09 20:24:03,492 | INFO | Embedding Chunk 8/12
+2026-08-09 20:24:03,627 | INFO | Embedding Chunk 9/12
+2026-08-09 20:24:03,864 | INFO | Embedding Chunk 10/12
+2026-08-09 20:24:04,055 | INFO | Embedding Chunk 11/12
+2026-08-09 20:24:04,255 | INFO | Embedding Chunk 12/12
+2026-08-09 20:24:04,471 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Social_Engineering\2601.13581v1.json
+2026-08-09 20:24:04,471 | INFO | Embedding 2604.11752v1.json
+2026-08-09 20:24:04,494 | INFO | Embedding Chunk 1/11
+2026-08-09 20:24:04,646 | INFO | Embedding Chunk 2/11
+2026-08-09 20:24:04,779 | INFO | Embedding Chunk 3/11
+2026-08-09 20:24:04,938 | INFO | Embedding Chunk 4/11
+2026-08-09 20:24:05,064 | INFO | Embedding Chunk 5/11
+2026-08-09 20:24:05,196 | INFO | Embedding Chunk 6/11
+2026-08-09 20:24:05,338 | INFO | Embedding Chunk 7/11
+2026-08-09 20:24:05,502 | INFO | Embedding Chunk 8/11
+2026-08-09 20:24:05,630 | INFO | Embedding Chunk 9/11
+2026-08-09 20:24:05,796 | INFO | Embedding Chunk 10/11
+2026-08-09 20:24:05,930 | INFO | Embedding Chunk 11/11
+2026-08-09 20:24:06,126 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Social_Engineering\2604.11752v1.json
+2026-08-09 20:24:06,126 | INFO | Embedding 41598_2023_Article_37552.json
+2026-08-09 20:24:06,164 | INFO | Embedding Chunk 1/9
+2026-08-09 20:24:06,359 | INFO | Embedding Chunk 2/9
+2026-08-09 20:24:06,498 | INFO | Embedding Chunk 3/9
+2026-08-09 20:24:06,671 | INFO | Embedding Chunk 4/9
+2026-08-09 20:24:06,807 | INFO | Embedding Chunk 5/9
+2026-08-09 20:24:06,976 | INFO | Embedding Chunk 6/9
+2026-08-09 20:24:07,148 | INFO | Embedding Chunk 7/9
+2026-08-09 20:24:07,326 | INFO | Embedding Chunk 8/9
+2026-08-09 20:24:07,484 | INFO | Embedding Chunk 9/9
+2026-08-09 20:24:07,675 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Social_Engineering\41598_2023_Article_37552.json
+2026-08-09 20:24:07,676 | INFO | Embedding 1a.json
+2026-08-09 20:24:07,701 | INFO | Embedding Chunk 1/11
+2026-08-09 20:24:07,823 | INFO | Embedding Chunk 2/11
+2026-08-09 20:24:07,949 | INFO | Embedding Chunk 3/11
+2026-08-09 20:24:08,097 | INFO | Embedding Chunk 4/11
+2026-08-09 20:24:08,236 | INFO | Embedding Chunk 5/11
+2026-08-09 20:24:08,363 | INFO | Embedding Chunk 6/11
+2026-08-09 20:24:08,494 | INFO | Embedding Chunk 7/11
+2026-08-09 20:24:08,618 | INFO | Embedding Chunk 8/11
+2026-08-09 20:24:08,792 | INFO | Embedding Chunk 9/11
+2026-08-09 20:24:08,923 | INFO | Embedding Chunk 10/11
+2026-08-09 20:24:09,086 | INFO | Embedding Chunk 11/11
+2026-08-09 20:24:09,266 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Synthetic_Data\1a.json
+2026-08-09 20:24:09,267 | INFO | Embedding Detecting_Synthetic_.json
+2026-08-09 20:24:09,291 | INFO | Embedding Chunk 1/11
+2026-08-09 20:24:09,451 | INFO | Embedding Chunk 2/11
+2026-08-09 20:24:09,660 | INFO | Embedding Chunk 3/11
+2026-08-09 20:24:09,879 | INFO | Embedding Chunk 4/11
+2026-08-09 20:24:10,042 | INFO | Embedding Chunk 5/11
+2026-08-09 20:24:10,170 | INFO | Embedding Chunk 6/11
+2026-08-09 20:24:10,329 | INFO | Embedding Chunk 7/11
+2026-08-09 20:24:10,489 | INFO | Embedding Chunk 8/11
+2026-08-09 20:24:10,670 | INFO | Embedding Chunk 9/11
+2026-08-09 20:24:10,808 | INFO | Embedding Chunk 10/11
+2026-08-09 20:24:10,943 | INFO | Embedding Chunk 11/11
+2026-08-09 20:24:11,125 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Synthetic_Data\Detecting_Synthetic_.json
+2026-08-09 20:24:11,126 | INFO | Embedding IJERET-V4I4P105.json
+2026-08-09 20:24:11,153 | INFO | Embedding Chunk 1/11
+2026-08-09 20:24:11,314 | INFO | Embedding Chunk 2/11
+2026-08-09 20:24:11,458 | INFO | Embedding Chunk 3/11
+2026-08-09 20:24:11,619 | INFO | Embedding Chunk 4/11
+2026-08-09 20:24:11,789 | INFO | Embedding Chunk 5/11
+2026-08-09 20:24:11,954 | INFO | Embedding Chunk 6/11
+2026-08-09 20:24:12,155 | INFO | Embedding Chunk 7/11
+2026-08-09 20:24:12,314 | INFO | Embedding Chunk 8/11
+2026-08-09 20:24:12,442 | INFO | Embedding Chunk 9/11
+2026-08-09 20:24:12,580 | INFO | Embedding Chunk 10/11
+2026-08-09 20:24:12,732 | INFO | Embedding Chunk 11/11
+2026-08-09 20:24:12,909 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Synthetic_Data\IJERET-V4I4P105.json
+2026-08-09 20:24:12,909 | INFO | Embedding ssrn-5353731.json
+2026-08-09 20:24:12,946 | INFO | Embedding Chunk 1/11
+2026-08-09 20:24:13,073 | INFO | Embedding Chunk 2/11
+2026-08-09 20:24:13,198 | INFO | Embedding Chunk 3/11
+2026-08-09 20:24:13,343 | INFO | Embedding Chunk 4/11
+2026-08-09 20:24:13,465 | INFO | Embedding Chunk 5/11
+2026-08-09 20:24:13,596 | INFO | Embedding Chunk 6/11
+2026-08-09 20:24:13,714 | INFO | Embedding Chunk 7/11
+2026-08-09 20:24:13,846 | INFO | Embedding Chunk 8/11
+2026-08-09 20:24:13,964 | INFO | Embedding Chunk 9/11
+2026-08-09 20:24:14,096 | INFO | Embedding Chunk 10/11
+2026-08-09 20:24:14,214 | INFO | Embedding Chunk 11/11
+2026-08-09 20:24:14,394 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Synthetic_Data\ssrn-5353731.json
+2026-08-09 20:24:14,394 | INFO | Embedding SyntheticDataGenerationUsi.json
+2026-08-09 20:24:14,420 | INFO | Embedding Chunk 1/9
+2026-08-09 20:24:14,546 | INFO | Embedding Chunk 2/9
+2026-08-09 20:24:14,746 | INFO | Embedding Chunk 3/9
+2026-08-09 20:24:14,875 | INFO | Embedding Chunk 4/9
+2026-08-09 20:24:15,003 | INFO | Embedding Chunk 5/9
+2026-08-09 20:24:15,148 | INFO | Embedding Chunk 6/9
+2026-08-09 20:24:15,321 | INFO | Embedding Chunk 7/9
+2026-08-09 20:24:15,648 | INFO | Embedding Chunk 8/9
+2026-08-09 20:24:15,883 | INFO | Embedding Chunk 9/9
+2026-08-09 20:24:16,110 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\Synthetic_Data\SyntheticDataGenerationUsi.json
+2026-08-09 20:24:16,111 | INFO | Embedding a-comprehensive-survey-on-machine-learning-tech.json
+2026-08-09 20:24:16,137 | INFO | Embedding Chunk 1/11
+2026-08-09 20:24:16,342 | INFO | Embedding Chunk 2/11
+2026-08-09 20:24:16,534 | INFO | Embedding Chunk 3/11
+2026-08-09 20:24:16,688 | INFO | Embedding Chunk 4/11
+2026-08-09 20:24:17,143 | INFO | Embedding Chunk 5/11
+2026-08-09 20:24:17,369 | INFO | Embedding Chunk 6/11
+2026-08-09 20:24:17,559 | INFO | Embedding Chunk 7/11
+2026-08-09 20:24:17,713 | INFO | Embedding Chunk 8/11
+2026-08-09 20:24:17,878 | INFO | Embedding Chunk 9/11
+2026-08-09 20:24:18,046 | INFO | Embedding Chunk 10/11
+2026-08-09 20:24:18,213 | INFO | Embedding Chunk 11/11
+2026-08-09 20:24:18,473 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\UPI_Fraud\a-comprehensive-survey-on-machine-learning-tech.json
+2026-08-09 20:24:18,474 | INFO | Embedding IJCRT2412897.json
+2026-08-09 20:24:18,493 | INFO | Embedding Chunk 1/11
+2026-08-09 20:24:18,634 | INFO | Embedding Chunk 2/11
+2026-08-09 20:24:18,765 | INFO | Embedding Chunk 3/11
+2026-08-09 20:24:18,898 | INFO | Embedding Chunk 4/11
+2026-08-09 20:24:19,033 | INFO | Embedding Chunk 5/11
+2026-08-09 20:24:19,166 | INFO | Embedding Chunk 6/11
+2026-08-09 20:24:19,350 | INFO | Embedding Chunk 7/11
+2026-08-09 20:24:19,478 | INFO | Embedding Chunk 8/11
+2026-08-09 20:24:19,613 | INFO | Embedding Chunk 9/11
+2026-08-09 20:24:19,789 | INFO | Embedding Chunk 10/11
+2026-08-09 20:24:19,970 | INFO | Embedding Chunk 11/11
+2026-08-09 20:24:20,141 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\UPI_Fraud\IJCRT2412897.json
+2026-08-09 20:24:20,141 | INFO | Embedding IJRTI2510035.json
+2026-08-09 20:24:20,164 | INFO | Embedding Chunk 1/11
+2026-08-09 20:24:20,331 | INFO | Embedding Chunk 2/11
+2026-08-09 20:24:20,459 | INFO | Embedding Chunk 3/11
+2026-08-09 20:24:20,583 | INFO | Embedding Chunk 4/11
+2026-08-09 20:24:20,755 | INFO | Embedding Chunk 5/11
+2026-08-09 20:24:20,906 | INFO | Embedding Chunk 6/11
+2026-08-09 20:24:21,036 | INFO | Embedding Chunk 7/11
+2026-08-09 20:24:21,166 | INFO | Embedding Chunk 8/11
+2026-08-09 20:24:21,293 | INFO | Embedding Chunk 9/11
+2026-08-09 20:24:21,417 | INFO | Embedding Chunk 10/11
+2026-08-09 20:24:21,518 | INFO | Embedding Chunk 11/11
+2026-08-09 20:24:21,672 | INFO | Saved embeddings -> C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\RAG_Systems\Retreiever_1_research_papers\embeddings\UPI_Fraud\IJRTI2510035.json
+2026-08-09 20:24:21,673 | INFO | ========== Embedding Finished ==========
+2026-08-09 20:24:21,673 | INFO | Processed : 23
+2026-08-09 20:24:21,674 | INFO | Failed : 0

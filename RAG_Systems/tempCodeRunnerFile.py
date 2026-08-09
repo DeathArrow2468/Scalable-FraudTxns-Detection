@@ -1,0 +1,1 @@
+r'C:\Users\Manav\OneDrive\Desktop\FraudTranactionDetection\secrets\global-bundle.pem'

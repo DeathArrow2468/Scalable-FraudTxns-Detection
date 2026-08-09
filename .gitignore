@@ -12,3 +12,6 @@ RAG_Systems/Retriever_3_docs_on_guidelines/raw
 ################
 logs/
 *.log
+
+#######
+C:/Users/Manav/OneDrive/Desktop/FraudTranactionDetection/RAG_Systems/postgres_uploader/config.py
