@@ -14,4 +14,4 @@ logs/
 *.log
 
 #######
-RAG_Systems/RAG_Engine/config.py
+RAG_Systems/postgres_uploader/config.py
