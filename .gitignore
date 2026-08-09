@@ -14,4 +14,4 @@ logs/
 *.log
 
 #######
-C:/Users/Manav/OneDrive/Desktop/FraudTranactionDetection/RAG_Systems/postgres_uploader/config.py
+RAG_Systems/RAG_Engine/config.py
