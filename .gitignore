@@ -15,4 +15,4 @@ logs/
 
 #######
 RAG_Systems/postgres_uploader/config.py
-RAG_Systems/RAG_Engine/config.py
+RAG_Systems/RAG_Engine/utils/config.py
