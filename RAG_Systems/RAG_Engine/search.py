@@ -31,7 +31,8 @@ class SearchEngine:
 
             score = metadata.pop("score")
             text = metadata.pop("text")
-
+            metadata.pop("embedding") # Needs to be removed for Lambda
+            metadata.pop("created_at") # Needs to be removed for Lambda
             results.append(
                 SearchResult(
                     text=text, score=score, metadata=metadata
