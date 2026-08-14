@@ -1,8 +1,14 @@
-import numpy as np
+import pandas as pd
 import xgboost as xgb
+
 from pyflink.datastream.functions import MapFunction
 
-MODEL_PATH = "/home/ec2-user/Scalable-FraudTxns-Detection/train_dataset_maker/models/xgboost/Version3/v3.json"
+
+MODEL_PATH = (
+    "/home/ec2-user/Scalable-FraudTxns-Detection/"
+    "train_dataset_maker/models/xgboost/Version3/v3.json"
+)
+
 FRAUD_THRESHOLD = 0.93
 
 TYPE_MAP = {
@@ -13,6 +19,33 @@ TYPE_MAP = {
     "TRANSFER": 4
 }
 
+FEATURES = [
+    "type",
+    "amount",
+    "velocity",
+    "avg_amount",
+    "max_amount",
+    "min_amount",
+    "std_amount",
+    "receiver_frequency",
+    "receiver_diversity",
+    "transfer_ratio",
+    "payment_ratio",
+    "cashout_ratio",
+    "debit_ratio",
+    "balance_difference",
+    "receiver_balance_difference",
+    "amount_vs_average",
+    "current_vs_previous",
+    "step",
+    "amount_y",
+    "oldbalanceOrg",
+    "newbalanceOrig",
+    "oldbalanceDest",
+    "newbalanceDest"
+]
+
+
 class FraudModel(MapFunction):
 
     def open(self, runtime_context):
@@ -20,14 +53,14 @@ class FraudModel(MapFunction):
         self.booster.load_model(MODEL_PATH)
 
         print(
-            f"Fraud model loaded. "
-            f"Features: {self.booster.num_features()}, "
-            f"Threshold: {FRAUD_THRESHOLD}"
+            f"Fraud model loaded | "
+            f"Features={self.booster.num_features()} | "
+            f"Threshold={FRAUD_THRESHOLD}"
         )
 
     def map(self, feature_vector):
 
-        model_input = np.array([[
+        model_input = [[
             TYPE_MAP[feature_vector.type],
             feature_vector.amount,
             feature_vector.velocity,
@@ -45,28 +78,26 @@ class FraudModel(MapFunction):
             feature_vector.receiver_balance_difference,
             feature_vector.amount_vs_average,
             feature_vector.current_vs_previous,
-
             feature_vector.step,
-
-            # amount_y == amount_x == feature_vector.amount
             feature_vector.amount,
-
             feature_vector.oldbalanceOrg,
             feature_vector.newbalanceOrig,
             feature_vector.oldbalanceDest,
             feature_vector.newbalanceDest
-        ]], dtype=np.float32)
+        ]]
 
-        dmatrix = xgb.DMatrix(model_input)
+        X = pd.DataFrame(model_input, columns=FEATURES)
 
-        score = float(self.booster.predict(dmatrix)[0])
+        score = float(
+            self.booster.predict(xgb.DMatrix(X))[0]
+        )
 
         is_fraud = score >= FRAUD_THRESHOLD
 
         print(
-            f"TXN {feature_vector.txn_id} | "
+            f"TXN={feature_vector.txn_id} | "
             f"score={score:.6f} | "
-            f"fraud={is_fraud}"
+            f"decision={'FRAUD' if is_fraud else 'NON-FRAUD'}"
         )
 
         return feature_vector.txn_id, score, is_fraud
