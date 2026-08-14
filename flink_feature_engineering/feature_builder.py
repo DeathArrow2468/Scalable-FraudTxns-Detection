@@ -70,7 +70,14 @@ class FeatureBuilder:
 
             amount_vs_average = compute_amount_vs_average(transaction.amount, avg_amount),
 
-            current_vs_previous = compute_amount_vs_previous(transaction.amount, None if last_txn is None else last_txn.amount)
+            current_vs_previous = compute_amount_vs_previous(transaction.amount, None if last_txn is None else last_txn.amount),
+
+            # Raw fields required by XGBoost
+            step=transaction.step,
+            oldbalanceOrg=transaction.oldbalanceOrg,
+            newbalanceOrig=transaction.newbalanceOrig,
+            oldbalanceDest=transaction.oldbalanceDest,
+            newbalanceDest=transaction.newbalanceDest
         )
 
 

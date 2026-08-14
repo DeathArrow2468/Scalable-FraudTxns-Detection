@@ -8,12 +8,14 @@ from flink_feature_engineering.config import INPUT_STREAM, AWS_REGION
 from flink_feature_engineering.parser import parse_transaction
 from flink_feature_engineering.feature_engine import FeatureEngine
 
+from flink_feature_engineering.fraud_model import FraudModel
+
 def main():
     env = StreamExecutionEnvironment.get_execution_environment() # Runtime
 
     # env.add_jars("file:///home/ec2-user/flink-2.3.0/lib/flink-connector-kinesis-5.1.0-1.20.jar"
     #             )
-    env.set_parallelism(1) # env is where everything occurs, (x) x is the number of CPUs you are using
+    env.set_max_parallelism(3) # env is where everything occurs, (x) x is the number of CPUs you are using
     #### It's set to one cause there is only one shard of incomeing data froom Kinesis
 
     consumer = FlinkKinesisConsumer(    # Makes the connection to kinesis
@@ -38,11 +40,14 @@ def main():
     features = (transactions
                 .key_by(lambda txn: txn.nameOrig)   # Allows flink to route a txn to a profile it's like a hashmap's hash
                 .process(FeatureEngine()) # Every tranaction is now sent to Feature Engine where updates, feature vector building etc. happen
+                .set_max_parallelism(3)
                 )
 
     ####### For debugging/training remove in PROD! ###########
-    features.print()
+    #features.print()
     #################################################
+    decisions = features.map(FraudModel()).set_parallelism(1)
+    decisions.print()
 
     # The above is jus the building of pipeline
     env.execute("Real-Time Scalable Fraud Feature Engineering") # Calls actual exection of pipeline

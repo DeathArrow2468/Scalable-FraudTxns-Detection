@@ -58,3 +58,10 @@ class FeatureVector:
     amount_vs_average: float # current amount / avg amount
     current_vs_previous: float # current amount / prev mount
 
+    # Raw transaction fields required by v3.json
+    step: int
+    oldbalanceOrg: float
+    newbalanceOrig: float
+    oldbalanceDest: float
+    newbalanceDest: float
+
