@@ -15,7 +15,7 @@ def main():
 
     # env.add_jars("file:///home/ec2-user/flink-2.3.0/lib/flink-connector-kinesis-5.1.0-1.20.jar"
     #             )
-    env.set_max_parallelism(3) # env is where everything occurs, (x) x is the number of CPUs you are using
+    env.set_parallelism(1) # env is where everything occurs, (x) x is the number of CPUs you are using
     #### It's set to one cause there is only one shard of incomeing data froom Kinesis
 
     consumer = FlinkKinesisConsumer(    # Makes the connection to kinesis
@@ -40,7 +40,7 @@ def main():
     features = (transactions
                 .key_by(lambda txn: txn.nameOrig)   # Allows flink to route a txn to a profile it's like a hashmap's hash
                 .process(FeatureEngine()) # Every tranaction is now sent to Feature Engine where updates, feature vector building etc. happen
-                .set_max_parallelism(3)
+                .set_parallelism(1)
                 )
 
     ####### For debugging/training remove in PROD! ###########
