@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fraud Intelligence Console</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="topbar">
+    <div class="brand">
+      <div class="mark">FI</div>
+      <h1>Fraud Intelligence Console</h1>
+    </div>
+    <div class="header-right">
+      <div class="status">
+        <span class="status-dot" id="statusDot"></span>
+        <span id="statusText">Connecting…</span>
+      </div>
+      <button class="theme-toggle" id="themeToggle" type="button">🌙 Dark</button>
+    </div>
+  </header>
+
+  <div class="kpis">
+    <div class="kpi-card">
+      <div class="kpi-label">Transactions / sec</div>
+      <div class="kpi-value" id="kpiRate">0.0</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Flagged Today</div>
+      <div class="kpi-value flagged-num" id="kpiFlagged">0</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Avg. Score Latency</div>
+      <div class="kpi-value" id="kpiLatency">0 ms</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Total Processed</div>
+      <div class="kpi-value" id="kpiTotal">0</div>
+    </div>
+  </div>
+
+  <main class="layout">
+    <div class="feed-card">
+      <div class="feed-header">
+        <span>Live Transaction Feed</span>
+        <span class="muted">click a flagged row to open its case file</span>
+      </div>
+      <div id="feed">
+        <div class="empty-feed" id="feedEmptyState">Waiting for the first transaction…</div>
+      </div>
+    </div>
+
+    <aside class="case-panel empty" id="casePanel">
+      Select a flagged transaction to view the agent's case file.
+    </aside>
+  </main>
+
+<script src="script.js"></script>
+</body>
+</html>
