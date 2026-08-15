@@ -2,7 +2,7 @@
      CONFIG
      ========================================================================= */
 const DEMO_MODE = false;
-const WS_URL = "wss://8m515nziug.execute-api.ap-south-1.amazonaws.com/prod/";
+const WS_URL = "wss://m/prod/";
 
   /* =========================================================================
      STATE
