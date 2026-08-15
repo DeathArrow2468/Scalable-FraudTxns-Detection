@@ -5,8 +5,8 @@ from flink_feature_engineering.config import AWS_REGION
 
 from pyflink.datastream.functions import MapFunction
 
-FRAUD_SQS = os.environ["FRAUD_SQS"]
-NON_FRAUD_SQS = os.environ["NON_FRAUD_SQS"]
+FRAUD_SQS="https://sqs.ap-south-1.amazonaws.com/134442916393/fraud-txns-rag.fifo"
+NON_FRAUD_SQS="https://sqs.ap-south-1.amazonaws.com/134442916393/normal_txns.fifo"
 AWS_REGION = AWS_REGION
 
 class SQSRouter(MapFunction):
