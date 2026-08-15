@@ -32,12 +32,12 @@ USECOLS = [
 
 # ==========================
 
-s3 = boto3.client("s3", region_name="ap-south-1")
+#s3 = boto3.client("s3", region_name="ap-south-1")
 kinesis = boto3.client("kinesis", region_name="ap-south-1")
 
-print("Downloading dataset from S3...")
-s3.download_file(BUCKET_NAME, CSV_KEY, LOCAL_FILE)
-print("Download complete.\n")
+# print("Downloading dataset from S3...")
+# s3.download_file(BUCKET_NAME, CSV_KEY, LOCAL_FILE)
+# print("Download complete.\n")
 
 print(f"Streaming up to {ROWS_TO_SEND} rows in chunks of {CHUNK_SIZE}...\n")
 

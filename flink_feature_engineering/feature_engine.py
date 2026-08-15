@@ -6,7 +6,7 @@ from pyflink.common.typeinfo import Types
 
 from flink_feature_engineering.user_profile import UserProfile
 from flink_feature_engineering.feature_builder import FeatureBuilder
-from train_dataset_maker.jsonl_writer import JsonlWriter
+#from train_dataset_maker.jsonl_writer import JsonlWriter
 
 
 class FeatureEngine(KeyedProcessFunction):
@@ -19,7 +19,7 @@ class FeatureEngine(KeyedProcessFunction):
         )
 
         self.profile_state = runtime_context.get_state(descriptor)
-        self.writer = JsonlWriter("training_vectors.jsonl")
+        #self.writer = JsonlWriter("training_vectors.jsonl")
 
         print("FeatureEngine opened.")
 
@@ -42,8 +42,8 @@ class FeatureEngine(KeyedProcessFunction):
             print("Building feature vector...")
             feature_vector = FeatureBuilder.build(profile, transaction)
 
-            print("Writing feature vector...")
-            self.writer.write(feature_vector)
+            #print("Writing feature vector...")
+            #self.writer.write(feature_vector)
 
             print("Updating Flink state...")
             self.profile_state.update(profile)
@@ -57,4 +57,4 @@ class FeatureEngine(KeyedProcessFunction):
 
     def close(self):
         print("Closing FeatureEngine...")
-        self.writer.close()
+        #self.writer.close()

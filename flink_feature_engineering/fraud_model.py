@@ -49,7 +49,9 @@ FEATURES = [
 class FraudModel(MapFunction):
 
     def open(self, runtime_context):
+
         self.booster = xgb.Booster()
+
         self.booster.load_model(MODEL_PATH)
 
         print(
@@ -60,39 +62,57 @@ class FraudModel(MapFunction):
 
     def map(self, feature_vector):
 
-        model_input = [[
-            TYPE_MAP[feature_vector.type],
-            feature_vector.amount,
-            feature_vector.velocity,
-            feature_vector.avg_amount,
-            feature_vector.max_amount,
-            feature_vector.min_amount,
-            feature_vector.std_amount,
-            feature_vector.receiver_frequency,
-            feature_vector.receiver_diversity,
-            feature_vector.transfer_ratio,
-            feature_vector.payment_ratio,
-            feature_vector.cashout_ratio,
-            feature_vector.debit_ratio,
-            feature_vector.balance_difference,
-            feature_vector.receiver_balance_difference,
-            feature_vector.amount_vs_average,
-            feature_vector.current_vs_previous,
-            feature_vector.step,
-            feature_vector.amount,
-            feature_vector.oldbalanceOrg,
-            feature_vector.newbalanceOrig,
-            feature_vector.oldbalanceDest,
-            feature_vector.newbalanceDest
-        ]]
+        features = {
+            "type": TYPE_MAP[feature_vector.type],
+            "amount": feature_vector.amount,
+            "velocity": feature_vector.velocity,
+            "avg_amount": feature_vector.avg_amount,
+            "max_amount": feature_vector.max_amount,
+            "min_amount": feature_vector.min_amount,
+            "std_amount": feature_vector.std_amount,
+            "receiver_frequency": feature_vector.receiver_frequency,
+            "receiver_diversity": feature_vector.receiver_diversity,
+            "transfer_ratio": feature_vector.transfer_ratio,
+            "payment_ratio": feature_vector.payment_ratio,
+            "cashout_ratio": feature_vector.cashout_ratio,
+            "debit_ratio": feature_vector.debit_ratio,
+            "balance_difference": feature_vector.balance_difference,
+            "receiver_balance_difference": feature_vector.receiver_balance_difference,
+            "amount_vs_average": feature_vector.amount_vs_average,
+            "current_vs_previous": feature_vector.current_vs_previous,
 
-        X = pd.DataFrame(model_input, columns=FEATURES)
+            "step": feature_vector.step,
+
+            # The training dataset contained both amount
+            # and amount_y. They represent the same transaction amount.
+            "amount_y": feature_vector.amount,
+
+            "oldbalanceOrg": feature_vector.oldbalanceOrg,
+            "newbalanceOrig": feature_vector.newbalanceOrig,
+            "oldbalanceDest": feature_vector.oldbalanceDest,
+            "newbalanceDest": feature_vector.newbalanceDest
+        }
+
+        X = pd.DataFrame(
+            [[features[name] for name in FEATURES]],
+            columns=FEATURES
+        )
 
         score = float(
-            self.booster.predict(xgb.DMatrix(X))[0]
+            self.booster.predict(
+                xgb.DMatrix(X)
+            )[0]
         )
 
         is_fraud = score >= FRAUD_THRESHOLD
+
+        result = {
+            "txn_id": feature_vector.txn_id,
+            "event_number": feature_vector.event_number,
+            "score": score,
+            "isFraud": is_fraud,
+            "features": features
+        }
 
         print(
             f"TXN={feature_vector.txn_id} | "
@@ -100,4 +120,4 @@ class FraudModel(MapFunction):
             f"decision={'FRAUD' if is_fraud else 'NON-FRAUD'}"
         )
 
-        return feature_vector, score, is_fraud
+        return result

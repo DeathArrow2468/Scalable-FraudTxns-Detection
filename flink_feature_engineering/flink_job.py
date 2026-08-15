@@ -8,6 +8,7 @@ from flink_feature_engineering.config import INPUT_STREAM, AWS_REGION
 from flink_feature_engineering.parser import parse_transaction
 from flink_feature_engineering.feature_engine import FeatureEngine
 from flink_feature_engineering.fraud_model import FraudModel
+from flink_feature_engineering.sqs_router import SQSRouter
 
 def main():
     env = StreamExecutionEnvironment.get_execution_environment() # Runtime
@@ -47,6 +48,11 @@ def main():
     #################################################
     decisions = features.map(FraudModel()).set_parallelism(1)
     decisions.print()
+
+    routed = (decisions.map(SQSRouter()).set_parallelism(1))
+
+    ######### For testing #########
+    routed.print()
 
     # The above is jus the building of pipeline
     env.execute("Real-Time Scalable Fraud Feature Engineering") # Calls actual exection of pipeline
