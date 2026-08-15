@@ -100,4 +100,4 @@ class FraudModel(MapFunction):
             f"decision={'FRAUD' if is_fraud else 'NON-FRAUD'}"
         )
 
-        return feature_vector.txn_id, score, is_fraud
+        return feature_vector, score, is_fraud

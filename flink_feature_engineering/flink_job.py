@@ -7,7 +7,6 @@ from pyflink.common.typeinfo import Types
 from flink_feature_engineering.config import INPUT_STREAM, AWS_REGION
 from flink_feature_engineering.parser import parse_transaction
 from flink_feature_engineering.feature_engine import FeatureEngine
-
 from flink_feature_engineering.fraud_model import FraudModel
 
 def main():
