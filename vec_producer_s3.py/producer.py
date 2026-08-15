@@ -15,8 +15,8 @@ LOCAL_FILE = "paysim_shuffled.csv"
 
 STREAM_NAME = "fraud-txns"
 
-ROWS_TO_SEND = 5
-CHUNK_SIZE = 1          # rows read into memory at a time (t3.micro-safe)
+ROWS_TO_SEND = 5000
+CHUNK_SIZE = 10          # rows read into memory at a time (t3.micro-safe)
 
 # Delay between records (20 ms = 50 txn/sec)
 DELAY = 0.02

@@ -25,33 +25,49 @@ const WS_URL = "wss://8m515nziug.execute-api.ap-south-1.amazonaws.com/prod/";
         }
 
         const data = message.data || {};
+        const features = data.features || {};
         const rag = data.rag || {};
 
         return {
-            id: data.transactionId || data.txn_id || data.id || "UNKNOWN",
+            id:
+                data.transactionId ||
+                data.txn_id ||
+                data.id ||
+                "UNKNOWN",
 
-            timestamp: data.timestamp || Date.now(),
+            timestamp:
+                data.timestamp ||
+                Date.now(),
 
-            amount: Number(data.amount) || 0,
+            // Flink puts the complete ML vector inside features
+            amount:
+                Number(data.amount ?? features.amount) || 0,
 
-            status: message.isFraud ? "flagged" : "cleared",
+            status:
+                (data.isFraud ?? message.isFraud)
+                    ? "flagged"
+                    : "cleared",
 
             latencyMs:
                 typeof data.latencyMs === "number"
                     ? data.latencyMs
                     : null,
 
-            findings: Array.isArray(rag.findings)
-                ? rag.findings
-                : [],
+            findings:
+                Array.isArray(rag.findings)
+                    ? rag.findings
+                    : [],
 
-            citations: Array.isArray(rag.citations)
-                ? rag.citations
-                : [],
+            citations:
+                Array.isArray(rag.citations)
+                    ? rag.citations
+                    : [],
 
-            recommendation: rag.recommendation || null,
+            recommendation:
+                rag.recommendation || null,
 
-            riskAssessment: rag.riskAssessment || null
+            riskAssessment:
+                rag.riskAssessment || null
         };
 
     } catch (err) {
