@@ -41,20 +41,71 @@
     </div>
   </div>
 
-  <main class="layout">
+    <!-- ================================================================
+       TABS
+       ================================================================ -->
+  <div class="tabs">
+    <button class="tab active" id="liveTab" type="button">
+      Live Transaction Feed
+    </button>
+
+    <button class="tab" id="fraudTab" type="button">
+      Fraud Transactions
+    </button>
+  </div>
+
+
+  <!-- ================================================================
+       LIVE TRANSACTION VIEW
+       ================================================================ -->
+  <main class="layout" id="liveView">
+
     <div class="feed-card">
       <div class="feed-header">
         <span>Live Transaction Feed</span>
         <span class="muted">click a flagged row to open its case file</span>
       </div>
+
       <div id="feed">
-        <div class="empty-feed" id="feedEmptyState">Waiting for the first transaction…</div>
+        <div class="empty-feed" id="feedEmptyState">
+          Waiting for the first transaction…
+        </div>
       </div>
     </div>
 
     <aside class="case-panel empty" id="casePanel">
       Select a flagged transaction to view the agent's case file.
     </aside>
+
+  </main>
+
+
+  <!-- ================================================================
+       FRAUD TRANSACTIONS VIEW
+       ================================================================ -->
+  <main class="fraud-view" id="fraudView" style="display: none;">
+
+    <div class="feed-card">
+
+      <div class="feed-header">
+        <span>Fraud Transactions</span>
+        <span class="muted">click a transaction to open its case file</span>
+      </div>
+
+      <div id="fraudFeed">
+
+        <div class="empty-feed" id="fraudEmptyState">
+          No fraudulent transactions detected yet…
+        </div>
+
+      </div>
+
+    </div>
+
+    <aside class="case-panel empty" id="fraudCasePanel">
+      Select a fraudulent transaction to view its case file.
+    </aside>
+
   </main>
 
 <script src="script.js"></script>

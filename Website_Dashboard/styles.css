@@ -399,3 +399,83 @@
     height: 100%;
     background: var(--flag);
   }
+
+  /* =========================================================================
+   TABS
+   ========================================================================= */
+
+.tabs {
+  display: flex;
+  gap: 8px;
+  padding: 20px 28px 0 28px;
+}
+
+.tab {
+  font-family: var(--font-ui);
+  font-size: 13px;
+  font-weight: 600;
+
+  background: var(--surface);
+  color: var(--text-muted);
+
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+
+  padding: 9px 16px;
+
+  cursor: pointer;
+
+  transition:
+    background-color 0.25s ease,
+    color 0.25s ease,
+    border-color 0.25s ease;
+}
+
+.tab:hover {
+  border-color: var(--ink-solid);
+  color: var(--ink);
+}
+
+.tab.active {
+  background: var(--ink-solid);
+  color: #fff;
+  border-color: var(--ink-solid);
+}
+
+
+/* =========================================================================
+   FRAUD VIEW
+   ========================================================================= */
+
+.fraud-view {
+  display: grid;
+  grid-template-columns: 1fr 400px;
+  gap: 20px;
+  padding: 20px 28px 28px 28px;
+  align-items: start;
+}
+
+#fraudFeed {
+  max-height: 640px;
+  overflow-y: auto;
+}
+
+
+/* Fraud rows use the same existing transaction styling */
+
+#fraudFeed .txn-row {
+  cursor: pointer;
+}
+
+#fraudFeed .txn-row:hover {
+  background: var(--flag-bg-hover);
+}
+
+
+/* Responsive */
+
+@media (max-width: 960px) {
+  .fraud-view {
+    grid-template-columns: 1fr;
+  }
+}

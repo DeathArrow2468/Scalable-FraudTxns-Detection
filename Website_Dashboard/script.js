@@ -11,8 +11,9 @@ const WS_URL = "wss://8m515nziug.execute-api.ap-south-1.amazonaws.com/prod/";
     total: 0,
     flaggedToday: 0,
     latencySamples: [],
-    recentTimestamps: [], // for the transactions/sec rolling rate
-    casesById: {}
+    recentTimestamps: [],
+    casesById: {},
+    fraudHistory: []
   };
 
   function parseIncomingEvent(raw) {
@@ -122,17 +123,33 @@ const WS_URL = "wss://8m515nziug.execute-api.ap-south-1.amazonaws.com/prod/";
   /* =========================================================================
      RENDERING
      ========================================================================= */
-  function handleTransaction(txn) {
+function handleTransaction(txn) {
+
     state.total += 1;
+
     state.recentTimestamps.push(Date.now());
-    if (typeof txn.latencyMs === "number") state.latencySamples.push(txn.latencyMs);
-    if (txn.status === "flagged") {
-      state.flaggedToday += 1;
-      state.casesById[txn.id] = txn;
+
+    if (typeof txn.latencyMs === "number") {
+        state.latencySamples.push(txn.latencyMs);
     }
+
+    if (txn.status === "flagged") {
+
+        state.flaggedToday += 1;
+
+        // Keep permanent fraud history for this browser session
+        state.casesById[txn.id] = txn;
+        state.fraudHistory.push(txn);
+
+        // Add it to the fraud tab
+        renderFraudRow(txn);
+    }
+
+    // Live feed remains bounded
     renderRow(txn);
+
     updateKPIs();
-  }
+}
 
   function renderRow(txn) {
     const feed = document.getElementById("feed");
@@ -163,6 +180,113 @@ const WS_URL = "wss://8m515nziug.execute-api.ap-south-1.amazonaws.com/prod/";
       feed.removeChild(feed.lastChild);
     }
   }
+
+  function renderFraudRow(txn) {
+
+    const feed = document.getElementById("fraudFeed");
+    const emptyState = document.getElementById("fraudEmptyState");
+
+    if (emptyState) {
+        emptyState.remove();
+    }
+
+    const row = document.createElement("div");
+
+    row.className = "txn-row flagged";
+
+    const time = new Date(txn.timestamp || Date.now());
+
+    const timeLabel = time.toLocaleTimeString([], {
+        hour12: false
+    });
+
+    row.innerHTML = `
+        <span class="txn-id">
+            ${escapeHtml(txn.id)}
+        </span>
+
+        <span class="txn-time">
+            ${timeLabel}
+        </span>
+
+        <span class="txn-amount">
+            ₹${formatAmount(txn.amount)}
+        </span>
+
+        <span class="badge flagged">
+            flagged
+        </span>
+    `;
+
+    row.addEventListener("click", () => {
+        renderCaseFile(txn);
+        renderFraudCaseFile(txn);
+    });
+
+    // Newest fraud transaction at the top
+    feed.insertBefore(row, feed.firstChild);
+}
+
+  function renderFraudCaseFile(txn) {
+
+    const panel = document.getElementById("fraudCasePanel");
+
+    panel.classList.remove("empty");
+
+    const findings = (txn.findings || [])
+        .map(f => `<li>${escapeHtml(f)}</li>`)
+        .join("");
+
+    const citations = (txn.citations || [])
+        .map(c => `<li>${escapeHtml(c)}</li>`)
+        .join("");
+
+    panel.innerHTML = `
+        <div class="case-header">
+
+            <div>
+
+                <span class="case-tag">
+                    FLAGGED
+                </span>
+
+                <div class="case-id">
+                    ${escapeHtml(txn.id)}
+                </div>
+
+            </div>
+
+            <div class="case-amount">
+                ₹${formatAmount(txn.amount)}
+            </div>
+
+        </div>
+
+
+        <div class="case-section-title">
+            Agent Findings
+        </div>
+
+        <ol class="findings-list">
+            ${
+                findings ||
+                "<li>No findings provided.</li>"
+            }
+        </ol>
+
+
+        <div class="case-section-title">
+            Compliance References
+        </div>
+
+        <ul class="citations">
+            ${
+                citations ||
+                "<li>No citations attached.</li>"
+            }
+        </ul>
+    `;
+}
 
   function renderCaseFile(txn) {
     const panel = document.getElementById("casePanel");
@@ -229,6 +353,36 @@ const WS_URL = "wss://8m515nziug.execute-api.ap-south-1.amazonaws.com/prod/";
       themeToggle.textContent = "☀️ Light";
     }
   });
+
+  /* =========================================================================
+   TABS
+   ========================================================================= */
+
+const liveTab = document.getElementById("liveTab");
+const fraudTab = document.getElementById("fraudTab");
+
+const liveView = document.getElementById("liveView");
+const fraudView = document.getElementById("fraudView");
+
+
+liveTab.addEventListener("click", () => {
+
+    liveTab.classList.add("active");
+    fraudTab.classList.remove("active");
+
+    liveView.style.display = "grid";
+    fraudView.style.display = "none";
+});
+
+
+fraudTab.addEventListener("click", () => {
+
+    fraudTab.classList.add("active");
+    liveTab.classList.remove("active");
+
+    liveView.style.display = "none";
+    fraudView.style.display = "grid";
+});
 
   /* =========================================================================
      BOOT
