@@ -219,7 +219,6 @@ function handleTransaction(txn) {
     `;
 
     row.addEventListener("click", () => {
-        renderCaseFile(txn);
         renderFraudCaseFile(txn);
     });
 
