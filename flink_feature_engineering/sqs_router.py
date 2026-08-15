@@ -5,8 +5,8 @@ from flink_feature_engineering.config import AWS_REGION
 
 from pyflink.datastream.functions import MapFunction
 
-FRAUD_SQS="https://sqs.ap-south-1.amazonaws.com/134442916393/fraud-txns-rag.fifo"
-NON_FRAUD_SQS="https://sqs.ap-south-1.amazonaws.com/134442916393/normal_txns.fifo"
+FRAUD_SQS = os.environ["FRAUD_SQS"]
+NON_FRAUD_SQS = os.environ["NON_FRAUD_SQS"]
 AWS_REGION = AWS_REGION
 
 class SQSRouter(MapFunction):
@@ -19,7 +19,10 @@ class SQSRouter(MapFunction):
 
         message = json.dumps(result)
 
-        self.sqs.send_message(QueueUrl=queue_url, MessageBody=message)
+        self.sqs.send_message(QueueUrl=queue_url,
+                              MessageBody=message,
+                              MessageGroupId="Group1", # As we're using a FIFO Queue
+                              MessageDeduplicationId=result["txn_id"]) # As we're using a FIFO Queue
 
         print(f"SQS -> "
             f"{'FRAUD' if result['isFraud'] else 'NON-FRAUD'} | "

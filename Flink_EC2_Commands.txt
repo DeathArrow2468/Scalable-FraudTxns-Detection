@@ -1,0 +1,256 @@
+# ============================================================
+# SCALABLE FRAUD TXN DETECTION
+# FLINK + XGBOOST + SQS
+# AMAZON LINUX 2023 / FLINK 1.20.3 / PYTHON 3.11
+# ============================================================
+
+# ------------------------------------------------------------
+# 1. PROJECT / PYTHON
+# ------------------------------------------------------------
+
+cd ~/Scalable-FraudTxns-Detection
+
+source ~/.venv311/bin/activate
+
+echo
+echo "========== ENVIRONMENT =========="
+echo "Python:"
+python --version
+
+echo
+echo "PyFlink:"
+python -c "from importlib.metadata import version; print(version('apache-flink'))"
+
+echo
+echo "XGBoost:"
+python -c "import xgboost; print(xgboost.__version__)"
+
+echo
+echo "boto3:"
+python -c "import boto3; print(boto3.__version__)"
+
+echo
+echo "Flink:"
+~/flink-1.20.3/bin/flink --version
+
+
+# ------------------------------------------------------------
+# 2. AWS IDENTITY
+# ------------------------------------------------------------
+
+echo
+echo "========== AWS IDENTITY =========="
+
+aws sts get-caller-identity
+
+
+# ------------------------------------------------------------
+# 3. CONFIGURATION
+# ------------------------------------------------------------
+
+export AWS_REGION="ap-south-1"
+
+export FRAUD_SQS_URL="PASTE_FRAUD_SQS_URL_HERE"
+export NON_FRAUD_SQS_URL="PASTE_NON_FRAUD_SQS_URL_HERE"
+
+echo
+echo "========== CONFIG =========="
+echo "AWS_REGION=$AWS_REGION"
+echo "FRAUD_SQS_URL=$FRAUD_SQS_URL"
+echo "NON_FRAUD_SQS_URL=$NON_FRAUD_SQS_URL"
+
+
+# ------------------------------------------------------------
+# 4. CHECK KINESIS STREAM
+# ------------------------------------------------------------
+
+echo
+echo "========== KINESIS =========="
+
+aws kinesis describe-stream-summary \
+    --stream-name fraud-txns \
+    --region "$AWS_REGION"
+
+
+# ------------------------------------------------------------
+# 5. CHECK MODEL
+# ------------------------------------------------------------
+
+echo
+echo "========== MODEL =========="
+
+MODEL_PATH="$HOME/Scalable-FraudTxns-Detection/train_dataset_maker/models/xgboost/Version3/v3.json"
+
+test -f "$MODEL_PATH" \
+    && echo "Model found: $MODEL_PATH" \
+    || { echo "ERROR: Model not found"; exit 1; }
+
+
+# ------------------------------------------------------------
+# 6. CHECK SQS URL VARIABLES
+# ------------------------------------------------------------
+
+if [[ "$FRAUD_SQS_URL" == "PASTE_FRAUD_SQS_URL_HERE" ]]; then
+    echo "ERROR: Set FRAUD_SQS_URL first"
+    exit 1
+fi
+
+if [[ "$NON_FRAUD_SQS_URL" == "PASTE_NON_FRAUD_SQS_URL_HERE" ]]; then
+    echo "ERROR: Set NON_FRAUD_SQS_URL first"
+    exit 1
+fi
+
+
+# ------------------------------------------------------------
+# 7. CHECK PYTHON FILES
+# ------------------------------------------------------------
+
+echo
+echo "========== PYTHON FILES =========="
+
+python -m py_compile \
+    flink_feature_engineering/models.py \
+    flink_feature_engineering/parser.py \
+    flink_feature_engineering/feature_math.py \
+    flink_feature_engineering/feature_builder.py \
+    flink_feature_engineering/user_profile.py \
+    flink_feature_engineering/feature_engine.py \
+    flink_feature_engineering/fraud_model.py \
+    flink_feature_engineering/sqs_router.py \
+    flink_feature_engineering/flink_job.py
+
+if [ $? -ne 0 ]; then
+    echo "ERROR: Python compilation failed"
+    exit 1
+fi
+
+echo "Python compilation successful."
+
+
+# ------------------------------------------------------------
+# 8. TEST PROJECT IMPORTS
+# ------------------------------------------------------------
+
+echo
+echo "========== PROJECT IMPORT =========="
+
+export PYTHONPATH="$PWD:$PYTHONPATH"
+
+python - <<'PY'
+from flink_feature_engineering.config import INPUT_STREAM, AWS_REGION
+from flink_feature_engineering.feature_engine import FeatureEngine
+from flink_feature_engineering.fraud_model import FraudModel
+from flink_feature_engineering.sqs_router import SQSRouter
+
+print("Project imports successful")
+print("Kinesis stream:", INPUT_STREAM)
+print("AWS region:", AWS_REGION)
+PY
+
+
+# ------------------------------------------------------------
+# 9. REBUILD PYTHON DEPENDENCY ZIP
+# ------------------------------------------------------------
+
+echo
+echo "========== BUILD FLINK PYTHON PACKAGE =========="
+
+rm -f flink_python_deps.zip
+
+zip -r flink_python_deps.zip \
+    flink_feature_engineering \
+    train_dataset_maker \
+    -x "*/__pycache__/*" \
+       "*.pyc"
+
+if [ $? -ne 0 ]; then
+    echo "ERROR: ZIP creation failed"
+    exit 1
+fi
+
+echo
+echo "Created:"
+ls -lh flink_python_deps.zip
+
+
+# ------------------------------------------------------------
+# 10. STOP ANY OLD FLINK CLUSTER
+# ------------------------------------------------------------
+
+echo
+echo "========== STOP OLD FLINK =========="
+
+if pgrep -f "flink.*TaskManager" > /dev/null || \
+   pgrep -f "flink.*StandaloneSessionClusterEntrypoint" > /dev/null; then
+
+    ~/flink-1.20.3/bin/stop-cluster.sh || true
+
+    sleep 3
+else
+    echo "No existing Flink cluster detected."
+fi
+
+
+# ------------------------------------------------------------
+# 11. VERIFY NO OLD FLINK PROCESSES
+# ------------------------------------------------------------
+
+echo
+echo "========== FLINK PROCESSES =========="
+
+ps -ef | grep -i flink | grep -v grep || \
+    echo "No Flink processes running."
+
+
+# ------------------------------------------------------------
+# 12. START FLINK CLUSTER
+# ------------------------------------------------------------
+
+echo
+echo "========== START FLINK =========="
+
+~/flink-1.20.3/bin/start-cluster.sh
+
+sleep 5
+
+
+# ------------------------------------------------------------
+# 13. CHECK FLINK PROCESSES
+# ------------------------------------------------------------
+
+echo
+echo "========== RUNNING FLINK =========="
+
+jps
+
+echo
+ps -ef | grep -i flink | grep -v grep
+
+
+# ------------------------------------------------------------
+# 14. SUBMIT JOB
+# ------------------------------------------------------------
+
+echo
+echo "========== SUBMITTING FRAUD DETECTION JOB =========="
+
+~/flink-1.20.3/bin/flink run \
+    --python flink_feature_engineering/flink_job.py \
+    --pyFiles "file://$PWD/flink_python_deps.zip" \
+    --pyclientexec "$HOME/.venv311/bin/python" \
+    --pyexec "$HOME/.venv311/bin/python"
+
+
+# ------------------------------------------------------------
+# 15. FINAL STATUS
+# ------------------------------------------------------------
+
+echo
+echo "========== FLINK JOBS =========="
+
+~/flink-1.20.3/bin/flink list
+
+echo
+echo "======================================================"
+echo "FRAUD DETECTION FLINK JOB SUBMITTED"
+echo "======================================================"
