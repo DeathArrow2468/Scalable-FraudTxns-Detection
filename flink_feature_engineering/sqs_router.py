@@ -19,7 +19,7 @@ class SQSRouter(MapFunction):
 
         message = json.dumps(result)
 
-        self.sqs.send_message(Queue_url=queue_url, MessageBody=message)
+        self.sqs.send_message(QueueUrl=queue_url, MessageBody=message)
 
         print(f"SQS -> "
             f"{'FRAUD' if result['isFraud'] else 'NON-FRAUD'} | "
