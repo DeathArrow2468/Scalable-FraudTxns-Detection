@@ -1,6 +1,7 @@
 <p align="center">
 <img width="600" height="862" alt="image" src="https://github.com/user-attachments/assets/3844ad10-ee32-4911-a18a-67e476281bd8" />
 </p>
+
 # **FraudTxnsPipeline**
 
 Real-time fraud detection with AI-assisted enrichment, built on AWS.
