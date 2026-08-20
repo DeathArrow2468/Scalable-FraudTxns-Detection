@@ -73,7 +73,6 @@ flink/      ingestion, state/feature processing, ML inference, routing
 lambda/     fraud RAG enrichment, normal consumer, WebSocket delivery
 rag/        retrieval, context construction, Bedrock calls
 database/   PostgreSQL schema and integration
-client/     real-time display
 ```
 
 Directory names can change. What matters is that the boundaries between them — events and queues — stay explicit, since that's what keeps each piece independently testable and replaceable.
